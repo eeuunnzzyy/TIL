@@ -1,1 +1,27 @@
+
+220503 TIL_PYTHON_EEUUNNZZYY
+
+-------------------------------------------------------------------------------------------
+python에서 데이터 불러올때 ...으로 데이터 잘리는거 하지마 명령어
 pd.options.display.max_columns = None
+
+
+
+-------------------------------------------------------------------------------------------
+로봇 배제 표준 robots.txt
+
+naver.com/robots.txt
+	User-agent: *      --> *모든 에이전트에 접근 허용
+	Disallow: /        --> 전부다 퍼가지 마라. (이것때문에 구글에 네이버 검색 잘 안되는거임)
+	Allow : /$         --> 네이버 $첫 화면$만 가져가도 돼
+	Allow : /          --> 다 퍼가도 된다
+검색엔진이 여기에서 어딜 검사해도 되는지 알려줌
+
+dacon.io/robots.txt
+	User-agent: *
+	Disallow: /*.php
+	Disallow: /myprofile 
+	Disallow: /myprofile/ 
+	Disallow: /en/myprofile 
+	Disallow: /en/myprofile/ 
+
