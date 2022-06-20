@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+"한화디펜스, ‘지능형 다목적무인차량’ 군 시범운용 : 원격운용 · 자율주행 · 원격무장 등 전술적 운용 테스트",편집부(편집자),한국방위산업진흥회,2021,
+트랙터 자율주행을 위한 경로 추종 제어 알고리즘 개발                      = Development of Path Tracking Control Algorithm for Tractor Autonomous Driving,한동헌 ( Dong Heon Han ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['트랙터', 'tractor', '자율주행', 'autonomous driving', '조향제어', 'steering control', '경로 추종', 'path tracking', '비례제어', 'proportional control']"
+임베디드 보드 환경의 실시간성을 이식한 ROS기반 자율주행 시스템,박병규(Byungkyu Park),한국정보과학회,2021,
+AWS DeepRacer를 활용한 강화학습 기반 자율주행 모델 성능 비교,김조은(Joeun Kim),한국정보과학회,2021,
+자율주행차 운행 데이터 및 서비스 인터페이스를 위한 통합 소프트웨어 플랫폼 설계                      = Design  of  the  Integrated  Software  Platform  for  Autonomous  Vehicle  Operation  Data  and  Service  Interface,"임동민, 김현용, 김곤우",충북대학교 컴퓨터정보통신연구소(Research Institute for Computer and Information Communication Chungbuk National University),2021,"['Autonomous vehicle', 'Driving  data', 'Software  platform', 'Service  interface']"
+수도작 자율 정지 트랙터를 위한 경로 생성기 개발                      = Development of Coverage Path Planner for an Autonomous Paddy Field Puddling and Leveling Tractor,전찬우,한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['자율작업 트랙터', '경로 생성기', '무논 정지작업', '유전알고리즘']"
+협소 공간 대응을 위한 전동 휠체어의 협응 제어기 개발,김대위(D. W. Kim),Korean Society for Precision Engineering,2021,"['Coordinated controller', 'Autonomous driving', 'Electric wheelchair', 'Safety', 'Convenience']"
+조도 변화에 강인한 모니터링 시스템을 위한 디지털 필터에 관한 연구,천봉원(B. W. Cheon),Korean Society for Precision Engineering,2021,"['Illuminance', 'Monitoring', 'Digital filter', 'Image processing']"
+대형버스용 자율주행 네트워크를 위한 개선된 QoS 보장 알고리즘 성능 검증에 관한 연구,권지훈(J. H. Kwon),Korean Society for Precision Engineering,2021,"['Automotive driving', 'Automotive ethernet', 'Heavy vehicle', 'QoS guarantee algorithm', 'Ethernet switch']"
+Ethernet 기반의 차량 내부 네트워크의 시간 동기화 방법에 관한 연구,한준영(J. Y. Han),Korean Society for Precision Engineering,2021,"['Autonomous driving', 'In-vehicle network', 'Automotive network', 'Precision time protocol', 'Ethernet']"
+SLAM 기반 전동 휠체어의 자연사물을 이용한 전동 휠체어의 위치 추종 방법,진욱빈(W. B. Jin),Korean Society for Precision Engineering,2021,"['SLAM', 'Localization', 'Natural landmark', 'YOLO']"
+교통사고 위험 지역을 회피하는 강화학습 기반의 최적 경로 탐색 방법에 관한 연구: 수요응답형 자율주행 차량 중심으로,김영규,한국산업경영시스템학회,2021,
+LiDAR 기반 포인트 클라우드 획득 및 전처리,이옥규,한국방송·미디어공학회,2021,
+Carriage of Volumetric Visual Video based Coding(V3C) 국제표준 기술 동향,남귀중,한국방송·미디어공학회,2021,
+"한화시스템, 자율주행차 시대 앞당길 ‘나이트비전’ 개발 나선다 : ‘주야간 대응이 가능한 열영상 융합형 3D카메라 기술개발’ 우선협상대상자 선정",편집부(편집자),한국방위산업진흥회,2021,
+군집자율주행 기술의 군 수송분야 적용방안 고찰,강양호,한국방위산업진흥회,2021,
+LTE/5G-V2X 자율주행을 위한 서비스/주파수 및 사회 비용 분석,안상훈,한국전자파학회,2021,
+도시부 자율주행차 운행 안전성을 위한 모니터링 지표 개발 : 판교제로시티를 중심으로                      = Monitoring Indicators for Driving Safety of Autonomous Vehicle on Arterial Road : Focused on Pangyo Zero City,임동현,한국도로학회(Korean Society of Road Engineers),2021,"['autonomous vehicle', 'monitoring indicators', 'driving safety', 'road infrastructure']"
+[특별회원 동정] 한국남동발전 - 3년 연속 CDP Climate Change ‘탄소경영특별상’ 수상 외,편집부(편집자),대한기계학회,2021,
+자율주행자동차 등 미래자동차 관점에서 안전기준과 표준의 상생 전략,신재곤(Jae Kon Shin),한국자동차공학회,2021,
+자율 이동 로봇 설계 및 무인 주행 서비스 구현에 관한 연구,이재운,한국ITS학회,2021,"['Autonomous Mobile Robots', 'Unmanned driving Service']"
+야간 보행자 보호를 위한 카메라 센서의 조도 의존성 추정 방법,신성근,한국ITS학회,2021,"['보행자 AEB', '야간 보행자', '사고 회피', '자율주행', 'ODD']"
+자율 주행 크롤러의 직진 주행 성능 향상을 위한 시뮬레이션 기반 경로 추종 제어 알고리즘 개발,손준하(Jun Ha Sohn),대한기계학회,2021,
+타일 격자무늬 추적 자율주행 로봇을 위한 위치 인식과 주행 제어                      = Position recognition and driving control for an autonomous mobile robot that tracks tile grid pattern,구경완,대한전기학회,2021,"['Automotive mobile robot', 'Computer vision', 'Image processing', 'Grid tracking robot']"
+자율 주행 자판기 로봇 설계 및 구현                      = Design and Implementation of Self-Driving Vending Robot,김대건,제어·로봇·시스템학회,2021,"['.', 'self-driving vehicle', 'vending machine', 'path planning', 'deep learning']"
+자동차용 전선의 신뢰성 보증을 위한 시험평가 표준 비교 연구,유영철,한국품질경영학회(The Korean Society for Quality Management),2021,"['자동차용 전선', '신뢰성', '신뢰성 시험평가', '시험평가 표준']"
+EV 통합 열관리 기술 동향 및 미래 Trend,오만주(Manju Oh),한국자동차공학회,2021,
+"한화디펜스 ‘지능형 다목적무인차량’ 군 시범운용 한다 : 원격·자율주행하며 ‘스마트 전투지원’, 항속거리·적재중량 등 동급 최강",편집부(편집자),한국방위산업진흥회,2021,
+[발전공기업 우수협력기업] 트위니 : 자율주행 로봇 서비스 선도,편집부(편집자),전력문화사,2021,
+자율 주행 환경의 차량 제어권 전환 상황 모델 제안 -주행 과업 전환과 연관된 선행 연구 고찰을 기반으로-,변영준(Youngjun Byun),한국디자인학회,2021,"['Autonomous Driving', 'Non-Driving Related Task', 'Driving Task Take Over', 'Interface', 'UX Design', '자율 주행', '비 주행 관련 과업', '제어권 전환', '인터페이스', '사용자 경험 디자인']"
+고속도로 자율주행자동차 전용차로 기준설정에 관한 연구,김범일,서울대학교 환경대학원,2021,
+[정책동향] 도로 준공 시 자율주행차 위한 정밀도로지도 조성 - 11일부터 정밀도로지도 신속갱신체계 제도 행정예고 -,편집부(편집자),대한교통학회,2021,
+[정책동향] 자율주행 서비스 본격 시행,편집부(편집자),대한교통학회,2021,
+차량형 로봇 플랫폼을 이용한 농기계의 상위 제어기 평가 방법 개발                      = Validation of High-Level Controller for Agricultural Vehicles Using a Autonomous Mobility Platform,윤창호 ( Changho Yun ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['자율주행', '상위 제어기', '프로토타입 테스트', '경로생성 및 추종', '인터페이스']"
+강화학습 기반의 실시간 주행환경 대응 전방 주시거리 생성기 기초연구                      = A Basic Study on the Look-ahead Distance Generator for Real-Time Driving Environment Based on Reinforcement Learning,박승진 ( Seung-jin Park ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['자율주행 트랙터', '강화학습', '경로 추종', '시뮬레이션', 'Deep Q-network', 'DQN']"
+위치 및 절대 방향각 데이터 출력주기 향상을 통한 자율주행 이앙기의 직진 성능 개선 기초 연구                      = Study on Improving Tracking Performance of Autonomous Rice Transplanter with Higher Frequency of Positional Data,윤창호 ( Changho Yun ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['자율주행 이앙기', 'GNSS', 'IMU', '칼만 필터']"
+자율주행 이동체를 위한 분석 시스템 구현 및 최적화,김소영(Soyoung Kim),한국정보과학회,2021,
+카메라 성능 저하 시를 고려한 LiDAR/V2V 센서 퓨전 기반 객체 위치추정 기법,강민수,한국ITS학회,2021,"['자율주행차량', 'LiDAR', 'V2V', '센서 퓨전']"
+실외 환경에서 방역임무수행을 위한 자율주행로봇 비주얼 SLAM 시스템,이창식(Changsik Lee),대한전기학회,2021,
+수출입 자율주행차 선박하역 자동화시스템의 경제적 타당성 분석에 관한 연구,노홍승,한국ITS학회,2021,
+자율주행 차량의 기능 평가 방안 및 평가 시나리오 설계 방법,이명수(Myung-su Lee),한국자동차공학회,2021,"['Autonomous vehicle(자율주행자동차)', 'Advanced Driver Assist System(첨단 운전자 지원 시스템)', 'Evaluation scenario(평가 시나리오)', 'Safety verification(안전성 검증)', 'Operational Design Domain(운영설계영역)', 'Simulation(시뮬레이션)']"
+경기도 무인이동체 정책사업 특성분석과 시사점                      = Analysis of Characteristics and Implications of Policy Projects for Unmanned Vehicles in Gyeonggi-do,김명진 ( Myung Jin Kim ),국토지리학회(구 한국지리교육학회),2021,"['무인이동체 산업', '정책사업', '특성분석', '경기도', 'unmanned vehicle industry', 'policy projects', 'characteristic analysis', 'Gyeonggi']"
+자율주행차량 수집정보를 활용한 로컬신호운영 전략 개발,김원호,한국ITS학회,2021,"['자율주행', '자율주행 수집정보', '신호제어시스템', '신호운영 전략']"
+"이동 장애물을 고려한 DQN 기반의 Mapless Navigation 및 학습 시간 단축 알고리즘                      = Mapless Navigation Based on DQN Considering Moving Obstacles, and Training Time Reduction Algorithm",윤범진,한국정보통신학회,2021,"['Reinforcement neural network', 'DQN', 'Mobile robot', 'Autonomous driving', 'Obstacle', '강화학습', '딥러닝', '모바일 로봇', '자율주행', '장애물']"
+기술 특성에 따른 자율주행 진영의 구분 : 현재와 미래,함승우,한국도로학회,2021,
+ADAS 데이터 기반 자율주행자동차 모빌리티 서비스의 개발과 평가,정대한,대한교통학회,2021,
+인프라 탐지정보를 활용한 자율협력주행버스 적정주행속도 제공에 관한 연구,김사리,대한교통학회,2021,
+딥러닝 기반 신호등 인식 시스템에 대한 특수 신호등의 영향 평가                      = Impacts of Special Traffic Lights on Deep Learning Based Traffic Light Recognition Systems,김형석,한국통신학회,2021,"['Traffic light recognition', 'Deep learning', 'Object detection', 'Image classification', 'Autonomous driving']"
+장애물 회피 판단 및 경로 생성 알고리즘 개발,변예림,한국ITS학회,2021,"['경로 생성', '자율 주행 자동차', '장애물 회피', 'path generation', 'autonomous vehicle', 'obstacle avoidance']"
+자율주행시대를 대비한 도로 디지털포메이션 전략,전장우(Jeon jangwoo),대한국토·도시계획학회,2021,

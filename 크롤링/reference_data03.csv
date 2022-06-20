@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+엣지-클라우드 연계 자율주행 플랫폼 기반 동적 운행환경의 시각화 구조 설계를 위한 개발 환경 구축,김태형(Kim Tae-Hyeong),한국통신학회,2021,
+자율주행 기술 기반 모빌리티 서비스 공간에 관한 연구 -공간 디자인을 중심으로-                      = Research on Mobile Service Spaces Based on Autonomous Driving Technology -centered on spatial design-,심소이 ( Shen Xiaoyi ),한국기초조형학회(Korean Society of Basic Design & Art),2021,"['자율주행 기술', '모빌리티 서비스 공간', '공간 특징', 'Z세대', 'autonomous driving technology', 'mobile service space', 'spatial characteristics', 'generation Z']"
+모델 기반 이미지 디-스노잉 알고리즘 개발                      = Model-based image de-snowing algorithm development,전현용,육군사관학교 화랑대연구소,2021,"['De-snowing', 'Model-driven', 'Optical flow', 'Hampel', '디-스노잉', '모델 기반', '옵티컬 플로우', '햄펄', '최적화']"
+다채널 V2X 를 위한 스테레오 카메라-라이다 센서 융합을 이용한 물체 탐지 인공지능 시스템,최지동(Choi Ji Dong),한국통신학회,2021,
+TORCS 환경에서 강화 학습을 활용한 자동차 제어에 관한 연구,남지원(Zhiyuan Nan),한국통신학회,2021,
+[교통 관련 보도자료 중계] 보도자료를 통해 본 주요 교통 뉴스,김동준,한국교통연구원(KOTI),2021,
+내인성 자기치유 기능을 갖는 자동차 내장부품 적용 스킨 개발,김광섭,한국고분자학회,2021,
+Lv. 4 자율주행 대응 교통안전 인프라 기술 개발,명묘희,한국도로학회,2021,
+IPA 및 FGI 분석을 통한 자율주행차량 핸디캡과 발생원인 분석                      = Analysis on Handicaps of Automated Vehicle and Their Causes using IPA and FGI,전현명,한국ITS학회,2021,"['Automated driving', 'Handicaps of Automated Driving', 'IPA', 'FGI', '자율주행', '자율주행 핸디캡', '중요도-만족도 분석', '포커스 그룹인터뷰']"
+신경망을 이용한 BLE의 RSSI 예측 기법,염성관(Sungkwan Youm),한국정보통신학회,2021,"['Indoor Localization', 'Beacon', 'BLE', 'RSSI']"
+이종 자율주행 플랫폼 기반 주행환경 데이터 수집 규격의 설계를 위한 개발 환경 구축,김태형(Kim Tae-Hyeong),한국통신학회,2021,
+4G 무선이동통신망을 이용한 교통신호상태정보의 실시간 제공에 관한 연구,고정호,한국통신학회,2021,"['자율협력주행', '자율주행차', '신호등 인식', '교통신호제어기', '교통신호상태 정보', 'Cooperative Automated Driving', 'Autonomous Vehicle', 'Traffic Light Recognition', 'Traffic Signal Controller', 'Traffic Signal Status Information']"
+GPS 사용 불가 환경에서 C-V2x Mode 3 내 Group Leader 선정으로 Mode 4 User 의 측위 오차 보정 방안,김기형(Kihyoung Kim),한국통신학회,2021,
+자율주행 관련 국내 법규 및 규제 대응 서비스 시나리오 검증 기술,김경원(Kyungwon Kim),한국통신학회,2021,
+자율주행 성능평가를 위한 V2V 기반 운영설계영역 연구,이명수(Myungsu Lee),한국통신학회,2021,
+엣지 기반 자율주행 기능의 Fall back MRC에 따른 운영권 SW 안전성 및 대응방안 검증 기술,김봉섭(Bongsuob Kim),한국통신학회,2021,
+스마트 팩토리를 위한 데이터 중심 미들웨어 분석,김형진(Hyeong-Jin Kim),한국통신학회,2021,
+DSRC/C-V2X 기반 차량간 협업 인식에 관한 연구,정법권(BeopGwon Jung),한국통신학회,2021,
+자율주행을 위한 3 차원 물체 검출 및 추적 통합 기술,고준호(Junho Koh),한국통신학회,2021,
+차량네트워크에서 차량의 이동성을 예측하는 방법,강동호(Dongho Kang),한국통신학회,2021,
+현실-가상정보 융합형 자율주행 시뮬레이션 SW 기술,이선영(Seonyoung Lee),한국통신학회,2021,
+강우 효과를 고려한 라이다 센서 시뮬레이션,박태연(Taeyeon Park),한국통신학회,2021,
+디지털 트윈 구현을 위한 비정형 주행환경 기반 실도로 자율주행 운영설계영역 연구,이윤화(Lee Yun Hwa),한국통신학회,2021,
+PPO기반 자율주행차량의 효율적이고 안전한 차선 변경 정책 연구,이동수(Dongsu Lee),한국통신학회,2021,
+시민 대상의 일반도로 자율주행 셔틀 서비스 실증 시나리오 개발에 관한 연구,현승화(Hyun Seunghwa),한국통신학회,2021,
+Connected type 분리형 플랫폼 상에서 차량과 신호등 간의 실시간 정보공유 시스템 구현,지유석(Yu Seok Ji),한국통신학회,2021,
+일반 주행데이터 기반 자동차전용도로에서의 자율주행시스템의 주행차로 및 차간거리 유지 성능평가 기준 도출에 관한 연구,박지혁(Jihyuk Park),한국통신학회,2021,
+2차원 prime code를 이용한 동시 송출 라이다에 관한 연구,엄정숙(Jeongsook Eom),한국통신학회,2021,
+2차원 prime code를 이용한 동시 송출 라이다의 상호 간섭 제거에 관한 연구,김건정(Gunzung Kim),한국통신학회,2021,
+비정형 환경 이면도로 자율주행을 위한 정밀도로지도의 벡터 데이터 활용에 관한 연구,김태형(Kim Tae-Hyeong),한국통신학회,2021,
+돌발상황 시 현장 도로 시설물 및 차량 통제를 위한 교통경찰용 단말기 개발에 관한 연구,박지혁(Ji-Hyuk Park),한국통신학회,2021,
+방열 복합소재가 적용된 자동차 주행기록장치의 열전달 특성에 관한 연구,오미혜(Meehye Oh),한국자동차공학회,2021,"['Autonomous vehicles(자율주행자동차)', 'Driving information recording device(주행기록장치)', 'Thermal conductivity(열전도도)', 'Polymer composite(고분자복합소재)', 'Injection molding(압출성형)']"
+멀티센서를 활용한 자율주행 자동차의 장애물 인식 및 예측 방법에 대한 연구,박창규(Changgue Park),대한전자공학회,2021,
+자율주행 경로예측 알고리즘의 RSS 기반 사고 안전도 평가 방안 연구,김희중(Heejung),한국자동차공학회,2021,"['Trajectory Prediction(경로예측)', 'Responsibility-Sensitive Safety(RSS)', 'Probably Approximately Correct(PAC)', 'Autonomous Driving(자율주행)', 'Safety Assessment(안전도 평가)', 'Risk Assessment(위험도 평가)']"
+차량용 회전식 다채널 라이다의 정밀 시뮬레이터 개발과 검증,"이규석(Lee, Gyu Seok)",대한공간정보학회(THE KOREAN SOCIETY FOR GEOSPATIAL INFORMATION SYSTEM),2021,"['라이다 시뮬레이션', '라이다 센서 모델링', '기하 모델', '복사 모델', 'LIDAR Simulation', 'LIDAR Sensor Modeling', 'Geometric Model', 'Radiometric Model']"
+스마트 CCTV 인공지능 자율주행 방범 서비스                      = Smart CCTV Artificial Intelligence Self-driving Security Service,김준형 ( Jun-hyeong Kim ),한국정보처리학회,2021,
+지능형 휠체어 개발을 위한 자율주행 센서시스템 개발,김용철(Y. C. Kim),Korean Society for Precision Engineering,2021,"['Autonomous driving', 'Intelligent wheelchair', 'Wheelchair', '2D LiDAR', 'RGBD']"
+중국 자율주행차 능력평가 표준(T/CMAX) 기반 K-City 비교 분석을 통한 전략 수립에 관한 연구,이상현,대한교통학회,2021,
+라이다(LiDAR)는 자율주행을 위한 필수 기술인가?,임은정,이화여자대학교 스크랜튼대학 스크랜튼학부,2021,
+전방충돌경보(FCW)의 교통안전 증진효과 추정                      = Estimation of Traffic Safety Improvement Effect of Forward Collision Warning (FCW),김형규,한국ITS학회,2021,"['ADAS', 'FCW', 'Driving Simulation', 'Reaction Time', 'Estimation of Effect', 'ADAS', 'FCW', '주행시뮬레이션', '인지반응시간', '효과추정']"
+"이커머스 시장 및 물류유통산업 동향 분석 : 중국, 미국, 한국 시장 비교 분석을 중심으로",조연진,한국국제경영관리학회,2021,"['이커머스시장', '물류유통산업', '비교분석 연구', 'E-commerce market', 'Logistics and distribution industries', 'Comparative analysis']"
+"K-9자주포의 자율주행 및 자주포 무인화 기술의 타당성 검토                      = A Feasibility Study of Autonomous Driving and Unmanned Technology of Self-Propelled Artillery, K-9",구건우,한국전자통신학회,2021,"['K-9', 'OS']"
+Lv.4+ 자율주행기술을 적용한 교통약자 모빌리티 서비스에 대한 휠체어 이용 장애인의 요구분석: KANO모델 적용                      = Analysis of the Requirements of the Persons with Disabilities Using Wheelchair for the Mobility Support Service of the Transportation Vulnerable by Lv.4+ Autonomous Driving Technology: Application of KANO Model,"도유미(Do, Yu Mi)",한국직업재활학회,2021,"['자율주행', '휠체어 이용 장애인', '모빌리티 서비스', 'Autonomous Vehicles', 'Persons with Disabilities Using Wheelchair', 'Mobility Support Service']"
+물류로봇용 자율주행 전기차 개발,전광우(K. W. Jeon),한국기계가공학회,2021,"['Logistics Robot', 'Autonomous', 'Electric Vehicle', 'Sensor System']"
+자율주행을 위한 동적 객체 인식 방법에 관한 연구                      = A Study on the Motion Object Detection Method for  Autonomous Driving,박승준,한국산업융합학회(The Korean Society of Industrial Application),2021,"['Deep Learning', 'Faster R-CNN', 'Machine Learning', 'Support Vector Machine', 'Object Detection', 'Unmanned Vehicle', 'YOLO']"
+Level4 자율주행자동차 상용화를 위한 2021년 독일 도로교통법 개정과 시사점                      = &#196;nderung des Straßenverkehrsgesetzes 2021 zur Kommerz-ialisierung von selbstfahrenden Fahrzeugen(Stufe 4),"차종진(Cha, Jong-Jin)",4차산업혁명융합법학회,2021,"['자동화주행자동차', '자율주행자동차', '도로교통법', '독일도로교통법', '제4차산업혁명', 'automasiertes Fahrzeug', 'autonomes Fahrezeug', 'Straßenverkehrsgesetz', 'deutsches Straßenverkehrsgesetz', 'Die vierte industrielle Revolution']"
+스마트 모빌리티 실내 공간 디자인 방향에 관한 연구                      = A Study on the Design Direction of Smart Mobility Interior Space,송규호 ( Song Kyuho ),한국공간디자인학회,2021,"['Smart mobility', 'Autonomous driving', 'Smart mobility interior space', '4th industrial revolution', 'Near future automobiles', '스마트 모빌리티', '자율주행', '스마트 모빌리티 실내 공간', '4차산업혁명', '근미래 자동차']"
+ROS 기반의 실내자율 주행 로봇의 자기위치 인식 및 딥러닝에 의한 제어 시스템                      = ROS-based Control System for Localization and Object Identification of Indoor Self-driving Mobile Robot,박동규,대한기계학회,2021,"['로봇 운영 체제', '실내 자율 주행', '무인 운반차', '라이다 센서', '관성 측정 센서', 'Robot Operating System', 'Indoor Self-driving', 'Automated Guided Vehicle', 'LiDAR Sensor', 'Inertial Measurement Unit']"
+K-city 자율주행 경진대회 참가를 위한 자율주행 플랫폼 개발,김태호(Teaho Kim),대한기계학회,2021,"['자율주행(Autonomous driving)', 'ROS(Robot Operating System)', 'SLAM(Simultaneous Localization And Mapping)', '차선 인식(Lane detection)', '물체 인식(Object detection)']"
+자율주행 차량을 이용한 여행 서비스 디자인 ‘Moment’제안,강은빈(Eunbeen Kang),한국디자인학회,2021,"['travel', 'service design', 'autonomous Mobility', 'UX design']"

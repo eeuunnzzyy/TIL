@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+친환경 차동차용 내열 고전압 플랫 케이블 개발,유영철,한국품질경영학회(The Korean Society for Quality Management),2020,"['플랫 케이블', 'Flat Cable', '고전압', 'High Voltage', '내열성', 'Heat resistance']"
+상용차 자율 군집 주행 평가를 위한 하이브리드 V2X 통신 플랫폼 설계                      = Design of Hybrid V2X Communication Platform for Evaluation of Commercial Vehicle Autonomous Driving and Platooning,진성근 ( Seong-keun Jin ),한국항행학회,2020,"['Vehicle to everything', 'Wireless access in vehicular environments', 'Cooperative intelligent transport system', 'Long term evolution', 'Platooning']"
+자율 주행 지원을 위한 도로 시설의 취득 항목 선정 및 DB 구축 방안,박재홍,대한교통학회,2020,
+자율주행 KODAS 데이터의 소개와 활용방안,조국,대한교통학회,2020,
+데이터 기반의 자율주행 생태계 조성,임경일,대한교통학회,2020,
+기하구조에 따른 자율협력주행차량 센서의 성능저하 연구,황보준,대한교통학회,2020,
+Deep Neural Network 기반의 예방적 자율주행시스템 설계 연구: TAAS 데이터를 중심으로,강민희,대한교통학회,2020,
+자율주행 시대를 대비한 긴급 교통 수신호 인식 시스템,곽영태(Young-Tae Kwak),한국컴퓨터정보학회,2020,"['YOLO(You only look once)', '자율주행 자동차(Autonomous Vehicle)', '수신호(Hand Signal)']"
+타이어 변형량의 무선 계측 시스템 구현                      = Implementation of Wireless Measurement System for Tire Deformation,박상수(Sang-Su Park),한국전자통신학회,2020,"['스트레인 게이지 센서', '타이어 변형량', '무선 통신', '자율 주행 자동차', 'Strain Gauge Sensor', 'Tire Deformation', 'Wireless Communication', 'Autonomous Vehicle']"
+"자율주행자동차(Level 2, 3)에서 제어권 전환 시 Convolutional AutoEncoder를 활용한 주행 안정도 정량화와 검증",박진혁,대한산업공학회(The Korean Institute of Industrial Engineers),2020,
+적응적 쌍선형 보간 이미지 피라미드를 이용한 DPM 기반 고속 객체 인식 기법                      = Fast Object Detection with DPM using Adaptive Bilinear Interpolated Image Pyramid,한규동,한국방송∙미디어공학회,2020,"['object detection', 'deformable part models', 'image pyramid', 'bilinear interpolation', '.']"
+4차 산업혁명기술의 감정평가업무 활용과 영향                      = The Utilization and Influence of Fourth Industrial Revolution Technology in Appraisal Work,김선주,한국부동산원,2020,"['Fourth Industrial Revolution technology', 'ANOVA analysis', 'Scheffe test', 'Dunnett T3', '4차 산업혁명기술', 'ANOVA 분석', 'Scheffe 검정', 'Dunnett T3 검정']"
+[교통 관련 보도자료 중계] 보도자료를 통해 본 주요교통뉴스,김동준,한국교통연구원(KOTI),2020,
+도심 커뮤니티부 자율주행셔틀 서비스를 위한 주행 시험평가 방법론 개발 - 세종시 자율주행셔틀 기반구축 사례를 중심으로 -,배솔,대한교통학회,2020,
+인공지능(Artificial Intelligence)과 회사법의 접점 - 인공지능의 활용에 수반되는 회사법적 논점 -                      = Artificial Intelligence and Corporate Law - Implications of Artificial Intelligence for Corporate Law -,최문희,한국상사법학회,2020,"['인공지능', '인공지능이사', '알고리즘', '머신러닝', '딥러닝', '인간이사', '법인 이사', '경영판단법칙', '무인자율경영회사', 'Artificial Intelligence(AI)', 'Robo-directors', 'Algorithms', 'Machine Learning', 'Deep Learning', 'Human-directors', 'Business Judgment Rule', 'Self-Driving Corporation']"
+자율주행 기반 무인운송에 대한 혁신저항요인 연구 : 운송회사를 중심으로,윤희수,한국경영정보학회,2020,"['자율주행 기술', '무인운송', '혁신저항모델', '사용 의도']"
+인공지능 학습을 통한 제한된 센서 융합기반의 헤딩각 추정을 이용한 차량의 후진 자율 주행의 정확도 개선                      = Improving the Autonomous Backward Driving Accuracy of a Vehicle using an AI Learning Algorithm for Heading Angle Estimation with Limited Sensors,권동욱,제어·로봇·시스템학회,2020,"['ADAS', 'backward autonomous driving', 'steering control', 'sensor fusion', 'neural networks', '.']"
+자율주행 차량의 복합측위 모듈 성능 검증 및 평가를 위한 기만 신호 재현 방안에 관한 연구,김성진(Sung-jin Kim),한국자동차공학회,2020,"['Autonomous Vehicle(자율주행 차량)', 'Complex Positioning Module(복합측위 모듈)', 'GPS Deception(GPS 기만)', 'Spoofing(스푸핑)', 'Jamming(재밍)']"
+형사사법 절차에서 인공지능 기술의 활용과 기술경영에 관한 연구                      = A Study on the Utilization of Artificial Intelligence Technology and Technology Management in Criminal Justice Procedures,김태율,한국경영법률학회,2020,"['Artificial Intelligence', 'Algorithms', 'Robotics', 'Criminal legal status', 'Criminal justice', '인공지능', '알고리즘', '로봇법', '형사법적 지위', '형사사법']"
+ROS 기반 실내 자율 주행 AGV 제어 시스템,박동규(Dong Gyu Park),대한기계학회,2020,
+연결형 자동차로 구성된 클라우드 서버를 위한 동적 작업 크기 결정 기법,민홍,한국인터넷방송통신학회,2020,"['Connected cars', 'Cloud server', 'Task size', 'Dynamic scheme', 'Expected execution time']"
+스마트 모빌리티 동향 및 발전방향,경광찬,한국IT서비스학회,2020,
+자동차 기록 정보 분석 기반 데이터 활용 방안                      = Data Utilization Method Based on Automobile Record Information,김창수,차세대컨버전스정보서비스학회,2020,"['Data logger', 'Machine learning', 'Big data', 'Collection of vehicle information', '데이터 로거', '머신러닝', '빅 데이터', '차량 정보 수집']"
+산업 기계의 야지 자율 작업을 위한 인식 기술,이민영,대한기계학회,2020,
+휠체어형 서비스로봇의 ROS 기반 시뮬레이터 개발,당반치엔(Chien Van Dang),한국지능시스템학회,2020,"['로봇 시뮬레이터', '휠체어', '서비스 로봇', '로봇운영체제', '가제보', 'Robot Simulator', 'Wheelchair', 'Service Robot', 'Robot Operating System', 'Gazebo']"
+미래육군의 작전지속능력 향상을 위한 의무지원의 무인체계 적용 방안 연구                      = A Study on the Application of Medical Support Unmanned System to Improve Operational Ability of the Future Army,이창훈,대구과학대학교 국방안보연구소,2020,"['Unmanned systems', 'Medical support', 'Future war', 'Artificial intelligence', 'Cooperation of civil', 'Government', 'Military', '무인체계', '의무지원', '미래전', '인공지능', '민·관 ·군 협업구현']"
+커넥티드카 기술 기반 I2P 통신을 지원하는 CSdVF 시스템 모델의 구현                      = Implementation of CSdVF System model supporting I2P communication based on the Connected Car Technology,황교웅,차세대컨버전스정보서비스학회,2020,"['CSdVF', 'CSiVF', 'CSoVF', 'I2P', 'V2I', 'CMVF 시스템', 'CSdVF', 'CSiVF', 'CSoVF', 'I2P', 'V2I', 'CMVF System']"
+Cellular V2X 시스템을 위한 CNN 기반 채널 추정기법,황재동(Jaedong Hwang),대한전자공학회,2020,"['V2X', 'CNN', 'Channel Estimation', 'C-V2X', 'Sidelink']"
+WAVE-LTE 하이브리드 V2X 통신시스템의 커버리지 테스트                      = Coverage Test of WAVE-LTE Hybrid V2X Communication System,윤상훈,한국항행학회,2020,"['Coverage test', 'Hybrid V2X', 'Intelligent transport system', 'WAVE', 'LTE']"
+자율주행 모빌리티 탑승자의 멀미 예방 및 완화를 위한 효과적인 인터렉션 디자인 연구                      = The Study of Interaction Design for Preventing and Reducing of Carsickness of Passengers in an Autonomous Mobility,김수현,한국디지털정책학회,2020,"['자율주행 모빌리티', '자동차 멀미', '예방', '완화', '인터렉션 디자인', '인터렉션 가이드', 'Autonomous mobility', 'Carsickness', 'Prevention', 'Mitigation', 'Interaction design', 'Interaction guide']"
+자율주행자동차용 3D 라이다의 초기 장착 오차 보정,조해준(Hae Joon Jo),한국지능시스템학회,2020,"['3D LiDAR', '초기 오차 보정', '오일러 각도', '거리 측정', '자율주행자동차', 'Initial Error Calibration', 'Euler Angle', 'Distance Measurement', 'Autonomous Vehicle']"
+인공지능 기반의 비정형 환경 자율주행을 위한 데이터셋에 관한 연구,윤형석(Hyeongseok Yun),한국자동차공학회,2020,"['Autonomous driving(자율주행)', 'Artificial intelligence (인공지능)', 'Atypcial envirionment(비정형 환경)', 'Standardized environment(정형 환경)', 'Dateset(데이터셋)']"
+핫스탬핑 기술을 적용한 자율주행 자동차 회전 시트용 상부판 성형에 관한 연구,권태하(T. H. Kwon),한국기계가공학회,2020,"['Automobile', 'Rotating Seat Upper Plate', 'Hot Stamping', 'Manufacturing']"
+자율주행 자동차의 효과적인 학습을 위한 플랫폼 개발,황성완(S. W. Hwang),한국기계가공학회,2020,"['Autonomous Driving', 'Sensor', 'Education', 'Vehicle Control']"
+자율주행에서 특수 상황에서의 사고 방지를 위한 다중 센서를 이용한 데이터셋 구축 방법,이상용,제어로봇시스템학회,2020,"['Autonomous Driving Dataset', 'LiDAR', 'Fallen Person Detection', 'Object Detection']"
+색상 보정을 위한 CIE1931 색좌표계 변환의 하드웨어 구현,이승민(Seung-min Lee),한국전기전자학회,2020,"['Color Gamut', 'CIE1931', 'Verilog-HDL', 'Hardware implementation', 'Dehaze']"
+자율주행시대에 대응한 경기도 도로정책방향 연구,류시균,경기연구원,2020,"['자율주행자동차', '4차 산업혁명', '도로 유지 · 관리', '자율주행 전용차로/도로', '지방도', 'Connected and Autonomous Vehicles(CAVs)', '4&lt', 'SUP&gt', 'th&lt', '/SUP&gt', 'Industrial Revolution(4IR)', 'C-ITS', 'Road Management', 'Exclusive Lane/Road for Autonomous Vehicles', 'Local Road']"
+교통소외지역 자율주행셔틀 모빌리티 서비스 도입방안: 경기도를 중심으로,서영훈,한국ITS학회,2020,"['교통소외지역', '자율주행', '모빌리티 서비스', 'Gaussian Mixture Model', '경기도']"
+자율주행 자동차 기술 단계 및 사용 상황 별 시트 배치 유형                      = Seating Arrangement of Autonomous Vehicle According to Levels of Driving Automation and Usage Situation,권주영,한국감성과학회(Korean Society for Emotion&Sensibility),2020,"['Autonomous Vehicle', 'Level of driving automation', 'Interior Space', 'Seat Arrangement']"
+자율주행차 사고와 제조물책임 : ADS Entity 등의 제조업자로서의 책임                      = Automated Vehicle Accident and Product Liability : ADS Entity’s Liability as a Product Manufacturer,이중기,한국기업법학회,2020,"['자율주행자동차', '자율주행시스템(ADS)', '제조물책임', '제조상 결함', '설계상 결함', '표시상 결함', 'Automated Vehicle', 'Automated Driving System', 'Product Liability', 'Manufacturing Defect', 'Design Defect', 'Warning Defect']"
+"Nvidia, AI Enterprise Business Platform",한상욱,한국정보통신설비학회,2020,
+트레일러 트럭의 자율주행 및 자율주차 시스템 설계,김영민,제어로봇시스템학회,2020,"['Self-driving system', 'Self-parking system', 'Trailer truck modeling']"
+자율주행 국산셔틀(KAMO) 서비스 검증 및 사용성 평가 연구,예진해(Jin Hae Yae),대한인간공학회,2020,"['Autonomous Shuttle', 'Human Machine Interface', 'Transparent Display', 'Information Service', 'Usability Test']"
+근미래 자율주행 셔틀 버스의 교통수단화 가능성에 대한 탐색적 연구,권영민,대한교통학회,2020,
+골프 카트를 위한 저가형 자율 주행 모듈 개발,박효종,제어로봇시스템학회,2020,"['Self-Driving', 'GPS', 'Pure Pursuit', 'Kalman Filter']"
+자율주행 보조를 위한 RGB-D Camera를 이용한 밭두둑 검출 알고리즘 개발,홍형길(H. G. Hong),한국기계가공학회,2020,"['Electric Vehicle for Agriculture', 'Platform for Harvest', 'Autonomous Steering System']"
+스마트 시티와 교통,김정훈,(사)한국도시계획가협회,2020,
+진공 흡착 메커니즘을 이용한 태양광 패널 청소 로봇의 자율 주행 시스템 설계                      = Autonomous Driving System Design of Solar Panel Cleaning Robot Using Vacuum Adsorption Mechanism,서명인,대한기계학회,2020,"['Solar Panel', 'Vacuum Pads', 'Caterpillar', 'Mobile Robot', 'Autonomous Driving', '태양광 패널', '진공 패드', '캐터필러', '모바일 로봇', '자율 주행']"
+스케일 카 실험 환경을 통한 드리프트 상태에서 자율주행 차량의 경로추종제어기법 개발,이종항,제어로봇시스템학회,2020,"['Autonomous vehicle', 'Drift maneuver control', 'Path tracking control', 'Scale car']"
+횡방향 자율주행 기능 안전을 위한 슬라이딩 모드 관측기 기반 센서 고장 허용 제어 알고리즘 개발,오광석,제어로봇시스템학회,2020,"['Autonomous driving', 'Sensor fault', 'Fault reconstruction', 'Tolerant control', 'Sliding mode observer']"

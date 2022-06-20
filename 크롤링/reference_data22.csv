@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+"차선변경, 장애물 회피 및 경로 추종이 가능한 자율주행 자동차의 주행 판단 및 경로 생성 방법",김윤정(Yunjeong Kim),대한전자공학회,2020,
+비정형 환경에서의 자율주행 성능 평가를 위한 시뮬레이터 연동 인터페이스에 관한 연구,심영보(Youngbo Shim),대한전자공학회,2020,
+자율주행용 멀티 객체 전방위 위험도 분석을 위한 카메라 캘리브레이션,이선영(Seonyoung Lee),대한전자공학회,2020,
+국토지리정보원 정밀도로지도와 OpenDRIVE 데이터 모델 간의 호환성 검토 및 변환 기술개발,이민희(Min-Hee Lee),대한공간정보학회(The Korean Society for Geo-Spatial Information System),2020,
+실세계 정보를 반영한 오픈소스 기반의 자율주행 시뮬레이션 시스템 설계 및 구현,전원희(Won-Hee June),대한공간정보학회(The Korean Society for Geo-Spatial Information System),2020,"['자율주행', '정밀도로지도', '3차원 공간정보', '브이월드', 'OpenDRIVE']"
+TruckMaker 비포장도로 자율주행 기능 검증을 위한 Closed Loop Test용 시뮬레이터 구현,최덕선(TokSon Choe),대한전자공학회,2020,
+[교통 관련 보도자료 중계] 보도자료를 통해 본 주요교통뉴스,김동준,한국교통연구원(KOTI),2020,
+자율주행 시스템 종료 상황에서 차량내 청각 정보 제공 방법론 연구,권영동(Young Dong Kwon),한국자동차공학회,2020,"['Automated Vehicle(자율주행자동차)', 'Auditory information(청각정보)', 'Arrival at destination(목적지 도착)', 'Fallback Ready User(폴백-레디 유저)', 'Fallback Ready User Failure(운전자 실패)', 'Take-over(제어권 전환)']"
+딥러닝 기반 곡선 도로에서의 주변 차량 거동 예측,김태연(Taeyeon Kim),한국자동차공학회,2020,"['Deep Learning(딥러닝)', 'Autonomous Vehicle(자율주행 자동차)', 'Trajectory Prediction(거동 예측)', 'Long Short-Term Memory(장단기 메모리)']"
+AEBS 테스트를 적용한 시뮬레이션 모델 개발에 관한 연구,최용순(Yongsoon Choi),한국자동차공학회,2020,"['Advanced Driver Assistance Systems(첨단 운전보조 시스템)', 'Automous Emergency Braking System(자동긴급제동시스템)', 'K-CITY(한국형자율주행시험도시)', 'PC-CRASH(피씨크래쉬)', 'Time TO Collision(충돌소요시간)']"
+HILS를 이용한 종방향 자율 주행의 개인화를 위한 주행 특성 기반 민감도 도출 및 분석,이혜원(Hyewon Lee),한국자동차공학회,2020,"['Recursive least square(순환 최소 자승)', 'Autonomous driving(자율주행)', 'Personalization(개인화)', 'Sensitivity(민감도)', 'Driving characteristic(주행 특성)', 'Forgetting factor(망각인지)']"
+확률적 위험도 평가가 고려된 자율 주행 차량에서의 지역 경로 계획 전략,김동환(Donghwan Kim),한국자동차공학회,2020,"['Autonomous Driving(자율 주행)', 'Path Planning(경로 계획)', 'Risk Assessment(위험도 평가)', 'Dynamic Object(동적 물체)']"
+주변 차량의 경로와 도로 정보를 이용한 목표 차량의 경로 예측,이호(Ho Lee),한국자동차공학회,2020,"['Deep Learning(딥러닝)', 'Autonomous Driving(자율주행)', 'Trajectory Prediction(경로 예측)', 'High-Definition Map(정밀 지도)', 'Highway Driving(고속도로 주행)']"
+뇌파신호 기반 멀미 상태 판단을 위한 딥러닝 모델 개발,박영훈(Yeong-Hun Park),한국자동차공학회,2020,"['Passenger State Monitoring(탑승자 상태 모니터링)', 'Autonomous Driving(자율 주행)', 'EEG Signal(뇌파)', 'Deep Learning(딥러닝)', 'Motion Sickness(멀미)']"
+LiDAR 기반 V2I를 이용한 자율 주행 자동차의 객체 검출 알고리즘 개선 연구,권순웅(Soonwoong Kwon),한국자동차공학회,2020,"['Autonomous Vehicle(자율 주행 자동차)', 'LiDAR(라이다)', 'Object Detecting(객체 검출)', 'Object Tracking(객체추적)', 'V2I(인프라-차량통신)']"
+자율 주행차량의 항속 유지 시스템의 동적 변수 변경을 통한 차량 거동 변화에 대한 연구,황창대(Hwang Changdae),한국자동차공학회,2020,"['ADAS', 'Auto Cruise', 'Crusing', 'Vehicle', 'Engine', 'Transmission', 'Velocity', 'Autonomous driving']"
+완전 자율주행 자동차의 주거공간으로의 확장에 대한 연구                      = A Study on the Expansion of Fully Autonomous Vehicles into Residential Space,이현욱,한국융합학회,2020,"['완전 자율주행 자동차', '주거공간', '실내공간', '공간 유형', '사용자 경험', 'Fully Autonomous Vehicle', 'Residential Space', 'Interior Space', 'Space Type', 'User Experience']"
+자율 주행 자동차를 위한 노이즈가 제거된 포인트 클라우드 지도와 LiDAR 기반 위치 인식 시스템,김수연(Suyeon Kim),한국자동차공학회,2020,"['Autonomous Vehicle(자율 주행 자동차)', 'Normal Distribution Transform(정규 분포 변환)', 'LiDAR(라이다)', 'Map Matching(맵 매칭)', 'Localization(위치 인식)']"
+Uneven 비용 영역을 고려한 JPS 기반 실시간 경로계획,김선호(Sunho Kim),한국자동차공학회,2020,"['Autonomous vehicle(자율주행 차량)', 'Path planning(경로계획)', 'Mobile robot(모바일 로봇)', 'Jump Point Search(점프포인트서치)', 'Grid map(그리드 맵)']"
+자율주행 영상인식로직 검증 커버리지 확대 위한 합성영상 활용 방법론 및 효과성,추헌정(Heonjeong Chu),한국자동차공학회,2020,"['Autonomous Driving(자율주행)', 'Synthetic Image(합성영상)', 'Object Detection(객체인식)', 'Verification(검증)', 'Feasibility(실행가능성)', 'Virtual Simulation(가상 시뮬레이션)']"
+밀집 주행 상황에서 상호작용을 고려한 차선 합류 의사결정,손상효(Sanghyo Son),한국자동차공학회,2020,"['Autonomous Driving(자율 주행)', 'Partially Observable Monte-Carlo Planning(부분적 관찰가능한 몬테카를로 계획법)', 'Monte-Carlo Tree Search(몬테카를로 트리 서치)', 'Generate Model(생성 모델)', 'Rec urrent Neural Network(순환 신경망)']"
+고레벨 자율주행 구현을 위한 리던던시 아키텍쳐 설계,황우현(Woohyun Hwang),한국자동차공학회,2020,"['Automated Driving System(자동화 주행 시스템)', 'Redundancy Brake(이중화 제동)', 'Fallback mode(비상 모드)', 'Level of Driving Automation(주행 자동화 단계)', 'Back-up Functions(고장 시 기능)', 'Failsafe(고장 안전))']"
+엣지 컴퓨팅 표준화 동향,인민교,한국컴퓨터통신연구회,2020,
+5G와 자율주행차의 융합,양단희(Dan-Hee Yang),한국정보과학회,2020,
+자율주행 자동차에서 DNN 기반 안전 필수 응용의 성능 저하 방지,김도영(Doyoung Kim),대한전자공학회,2020,"['Deep neural network', 'Safety-critical', 'Multi-DNN', 'Priority scheduling', 'Latency']"
+미래 모빌리티 체계 변화 예측 및 서비스 방향 연구                      = A Research on Forecasting Change and Service Direction for the Future Mobility System,권영민,한국ITS학회,2020,"['Future mobility', 'Autonomous vehicle', 'Electric vehicle', 'Mobility sharing', 'Mobility as a Service', '미래 모빌리티', '자율주행자동차', '전기자동차', '공유모빌리티', '통합교통서비스']"
+소형 자율주행로봇의 이종 CNN을 적용한 차선 인식 및 최단 경로 알고리즘,김경모,제어로봇시스템학회,2020,"['Autonomous driving robot', 'Lane recognition', 'Deep-learning', 'LiDAR', 'IMU']"
+공공공간에서 미래의 핵심 첨단 기술과 도시민 활동 간의 상관관계                      = Correlation between Advanced Technology and Urban Activity in Public Space,양은진,대한건축학회(The Architectural Institute of Korea),2020,"['Advanced Technology', 'Public Space', 'Urban Activity', '첨단 기술', '공공공간', '도시민 활동']"
+자율주행 환경에서 이미지 객체 분할을 위한 강화된 DFCN 알고리즘 성능연구                      = A Study on the Performance of Enhanced Deep Fully Convolutional Neural Network Algorithm for Image Object Segmentation in Autonomous Driving Environment,김영광(Yeonggwang Kim),한국스마트미디어학회,2020,"['딥 풀리 컨벌루셔널 네트워크', '객체 분할', '자율주행', '유넷', '도로상황', 'Deep Fully Convolutional Network', 'Object Segmentation', 'Autonomous driving', 'U-net', 'Road Situation']"
+그린 뉴딜과 기후변화대응을 위한 모빌리티 혁명,김광훈(Kwanghoon Kim),한국기술혁신학회,2020,"['기후변화대응', '탄소중립화', '그린 뉴딜', '녹색혁명', '그린 모빌리티', 'Climate Change Response', 'Carbon Neutralization', 'Green New Deal', 'Green Revolution', 'Green Mobility']"
+주행 데이터 기반 차량 NVH 민감도 데이터 분석기법 최신 연구                      = Recent Research of Vehicle NVH Sensitivity Analysis based on Driving Data,송영은(Young E. Song),호서대학교 공업기술연구소,2020,"['NVH', 'Data Analysis', 'Sensitivity Analysis', 'Big Data', 'Driving Data']"
+자율주행차량과 건축의 결합을 위한 고층 구조 시스템 제안 및 설계 적용,박상우,한국공간구조학회,2020,"['Autonomous vehicle', 'Suspended structure', 'Hanging structure', 'Housing type']"
+자율주행자동차 위험 및 대응방안에 대한 고찰                      = A Study on The Dangers and Their Countermeasures of Autonomous Vehicle,정임영,한국콘텐츠학회(The Korea Contents Society),2020,"['Autonomous Vehicle', 'Danger Model', 'Open System', 'Vehicle Security', 'Vehicle Safety', 'Security Threats', '자율주행자동차', '위험 모델', '오픈 시스템', '자동차 보안', '자동차 안전', '보안 위협']"
+자율주행 밭농업로봇의 로터리 경작을 고려한 모델 기반 제어 연구                      = Study on the Model based Control considering Rotary Tillage of Autonomous Driving Agricultural Robot,송하준,한국로봇학회,2020,"['Agricultural Robot', 'Autonomous Control Algorithm', 'Rotary Machine', 'Multibdy Dynamics', 'Co-simulation']"
+규제지체 해소를 위한 유연성 제고방안: 신산업 중심으로                      = Enhancing Regulatory Flexibility to Solve the Pacing Problem in New Emerging Industries,이종한 ( Jonghan Lee ),한국행정연구원,2020,
+AI 커뮤니케이션 브랜딩에 관한 연구-AI 스피커의 브랜드 아이덴티티 구축을 중심으로-                      = A Study on Branding of AI Communication-Focused on Building Brand Identity of AI Speakers-,박보람,사단법인 한국브랜드디자인학회,2020,"['AI 스피커', 'AI 커뮤니케이션', '브랜드 아이덴티티 (BI)', 'AI speaker', 'AI Communication', 'Brand Identity (BI)']"
+딥러닝을 위한 가상 센서 학습 데이터 베이스 구축 및 분석,곽기성(Gisung Gwak),한국자동차공학회,2020,"['Autonomous Vehicle(자율주행 자동차)', 'Deep Learning (심층학습)', 'Driving Simulator(주행 시뮬레이터)', 'Sensor (센서)', 'Data Base (데이터 베이스)']"
+특허기반 LOF를 활용한 기술혁신의 Weak Signal 탐색: 자율주행차를 중심으로                      = Analyzing Weak Signals for Technology Innovation Based on Patent-Based Local Outlier Factor(LOF): A case of Autonomous Vehicle,하소희,한국경영공학회,2020,"['Weak signal', 'Local Outlier Factor', 'Word2vec', 'Patent analysis', 'Technology', 'market']"
+5G 기반 자율 주행 기술의 응용 사례,이동규,한국정보기술학회,2020,
+서울시 자율주행차 주차수요 관리방안,김원호,서울연구원,2020,
+모빌리티 콘셉트 고찰에 의한 모빌리티 디자인 변화 요인 연원의 탐구,구상(Sang Koo),한국디자인학회,2020,"['Mobility Usability', 'Design Change Origin', 'Commute', 'Civil Inattention', '모빌리티 사용성', '디자인 변화 연원', '통근', '시민적 무관심']"
+전기자동차 자율주행 기술동향,이상민(Sang-Min Lee),대한전기학회,2020,
+자율주행자동차의 대중화와 제조물책임법상의 법적쟁점                      = Legal issues under the Product Liability Law for autonomous vehicles,김은빈,한국통상정보학회,2020,"['Autonomous Vehicle', 'Product Liability', 'Product defects', 'the burden of proof.', '자율주행자동차', '제조물책임법', '제조물 결함', '입증책임']"
+자율주행자동차 수용 및 구매의도의 영향요인에 관한 연구                      = Influencing Factors on Acceptance and Purchase Intention for Autonomous Vehicle,박춘식 ( Park Chunsig ),한국로지스틱스학회,2020,"['Autonomous vehicle', 'Autonomous Vehicle Acceptance Model', 'Acceptance intention', 'Purchase intention', 'Eco-friendliness']"
+자율주행 환경에서 딥러닝 기법의 객체검출과 속도 성능 최적화,김영준(Youngjun Kim),한국통신학회,2020,"['Autonomous Driving', 'Object Detection', 'Deep Learning Model Optimization']"
+라이다 센서 기반 소형 자율주행 로봇의 지하광산 현장실험,김헌무(Heonmoo Kim),한국암반공학회,2020,"['Autonomous driving robot', 'Underground mine', 'LIDAR sensor', 'Field experiment', '자율주행 로봇', '지하광산', '라이다 센서', '현장실험']"
+무인(자율) 주행 차량 특허 동향 분석,임세혁(Sehyuk Lim),한국자동차공학회,2020,
+자율주행자동차 교통사고 책임자에 대한 논의                      = A study on the person in responsibility of traffic accident in self-driving car,송영대,한국민간경비학회,2020,"['Traffic Accident', 'Self-driving Car', 'Person in Responsibility', 'Criminal Responsibility', 'Liability for Damages.', '교통사고', '자율주행자동차', '책임자', '형사책임', '손해배상책임']"
+SLAM알고리즘과 LiDAR를 이용한 자율주행 로봇 개발,윤태진(Tae-Jin Yun),한국컴퓨터정보학회,2020,"['ROS', '동시적 위치 추적 지도 작성(SLAM)', '자율주행(Autonomous Mobile)', '로봇(Robot)', 'LiDAR']"
+자율 협력 주행을 위한 빅데이터 플랫폼 제안,유애리(Aelee Yoo),한국자동차공학회,2020,"['Autonomous Vehicle(자율주행 자동차)', 'C-ITS(협력 기반 지능형 교통 체계)', 'Connected Vehicle Data(커넥티드 자동차 데이터)', 'Big Data(빅데이터)', 'Platform(플랫폼)']"

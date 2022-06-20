@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+자율주행로봇의 장애물 회피에서 강화학습 파라미터의 영향,김경모(K. M. Kim),한국생산제조학회,2020,"['Reinforcement learning', 'Obstacle avoidance', 'Mobile robot']"
+자율주행로봇의 미확인 지역에서의 최단경로 알고리즘과 LiDAR 센서의 영향,이시현(S. H. Lee),한국생산제조학회,2020,"['Mobile Robot', 'LiDAR Sensor', 'Short path algorithm']"
+실외 자율주행 로봇의 기술기준 개발,장현석(H. S. Jang),한국생산제조학회,2020,"['Oudoor robot', 'Autonomous driving robot']"
+V2V 오작동에 따른 자율주행차의 위험원 분석,안대룡(Daeryong Ahn),한국자동차공학회,2020,"['Autonomous Driving(자율주행)', 'V2V(차량간 통신)', 'Malfunction(오작동)', 'Hazard(위험)', 'HARA(위험원 분석 및 리스크 평가)', '시뮬레이션(Simulation)']"
+비신호 교차로 상황에서 V2V 기반 자율주행차의 위험성 분석 및 모니터링 컨셉 연구,백윤석,한국ITS학회,2020,"['V2V', '비신호 교차로', '위험성 분석', '모니터링 컨셉', '자율주행차', 'V2V', 'Non-signalized intersection', 'HARA (Hazard Analysis and Risk  Assessment)', 'Monitoring concept', 'Autonomous driving']"
+자율주행 로봇 간 MANET을 이용한 실시간 영상 스트리밍 시스템,박영익(Y. I. Park),한국통신학회,2020,
+전이학습 기반의 합성곱 신경망을 이용한 애니메이션 캐릭터 성별 분류 기법,서동호(Dong-Ho Seo),한국애니메이션학회,2020,"['딥러닝', '합성곱 신경망', '전이학습', 'deep learning', 'convolutional neural network', 'transfer learning']"
+도심 환경에서의 승차감을 고려한 속도 프로파일 계획,심영보(Youngbo Shim),한국자동차공학회,2020,"['Velocity Profile(속도 프로파일)', 'Vehicle Control(차량 제어)', '자율주행 자동차(Autonomous Vehicle)', 'Path Planning(경로계획)']"
+HSM을 이용한 차량통신 보안 소프트웨어 구현,김장훈(Janghun Kim),한국자동차공학회,2020,"['HSM(Hardware Security Module)', 'Automotive Software(자동차 소프트웨어)', 'Security(보안)', 'CAN Protocol(CAN 통신)', 'Autonomous car(자율주행자동차)']"
+V2X 통신을 이용한 Car-to-Car 시험 방안에 대한 연구,이인규(Ingyu Lee),한국자동차공학회,2020,"['V2X(차량 통신)', 'RTK GNSS(실시간 위치보정 위성항법 시스템)', 'Autonomous Vehicle(자율주행 차량)', 'ADAS(첨단운전자지원시스템)']"
+YOLO 기반 카메라 및 레이다 센서 융합 물체 인지 기법,서주영(Juyeong Seo),한국자동차공학회,2020,"['Sensor Fusion(센서퓨전)', 'Autonomous Driving(자율주행)', 'YOLO']"
+자율주행 검증을 위한 자동화된 검증 시나리오 개발에 관한 연구,김봉섭(Bong-Seob Kim),한국자동차공학회,2020,"['Automated Vehicle(자율주행자동차)', 'Connected and Autonomous Vehicle(초 연결 자율주행자동차)', 'Operation Design Domain(운영 설계 영역)', 'Disengagement of autonomous mode(자율 주행모드해제)', 'Minimum Risk Manoeuvre (최소 위험 대응)']"
+자율주행 실증을 위한 V2X 기반 이동형 관제차량 개발에 관한 연구,김봉섭(Bong-Seob Kim),한국자동차공학회,2020,"['C-ITS(지능형 교통시스템)', 'Vehicle to Everything Communication (차량 · 사물통신)', 'Road Side Unit (노변장치)', 'Safety validation(차량안전성평가)', 'Vehicle Safety Monitoring System(차량 안전 감시 장치)']"
+초 연결 자율주행 실증을 위한 인프라 구현 및 기술 개발에 관한 연구,김봉섭(Bong-Seob Kim),한국자동차공학회,2020,"['Automated Vehicle(자율주행자동차)', 'Connected and Autonomous Vehicle(초 연결 자율주행자동차)', 'C-ITS(지능형 교통시스템)', 'Vehicle to Everything Communication (차량 · 사물통신)', 'Road Side Unit(노변장치)']"
+주행 데이터를 활용한 자율주행 차량의 운전자 Minimal Risk Condition 판단 알고리즘 개발,남덕호(Deok-Ho Nam),한국자동차공학회,2020,"['자율주행(Autonomous driving)', 'MRC(Minimal risk condition)', '주행 데이터(Vehicle driving data)', '운전자 상태(Driver’s state)', '기계 학습(Machine learning)']"
+Ethernet Backbone 기반 자율주행 차량 네트워크에서의 시간동기화 방법 설계,한준영(Junyoung Han),한국자동차공학회,2020,"['Autonomous Vehicle', 'Ethernet Backbone', 'Gateway', 'In Vehicle Netowrk', 'Precision Time Protocol']"
+레이더 및 라이다 센서융합을 이용한 도로경계 검출,유희철(Heecheol Yoo),한국자동차공학회,2020,"['Sensor Fusion(센서 융합)', 'Road Boundary Detection(도로경계 검출)', 'OGM(점유 격자 지도)', 'RANSAC(임의 추출-모델 결정)', 'Road Boundary Tracking(도로경계 추적)', 'Autonomous Driving(자율주행)']"
+원형도로에서 자율주행 자동차의 심층 강화학습 기반 속도 제어 기술 연구,강민수(Minsoo Kang),한국통신학회,2020,
+딥러닝과 IMM-UK-PDAF를 이용한 다중 객체 검출 및 추적,권순웅(Soonwoong Kwon),한국자동차공학회,2020,"['Autonomous Vehicle(자율주행자동차)', 'LiDAR(라이다)', 'Object Detecting(객체검출)', 'Object Tracking(객체추적)', 'Deep Learning(딥러닝)']"
+심층강화학습기반 자율주행차를 이용한 도로 흐름 제어 연구,이기홍(Gihong Lee),한국통신학회,2020,
+외란으로 인한 도달영역을 고려한 안전한 자율주행차 경로계획법,이윤우(Lee Yunwoo),한국통신학회,2020,
+초연결 자율주행차량의 인프라 연계 평가 방법에 관한 연구,김봉섭(Bong-Seob Kim),한국통신학회,2020,
+자율주행 성능평가를 위한 HILS기반 WAVE 환경 구축,이명수(Myungsu Lee),한국통신학회,2020,
+자율주행을 위한 적외선 센서를 이용한 장애물 회피 기법 구현,김미선(Miseon Kim),한국통신학회,2020,
+클라우드 서비스 기반의 자율주행 차량 대상 이미지 인식영역 공격방안에 관한 연구,정택현(TackHyun Jung),한국통신학회,2020,
+협력 자율 주행 차량의 Local dynamic map 기반 차선 변경 서비스 설계에 관한 연구,이건일(Lee Geonil),한국통신학회,2020,
+도시부 자율주행셔틀 실증을 위한 운행설계영역 분석 : 안양시를 중심으로,김형주,한국ITS학회,2020,"['운행설계영역', '자율주행셔틀', '도시부도로', '도로환경', '자율주행시스템', 'Operational design domain(ODD)', 'Autonomous shuttle', 'Arterial road', 'Road condition', 'Autonomous driving system']"
+자율주행 자동차 주행 보조를 위한 엣지 클라우드 서버의 최적의 배치 방법,박찬규(Changyu Park),한국통신학회,2020,
+아두이노를 활용한 스마트 자율주행 카트 시스템,박성훈(Seong-hun Park),한국정보통신학회,2020,"['Arduino', 'Autonomous Driving', 'Image Sensor', 'Ultrasonic Sensor', 'Barcode Sensor']"
+라즈베리파이와 아두이노 및 OpenCV를 활용한 공유형 자율주행차 모델 설계,김여경(Yeo-gyeoung Kim),한국정보통신학회,2020,"['ADAS', 'personal mobility', 'raspberry pi', 'arduino', 'OpenCV', 'autonomous vehicle']"
+객체 인식 기반 자율주행 차선검출 시스템,전성우(Sungwoo Jeon),한국정보통신학회,2020,"['AI', 'Autonomous driving', 'Autonomous vehicle', 'CSI-Camera', 'IoT']"
+자율주행 성능평가를 위한 비정형 주행환경 기반 시나리오 설계 방법 연구,이명수(Myungsu Lee),한국통신학회,2020,
+3D LiDAR를 이용한 차선 검출 및 정밀지도 매칭을 통한 자율주행 자동차의 위치 인식 기법,전슬기(Seulgi Jeon),한국통신학회,2020,
+비정형 환경 자율주행을 위한 HMI 기술에 관한 연구,김태형(Kim Tae Hyeong),한국통신학회,2020,
+실내 자율주행 자동차를 위한 심층 강화학습 알고리즘 비교 및 분석,김우현(Woo-Hyon Kim),한국통신학회,2020,
+5G융합 자율주행 핵심기술 R&D 방향성에 대한 연구,정해식(Jung Hae-Shik),한국통신학회,2020,
+[KOTI NEWS] 원내행사_경운대학교와 업무협약 체결 외,편집부(편집자),한국교통연구원(KOTI),2020,
+자율주행 이앙기 새머리 선회 시간 최적 자율주행 기술 개발                      = Development of a Method to Minimize Headland Turning Time for Autonomous Rice Transplanter,강민석 ( Minseok Gang ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2020,"['이앙기', '자율주행', '경로생성', '새머리 선회', '최적화']"
+자율주행차 데이터의 개인정보 비식별화 기법 제안,최준표(Junpyo Choi),한국통신학회,2020,
+직각 코너 상황에서의 LiDAR와 IMU 기반 자율 주행 성능 개선,홍희정(Heejung Hong),한국자동차공학회,2020,"['Autonomous Driving(자율 주행)', 'LiDAR(라이다)', 'IMU(관성센서)', 'SLAM(슬램)', 'ROS(로스)']"
+운전자 상태를 고려한 제어권 전환 알림 연구,한지혁(Jihyuck Han),한국자동차공학회,2020,"['Automated vehicle(자율주행차량)', 'Driver’s state(운전자 상태)', 'Drowsiness(졸음)', 'Distraction(주의분산)', 'Take-over request(제어권 전환 요청)', 'Visual/Auditory interface(시각적/청각적 인터페이스)']"
+Hands-Off Detection 스티어링 휠,김윤수(Yunsu Kim),한국자동차공학회,2020,"['Steering Wheel(스티어링 휠)', 'Automatic Driving(자율주행)', 'ACSF(Autonomous Cruise Steering Function)', 'Capacitance(정전용량)', 'Comductive Fiber(전 도성 섬유)', 'Resistance(저항)']"
+자율주행을 위한 교통안전시설 정보 제공 방안 연구,김주빈,한국도로학회,2020,
+안전한 자율주행을 위한 교통안전시설 정보 분류 연구,조용빈,한국도로학회,2020,"['교통안전시설', 'IoT', '자율주행', 'D2V', '무선통신']"
+황색신호 딜레마 극복을 위한 자율신경계 활성도 중심의 신호체계 평가                      = Evaluation of a Traffic Light System Focusing on Autonomic Nervous System Activity for Overcoming Yellow Signal Dilemma,조형석,한국감성과학회,2020,"['황색신호 딜레마', '자율신경계', '신호체계', '자동차 그래픽 시뮬레이터', 'Yellow-Signal Dilemma', 'Signal System', 'Autonomic Nervous System', 'Graphic Driving Simulator']"
+교차로 이동류 교통량 계수 시스템 설계,양인철,한국도로학회,2020,"['자율주행', '교차로 이동류 교통량', '계수', '순간 이동객체', 'LDM']"
+항공사진을 이용한 정밀도로지도 구축에 관한 연구                      = A Study on High Definition Road Map Construction Using Aerial Photography,최태석,대한공간정보학회(THE KOREAN SOCIETY FOR GEOSPATIAL INFORMATION SYSTEM),2020,"['Autonomous Vehicle', 'High Definition Road Map', 'Aerial Photogrammetry', 'Mobile Mapping System', '자율주행자동차', '정밀도로지도', '항공사진측량', '이동식지도제작체계']"
+자율주행자동차 4-5단계의 수용의도에 미치는 영향요인에 관한 연구                      = A Study on the Influencing Factors on the Acceptance Intention of Autonomous Vehicles Level 4-5,박민희,한국멀티미디어학회,2020,"['Autonomous Vehicles', 'Autonomous Vehicles Level 4-5', 'Acceptance Intention', 'Technology Acceptance Model(TAM)', 'Structural Equation Modeling(SEM)']"
+자율주행 자동차 관련 인식 조사,마크로밀엠브레인 트렌드모니터,(주)마크로밀엠브레인,2020,
+트램의 자율주행을 위한 동적 속도 프로파일 생성방법                      = A Dynamic Velocity Profile Generation Method for Autonomous Driving of a Tram Vehicle,박성원,대한전기학회,2020,"['Profile generation', 'S-curve', 'Autonomous vehicle', 'Tram']"

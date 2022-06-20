@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+경량 깊이완성기술을 위한 효율적인 자기지도학습 기법 연구,박재혁,한국ITS학회,2021,"['깊이완성', '자기지도학습', '자율주행', 'Depth completion', 'Self-supervised learning', 'Autonomous driving']"
+MIL 시뮬레이션 기반 ADS 기능 검증을 위한 환경 센서 모델링에 관한 연구,신성근,한국ITS학회,2021,"['센서 모델링', '가상 검증', 'MILS', '자율주행시스템 검증', 'Sensor modeling', 'Virtual testing', 'MILS', 'Automated driving system testing']"
+실도로 기반 자율주행자동차 주행안전성 평가 방법론 개발 연구,이영택,한국ITS학회,2021,"['실도로', '자율주행자동차', '주행안전성', '평가 방법', '도로교통법', 'Real roads', 'Automated vehicles', 'Driving safety', 'Evaluation method', 'Road traffic act']"
+수치표고모델 정보를 활용한 도로 종단경사 산출 연구,한여희,한국ITS학회,2021,"['마이크로 모빌리티', '종단경사', '수치표고모델', '도로 전자지도', '고도', 'Micro-mobility', 'Longitudinal Slope', 'Digital Elevation Model', 'Road Digital Map', 'Altitude']"
+비전 및 HD Map 기반 차로 내 차량 정밀측위 기법                      = Vehicle Localization Method for Lateral Position within Lane Based on Vision and HD Map,우리나라,한국ITS학회,2021,"['차량 정밀 측위', '도로정밀지도', '차선 검출', 'Localization', 'HD map', 'Lane detection']"
+블루투스 무선통신과 라즈베리파이를 이용한 자율주행 알고리즘에 대한 연구                      = A Study on the Autonomous Driving Algorithm Using Bluetooth and Rasberry Pi,김예지(Ye-Ji Kim),한국전자통신학회,2021,"['블루투스 무선 통신', '자율 주행', 'OpenCV', '라즈베리 파이', '차선 검출', 'PWM 제어', 'Bluetooth Wireless Communication', 'Autonomous Driving', 'OpenCV', 'Rasberry Pi', 'Lane Detection', 'PWM Control']"
+Microlens Array를 이용한 자동차 커뮤니케이션 램프 설계 방안 연구                      = A Study of the Design of Automotive Communication Lamps Using Microlens Arrays,서재영,한국광학회,2021,"['커뮤니케이션 램프', '마이크로렌즈 어레이', '광학계 설계', 'Communication lamp', 'Microlens array', 'Optical system design']"
+긴급차량 우선신호 부여를 고려한 강화학습 기반 지체 시간 최소화 실시간 신호 제어 체계 개발                      = The Real-Time Signal Control System Using Reinforcement Learning Considering Priority Signaling for Emergency Vehicle,정상철,대한교통학회,2021,"['artificial intelligence', 'priority signal', 'reinforcement learning', 'traffic signal control', 'v2i', '강화학습', '신호 제어', '우선 신호', '인공지능', 'V2X']"
+국내외 자율주행차 테스트베드 분석 기반 K-City 발전 전략 수립에 관한 연구                      = Study on Establishment of Development Strategy for K-City Based on Analysis of Domestic and Overseas Automated Vehicle Testbeds,김예진,한국ITS학회,2021,
+GNSS 재밍 신호 모니터링 네트워크 시스템을 위한 독립된 GNSS 수신기 간 시각 동기화 기법                      = Time Synchronization Technique for GNSS Jamming Monitoring Network System,진권규,한국ITS학회,2021,"['Self-driving', 'Autonomous driving', 'Global Navigation Satellite System', 'Jamming Monitoring', '자율주행', '위성항법시스템', '재밍모니터링']"
+IDM을 이용한 자율주행자동차 시장점유율 변화가 고속도로 교통류에 미치는 영향 분석,고우리,한국ITS학회,2021,"['자율주행자동차', '시장점유율', 'Intelligent driver model(IDM)', '이동성', '안전성', 'Autonomous vehicle', 'Market penetration rate', 'Intelligent driver model(IDM)', 'Mobility', 'Safety']"
+국내외 자율주행차 테스트베드 분석 기반 K-City 발전 전략 수립에 관한 연구,김예진,한국ITS학회,2021,"['자율주행차', '테스트베드', 'K-City', '경영환경분석', '발전 전략', 'Autonomous vehicle', 'Testbed', 'K-City', 'Business Environment Analysis', 'Development Strategy']"
+블록체인 기술을 활용한 정비장비 보안기능 향상 방안,변종민(Jong-Min Byeon),한국산학기술학회,2021,"['Block Chain', '4th Industry', 'Bitcoin', 'Test Equipment', 'Network Security']"
+항법 시스템 오작동 시 자율주행 알고리즘 성능 테스트를 위한 차량 내 재밍 신호 데이터 발생기 구현                      = Implementation of In-Car GNSS Jamming Signal Data Generator to Test Autonomous Driving Vehicles under RFI Attack on Navigation System,강민수,한국ITS학회,2021,"['ADAS', 'GNSS 센서', '재밍 발생 장치', '드라이빙 시뮬레이터', 'ADAS', 'GNSS Sensor', 'Jamming Generator Module', 'Driving Simulator']"
+자율주행자동차 공도 주행 실현의 현대적 과제에 대한 시론(試論) - 도로교통법 개정사항 및 운전면허 규정을 중심으로 -                      = Consideration on Contemporary Tasks about the Realization of Autonomous Vehicles Public Road Driving - Focusing on the revision of the Road Traffic Act and driver's license regulations -,김연주,충북대학교 법학연구소,2021,"['Road Traffic Act', 'Motor Vehicle Management Act', 'Autonomous Vehicles', 'Act on the Promotion of and Support for Commercialization of Autonomous Driving Motor Vehicles', 'Autonomous Vehicles driver’s license', '도로교통법', '자동차관리법', '자율주행자동차', '자율주행자동차 상용화 촉진 및 지원에 관한 법률', '자율주행자동차 운전면허']"
+농작업을 위한 이동체 자율주행 연구                      = A Study on Autonomous Driving of Smart Mobility for Agricultural Work,고은별 ( Eun-byul Ko ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['자율주행', '딥러닝', '스마트 모빌리티', '벨로다인 라이다', '비전 카메라']"
+V2X 기반 이동형 관제차량을 활용한 자율주행 실증평가를 위한 주변 차량 데이터 계측 및 데이터 신뢰성 평가,박지혁(Jihyuk Park),한국통신학회,2021,
+레벨 3 자율주행자동차에서의 운전자 제어권 전환 능력 평가 시스템에 관한 연구,김우진(Woojin Kim),한국통신학회,2021,
+인공지능 기반 자율주행 VIL 시스템 설계를 위한 시뮬레이션 환경 구축 방법 연구,이명수(Myungsu Lee),한국통신학회,2021,
+머신러닝을 이용한 자율주행 기술 동향 조사,백승우(Seungwoo Baek),한국통신학회,2021,
+RADAR와 LiDAR의 Sensor Fusion과 그에 따른 성능 향상에 대한 기법,박휘수(Hwesoo Park),한국통신학회,2021,
+Scattering 환경에서 FMCW MIMO 레이다를 이용한 EKF 기반 SLAM 구현,김세원(Sewon Kim),한국통신학회,2021,
+FMCW Radar에서 극점 Mirror Padding을 통한 거리 해상도 향상 기법,"백성민(Seongmin, Back)",한국통신학회,2021,
+이산화염소 시스템을 적용한 자율주행 방역 로봇                      = Self-driving quarantine robot with chlorine dioxide system,방걸원,한국디지털정책학회,2021,"['자율주행', '로봇', '방역', 'UV살균', '이산화염소', 'Self-driving', 'Robot', 'Implementation', 'UV sterilization.', 'CIO2']"
+커널 기반 심층 강화학습 정책 평가 탐구,이주원(Juwon Lee),한국통신학회,2021,
+텍스트 임베딩을 이용한 자율주행자동차 교통사고 분석에 관한 연구,박상민,한국ITS학회,2021,"['텍스트 임베딩', '자율주행자동차', '교통사고', '토픽모델링', 'Text Embedding', 'Autonomous Vehicle', 'Accident', 'Topic Modelling']"
+교차로 우회전 보행자 사고에서 AEBS 차량의 보행자 충돌한계상황에 대한 연구                      = A Study on the Pedestrian Collision Limits of AEBS Vehicles in the Right Turn Pedestrian Accident,정동훈,도로교통공단,2021,"['Advanced Driver Aided System (ADAS)', 'Autonomous Emergency Braking System (AEBS)', 'Autonomous Vehicle', 'Time To Collision (TTC)', 'Pedestrian Injury Mitigation', '첨단 운전자 지원 시스템', '자동 비상제동 장치', '자율주행차', '충돌예측시간', '보행자 상해 경감']"
+"대학생의 약·강 AI 인식 집단 간의 차이 분석: 개인적, 심리적, 윤리적 쟁점을 중심으로                      = A Study on the Group Differences Between Weak and Strong AI Perceptions Among University Students over Personal, Psychological and Ethical Issues",신나민,한국지식정보기술학회,2021,"['Artificial intelligence', 'Perceptions of AI', 'Weak AI', 'Strong AI', 'AI ethics']"
+자율주행차 및 C-ITS 지원을 위한 디지털 교통신호 제어기의 신호정보연계장치 및 전이 알고리즘 개선 연구                      = Study on Improvement of Connected Vehicles Interface Board and Transition Algorithm of Digital Traffic Signal Controller for Autonomous Vehicles and C-ITS,고세진,한국ITS학회,2021,"['Automated connected driving', 'Digital traffic signal controller', 'Connected vehicles interface board', 'Connected vehicles interface module', 'Transition', '자율협력주행', '디지털 교통신호제어기', '신호정보연계장치', '신호정보연계모듈', '전이']"
+완전자율주행 중 ‘딜레마 상황’에서의 교통사고와 프로그래머의 형사책임에 대한 배제법리 고찰,"최대호(Choi, Dae-Ho)",중앙법학회,2021,"['완전자율주행자동차(full autonomous vehicle)', '프로그램 설계자(programmer)', '딜레마 상황에서의 교통사고(the traffic accidents in a dilemma situations)', '긴급피난(act out of necessity)', '의무충돌(collision of obligations)', '허용된 위험(accepted risk)', '자율주행자동차 윤리가이드라인(ethical guideline for automated vehicles)']"
+[교통 관련 보도자료 중계] 보도자료를 통해 본 주요교통뉴스,김동준,한국교통연구원(KOTI),2021,
+정성적 요인을 반영한 초단거리 접근수단의 선택 행태 연구                      = Choice Behavior Analysis for Feeder Modes on First and Last Mile with Qualitative Factors,김지혜,대한교통학회,2021,"['binary logit model', 'feeder mode choice', 'first and last mile', 'multinomial logit model', 'qualitative factor', '이항로짓모형', '접근수단선택', '초단거리 접근통행', '다항로짓모형', '정성적 요인']"
+ESG의 환경요소(E) 관련 제도적 개선방안 - 정보 공시기준 및 세법 규정을 중심으로 -,"김경하(Kim, Kyoung-Ha)",강원대학교 비교법학연구소,2021,"['그린경영', '정보 공시', '공시기준', '환경세', '탄소세', 'ESG', 'green management', 'information disclosure', 'disclosure standards', 'environmental tax', 'carbon tax']"
+카노모델을 이용한 스마트 트렁크 기능의 고객 만족에 관한 연구                      = A Study on Customer Satisfaction for Smart Trunk using the Kano Model,김동연,한국산학기술학회,2021,"['Creative Ideation Codes', 'Customer Satisfaction', 'Quality Attributes', 'Smart Trunk', 'The Kano Model']"
+LKS 시스템을 위한 라이다 기반 MRM 알고리즘 개발,손원일,한국ITS학회,2021,"['라이다', '자율주행', '차선유지시스템(LKS)', '기능안전', '최소위험기동(MRM)', 'Lidar', 'Autonomous Driving', 'Lane Keeping System(LKS)', 'Functional Safety', 'Minimum Risk Maneuver(MRM)']"
+EU 비개인데이터규칙의 입법과 시사점                      = Legislation and implications of EU Non-Personal Data Regulation,함인선,부산대학교 법학연구소,2021,"['non-personal data', 'personal data', 'Non-Personal Data Regulation (NPDR)', 'data localisation', 'data lock-in', 'data porting', 'data switching', '비개인데이터', '개인데이터', '비개인데이터규칙', '데이터 현지화', '데이터 록인', '데이터 이동', '데이터 전환']"
+법･규제 기반의 자율주행 안전성 평가 테스트케이스 생성 연구,문준형,한국ITS학회,2021,
+자율 주행 자동차에서 직무 유형 세그먼테이션 연구 -레벨 4/5단계에 해당되는 자율주행차와 오피스 및 이동 업무의 UX 중심으로-,"신용환(Shin, Yonghwan)",한국디자인문화학회,2021,"['Autonomous Vehicle(자율주행차)', 'Car Design(자동차 디자인)', 'Job(직무)', 'Mobile Worker(모바일 워커)', 'User Experience(사용자 경험)']"
+자율주행자동차 장애물 탐지 레이더 모듈 분석 연구,박세린(Park Se Lin),한국정보기술학회,2021,"['FMCW Radar', 'Autonomous Vehicle', 'GUI']"
+텍스트 마이닝을 활용한 자율주행시대 대응 교통 법규 개선방안,"문준형(Moon, Jun Hyeong)",대한토목학회,2021,"['자율주행자동차', '교통사고', '토픽모델링', '법', '텍스트 분석']"
+자율주행형 공유차량의 소유 만족감 충족을 위한 UX디자인 연구 - 탑승단계에서의 커스터마이징을 중심으로                      = A Study on the UX Design for Satisfaction with Ownership of Autonomous Shared Vehicles - Focusing on Customizing in Boarding Stage,이다물,한국디지털정책학회,2021,
+자율주행 자동차의 운행자 책임에 대한 법적 검토 -「자율주행자동차 상용화 촉진 및 지원에 관한 법률」을 중심으로-,박민지,한국ITS학회,2021,
+YOLO 기반 차선검출 시스템                      = YOLO-based lane detection system,전성우,한국정보통신학회,2021,"['객체인식', '자율주행', 'CSI-Camera', 'YOLO', 'Object recognition', 'Autonomous driving', 'CSI-Camera', 'YOLO']"
+자율주행 혼재 교통정보 정의 및 적용방안,김형주,대한교통학회,2021,
+교통사고자료 기반의 센서 인식률을 고려한 자율주행 안전성 평가 시나리오 개발 기초연구,문준형,한국ITS학회,2021,
+자세 복원이 가능한 자율주행 전동킥보드 구조 개발,김혜주(Hyeju Kim),한국자동차공학회,2021,"['Scooter(킥보드)', 'Roly Poly(오뚝이)', 'Scooter Stand(킥보드 받침대)', 'Four Bar Link(사절링크)', 'Self-driving System(자율주행)']"
+지중전력구 전력설비 로봇 검사시스템,강귀준,한국품질경영학회(The Korean Society for Quality Management),2021,"['로봇', '검사시스템', '전력구', '대형재난']"
+IoT 기반 교통안전시설 정보제공 C-V2X 프로토콜 개발 연구,이재형,한국ITS학회,2021,"['교통안전시설', '자율주행', '사물인터넷', 'C-V2X', '메시지 데이터 셋']"
+[교통 관련 보도자료 중계] 보도자료를 통해 본 주요 교통뉴스,김동준,한국교통연구원(KOTI),2021,
+RTK GPS를 이용한 오픈소스 아두파일럿 기반 OmniX 보트의 자율주행 경로 추적성에 관한 연구                      = Autonomous Path-Tracking Performance of an OmniX-Type Boat Based on Open-Source Ardupilot with RTK GPS,안남현,해양환경안전학회,2021,"['자율주행', '경로추적성', '아두파일럿', '픽스호크', '비행제어장치', '임무수행경로', 'Autonomous driving', 'Path-tracking performance', 'Ardupilot', 'Pixhawk', 'Flight controller', 'Mission way point']"

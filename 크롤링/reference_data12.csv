@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+특허분석을 통한 자율주행 분야의 경쟁력 분석,백현조(Hyun-jo Paek),한국정보통신학회,2021,"['Autonomous Vehicle', 'Self-driving', 'Patent Analysis', 'Patent Indicator', 'Competitiveness Analysis']"
+첨단 ICT 기술에 대한 가치평가 모델 분석                      = Analysis of the Valuation Model for the state-of–the-art ICT Technology,오선진,국제문화기술진흥원,2021,"['ICT', 'Technology valuation', 'Technology Transfer/Transaction', 'Technology Commercialization', '정보통신 기술', '기술 가치평가', '기술 이전 및 거래', '기술 사업화']"
+YOLOv5 모델 기반 효율적인 신호등 정보 인식 방안 개발,"주은오(Joo, Eun Oh)",대한공간정보학회(The Korean Society for Geo-Spatial Information System),2021,
+자율 주행 차량 및 무인 이동체에서 활용되는 레이더 센서 기술에 대한 소개,이성욱,대한전자공학회,2021,
+디지털 트윈 기반 시뮬레이터를 활용한 VILS 구축,정지원(Jiwon Jung),한국자동차공학회,2021,"['Scenario(시나리오)', 'Digital Twin(디지털 트윈)', 'Simulator(시뮬레이터)', 'AEB(긴급제동)', 'ADAS(운전자 지원 시스템)', 'Autonomous Vehicle(자율주행차량)', 'VILS(현실 융합 시뮬레이션)']"
+지상전에서 다중 무인체의 선도-추종 대형제어 알고리즘을 이용한 장애물 충돌회피에 관한 연구,박신배,한국방위산업학회,2021,"['다중 무인체', '지상  무인 차량', '군집 주행', '인공전위장', '대형제어', '선도-추종', 'Multiple Unmanned Vehicle', 'Unmanned Ground Vehicle', 'Platooning Navigation', 'Artificial Potential Filed', 'Formation Control', 'Leader-Follower']"
+선택적 주의집중 모델과 YOLO를 이용한 선행 차량 정지등 검출 시스템 구현                      = Implementation of Preceding Vehicle Break-Lamp Detection System using Selective Attention Model and YOLO,이우범,한국신호처리·시스템학회,2021,
+정규화를 이용한 변동계수 기반 안개 특징의 하드웨어 구현                      = Hardware Implementation of Fog Feature Based on Coefficient of Variation Using Normalization,강의진,한국정보통신학회,2021,
+복수주체에 의한 특허발명의 실시와 공동침해 규정의 도입방안                      = Implementation of Patent Inventions by Multiple Subjects and Introduction of Joint Infringement Regulations,권지현,경희대학교 법학연구소,2021,"['Joint direct infringement', 'indirect infringement', 'patent infringement by multiple subjects', 'tool theory', 'direct or control theory', '공동직접침해', '간접침해', '복수주체에 의한 특허침해', '도구이론', '지배관리론']"
+라이다를 활용한 온실에서 작물 및 작업자 인식                      = Recognition of Crops and Workers Using Lidar in Greenhouses,이성규 ( Sungkyu Lee ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['스마트농업', '라이다', '온실', '작업자']"
+자율주행자동차를 위한 차선 인식을 통한 픽셀 기반 PID 제어,"문석준(Moon, Seokjun)",대한전기학회,2021,
+센서 범위를 고려한 자율주행자동차 교차로 충돌 상황 시뮬레이션                      = Intersection Collision Situation Simulation of Automated Vehicle Considering Sensor Range,이장우,사단법인 한국자동차안전학회,2021,"['자동긴급제동장치 테스트 시뮬레이션', '교차로 시뮬레이션', '경로예측모델', 'AEB test simulation', 'Intersection simulation', 'Path Prediction model']"
+자율주행로봇의 주행안정성 예측을 위한 실시간 디지털 트윈 모델 개발                      = Development of Real-Time Digital twin model of Autonomous Field Robot for Prediction of Vehicle Stability,한종부,제어·로봇·시스템학회,2021,"['digital twin', 'multibody dynamics', 'autonomous driving robot', '.']"
+자율주행 에이전트 사이에서의 공통지식 활용에 관한 연구 – CBK 모델을 중심으로                      = A Study on the Use of Common Knowledge among Autonomous Driving Agents - Based on the CBK Model -,김군오,한국문화융합학회,2021,"['자율주행자동차', '멀티에이전트', '공통지식', 'CBK 모델', 'autonomous vehicle', 'multi-agent', 'common knowledge', 'CBK model']"
+전기자동차 개방형 공용플랫폼,김원희(Wonhee Kim),대한전기학회,2021,
+자율주행차 분야 특허기반 산업혁신 전략,김상준(Sangjun Kim),한국자동차공학회,2021,
+GNSS 음영 지역에서의 정밀 위치추정을 위한 데이터셋,조지은(Jieun Cho),한국자동차공학회,2021,"['Autonomous Driving(자율주행)', 'Dataset(데이터셋)', 'Object Detection(객체 인식)', 'Semantic Segmentation(시맨틱 분할)', 'Deep Learning(딥러닝)', 'GNSS(위성 항법 시스템)']"
+차선 정보를 활용하는 멀티모달 차량 미래 경로 예측 기법,김병도(ByeoungDo Kim),한국자동차공학회,2021,"['Autonomous Driving (자율 주행)', 'Trajectory Prediction (경로 예측)', 'HD Map (정밀 지도)', 'Deep Learning(딥러닝)', 'Path Generation (경로 생성)']"
+다양한 영상 데이터 수집을 위한 3차원 공간데이터 기반 자율주행 시뮬레이션 시스템 구현,"주은오(Joo, Eun Oh)",대한공간정보학회(THE KOREAN SOCIETY FOR GEOSPATIAL INFORMATION SYSTEM),2021,"['정밀도로지도', '자율주행', '3차원 공간정보', '시뮬레이션', '영상 데이터', 'HD Map', 'Autonomous Driving', '3D Map', 'Simulation', 'Imagery Data']"
+딥러닝 기반 거리 영상의 Semantic Segmentation을 위한 Atrous Residual U-Net                      = Atrous Residual U-Net for Semantic Segmentation in Street Scenes based on Deep Learning,신석용,중소기업융합학회,2021,"['ASPP', '딥러닝', '인코더-디코더', '잔차 학습', 'Semantic segmentation', 'U-Net', 'ASPP', 'Deep learning', 'Encoder-Decoder', 'Residual learning', 'Semantic segmentation', 'U-Net']"
+공공기준점을 이용한 GNSS 높이측량 정밀도 분석 연구                      = A Study on the Accuracy of GNSS Height Measurement Using Public Control Points,원두견 ( Doo-kyeon Won ),한국지리정보학회(The Korean Association of Geographic Information Studies),2021,"['합성지오이드모델', 'GNSS높이측량', '공공기준점', '수준측량', 'Hybrid Geoid Model', 'GNSS Height Survey', 'Public Control Point', 'Levelling']"
+딥러닝 기반의 군집 자율주행 시스템 구현,김현열(Hyunyeol Kim),한국통신학회,2021,
+강화학습을 이용한 실내 자율주행 시스템,정유석,한국경영정보학회,2021,"['Rainforcement Learning', 'Aotonomous Driving', 'Sensor']"
+비가시권 드론 비행을 위한 법제 검토                      = Review of Legislation for Non-visible Drone Flight,박세훈,사단법인 미래융합기술연구학회,2021,"['Drone', 'Unmanned Aerial Vehicles', 'Non-visible Flight', 'Aviation Safety Act', 'Safety Standards for Special Flight of Unmanned Aerial Vehicles', 'Standards for Approval Procedures', '드론', '무인비행장치', '비가시권 비행', '항공안전법', '무인비행장치 특별비행을 위한 안전기준 및 승인절차에 관한 기준']"
+자율주행 방식의 이동식 스마트 공기청정기,김동진(Dongjin Kim),한국정보기술학회,2021,"['Arduino', 'Sensors', 'Portable', 'Air Purifier']"
+자율주행 혼재 교통상황 분석 및 예측 시뮬레이션 개발,이태형,대한교통학회,2021,
+자율협력주행 기반 스마트 교통운영체계 구상 연구,김성훈,한국교통연구원(KOTI),2021,
+자율주행 차량의 디스플레이 기반 분리결합형 스티어링 휠 디자인,이채연(Chae Yeon Lee),한국자동차공학회,2021,"['Steering Wheel(스티어링 휠)', 'Display(디스플레이)', 'Autonomous Driving(자율주행)', 'Connected Car(커넥티드 카)', 'Interior Design(인테리어 디자인)', 'In-vehicle Interaction(차량 내 소통)']"
+자율주행 차량 영상 기반 객체 인식 인공지능 기술 현황                      = Overview of Image-based Object Recognition AI technology for Autonomous Vehicles,임헌국,한국정보통신학회,2021,"['객체 인식', '자율주행 차량', '영상 기반 인공지능', '단일 단계 검출', '두 단계 검출', 'Object detection', 'Autonomous vehicle', 'Image-based AI', 'Single-step detection', 'Two-step detection.']"
+적외선 객체 탐지 성능 향상을 위한 데이터 증강 방법 적용,조진우(J. W. Cho),Korean Society for Precision Engineering,2021,"['Data augmentation', 'Object detection', 'Infrared camera', 'GAN']"
+딥러닝 기반 실시간 픽셀 단위 주행 가능 영역 검출 및 격자 지도 생성 알고리즘,김경수(Kyeongsu Kim),대한기계학회,2021,"['자율주행(Self-driving)', '딥러닝(Deep learning)', '주행환경(Driving environment)', '인지(Perception)', '격자지도(Grid map)']"
+자율주행 자동차용 지능형 센서와 인공지능 반도체,연규봉,대한전자공학회,2021,
+레벨 4 자율주행자동차의 제작 안전 가이드라인에 대한 고찰                      = A Study on Safety Guideline of Level 4 Automated Driving Vehicles,이광구,사단법인 한국자동차안전학회,2021,"['자율주행시스템', '안전 가이드라인', '안전항목', '가이드라인 업데이트', '사용자 선택권', 'Automated driving system', 'Safety Guideline', 'Safety element', 'Guideline update', 'User options']"
+멀티모달 생체신호 기반 멀미 상태 판단 기술 연구,박기희(Ki Hee Park),한국자동차공학회,2021,"['In-Cabin Monitoring(인캐빈 모니터링)', 'Autonomous Driving(자율 주행)', 'Physiological Signals(생체신호)', 'Deep Learning(딥러닝)', 'Motion Sickness(멀미)']"
+딥러닝 기반 자율주행 차량의 차선변경 기동 및 경로의 개인화,김준수(Junsu Kim),한국자동차공학회,2021,"['LSTM', 'Personalization(개인화)', 'Maneuver prediction(기동예측)', 'Trajectory prediction(경로예측)', 'Lane changing(차선변경)']"
+지능형 교통체계의 구축을 위한 교통관련 법제도의 개선 방안                      = A Study on the Improvement of the Related Legal System for the Establishment of Intelligent Transport Systems,송호신,한국법정책학회,2021,"['지능형 교통체계', 'V2X통신기술', '국가통합교통체계효율화법', '교통관련법령', '자율주행자동차', '전기자동차', '간선급행버스체계', '드론', '미래형 도시철도', '자율운항선박', 'Intelligent Transport Systems', 'Vehicle to Everything Communication', 'National Transport System Efficiency Act', 'Transportation Related Laws', 'Autonomous Car', 'Electric Vehicle', 'Bus Rapid Transit']"
+열악한 기상 환경에서 융합센서를 활용한 딥러닝 기반 객체 인식,허준석(Junseok Heo),한국자동차공학회,2021,"['autonomous vehicle(자율주행차)', 'deep learning(딥러닝)', 'weather conditions(기상환경)', 'object detection(객체인식)', 'fusion sensor(융합센서)']"
+영상처리를 이용한 볼 로봇의 차선 추종 제어,정명진(M. J. Chung),Korean Society for Precision Engineering,2021,"['Image processing', 'Ball robot', 'Lane-following control', 'Balancing', 'Mobility']"
+인공지능 안전과 책임 확보를 위한 법제 논의에 관한 검토 — 유럽연합 인공지능 관리 법제 논의에 기초하여 —,"김재선(Kim, Jae Sun)",행정법이론실무학회,2021,"['인공지능', '알고리즘', '안전', '책임', '로봇 윤리', '가이드라인', 'Artificial Intelligence', 'Algorithm', 'Safety', 'Responsibility', 'Robot Ethics', 'Guideline']"
+[4차산업혁명교통연구본부 연구방향과 과제] 모빌리티 산업의 구조 전환 준비,신희철,한국교통연구원(KOTI),2021,
+진동 신호를 사용한 MEMS 센서 대상 신호오류 주입공격 탐지 방법                      = Vibration-Based Signal-Injection Attack Detection on MEMS Sensor,조현수,한국정보보호학회,2021,"['Vibration', 'Signal-Injection Attack', 'PHY-level Attack', 'MEMS Gyroscope']"
+LiDAR 센서 활용 객체 인식기술이 적용된 농업용 자율주행 이송 로봇 개발                      = Object Recognition Technology using LiDAR Sensor for Obstacle Detection of Agricultural Autonomous Robot,김종실(Jong-Sil Kim),한국전자통신학회,2021,"['농업', '자율 주행', '객체 인식', '로봇', '센서', 'Agriculture', 'Automated Driving', 'Object Recognition', 'Robot', 'Sensor']"
+[정책동향] 자율주행차 윤리·보안·안전 방향 가이드라인 3종 발표,편집부(편집자),대한교통학회,2021,
+센서퓨전기반 자율주행 시뮬레이터 개발,이선영(Seonyoung Lee),대한전자공학회,2021,
+수확물 자동 이송을 위한 농업용 자율주행 로봇 시스템                      = Agricultural Autonomous Robots System for Automatic Transfer of Agricultural Harvests,김종실(Jong-Sil Kim),한국전자통신학회,2021,"['농업', '자율 주행', '객체 인식', '로봇', '이송', 'Agriculture', 'Automated Driving', 'Object Recognition', 'Robot', 'Transfer']"
+장애물 회피 경로 생성 알고리즘 개발,변예림(Yerim Byeon),한국자동차공학회,2021,"['Path(경로)', 'Avoidance(회피)', 'Autonomous Car(자율 주행 자동차)']"
+국내외 자율주행 대중교통 서비스 실증 사례 분석,"이재형(LEE, Jaehyung)",대한교통학회,2021,
+자율주행 방역로봇 대한민국 AIDBOT 개발,김강건,한국로봇학회,2021,
+A Study on Application and Utilization method of Smart Logistics,"Eun Jeong, Lee",한국무역금융보험학회(구 한국무역보험학회),2021,"['스마트물류', '4차 산업혁명', 'IT기술', '물류서비스', '물류효율성', 'Smart logistics', '4th Industrial Revolution', 'IT technology', 'Logistics Efficiency Logistics Service']"
+5G-MEC 기반 초저지연 고화질 영상 전송 시스템                      = High Quality Video Streaming System in Ultra-Low Latency over 5G-MEC,김정석,한국정보처리학회(Korea Information Processing Society),2021,"['Ultra-Low Latency', 'Video Streaming', '5G', 'MEC', 'SRT', '초저지연', '영상전송', '5G', 'MEC', 'SRT']"

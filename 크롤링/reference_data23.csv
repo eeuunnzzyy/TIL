@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+"자동차 안전, AI에 감시당하는가 지배당하는가",박용성(Yong-sung Park),한국자동차공학회,2020,
+내고장성(Fault-Tolerant) 차량용 반도체 기술 동향,김수진,한국통신학회(Korea Institute Of Communication Sciences ),2020,
+자율주행기술의 현실과 전망,허건수(Kunsoo Huh),한국자동차공학회,2020,
+플랫폼기업과 여객운송규제에 대한 연구                      = A Study on Platform Companies and Passenger Transport Regulations,"김병오(Kim, Byeong-o)",원광대학교 법학연구소,2020,"['플랫폼운송기업', '공유경제', '승차공유', '카풀', '우버', 'Platform Transport Company', 'Sharing Economy', 'Car Sharing', 'Car Pool', 'Uber']"
+악천후 자율주행을 위한 Deep Joint Deraining and Dehazing 네트워크,이윤관(Younkwan Lee),한국정보과학회,2020,
+자율주행차 산업 활성화를 위한 AI 데이터 구축 전략,이승택(SeungTaek Lee),한국정보과학회,2020,
+비대면 시스템 구현을 위한 자율주행 서빙 로봇                      = Automobile Serving Robot for Untact System,홍정훈 ( Jeoun-hun Hong ),한국정보처리학회,2020,
+[ZOOM UP : 한국남부발전] 태백 귀네미풍력 8기 상업운전 개시 : 올해 2월 종합준공… 석탄구매 절감 기대_자율주행 드론 활용해 발전설비 품질 확보,배상훈,전력문화사,2020,
+VCCN에서 Content Store 교체 알고리즘의 성능에 관한 연구,최종인,국제문화기술진흥원,2020,"['Content Store', 'Replacement Algorithm', 'VANET', 'VCCN', 'SUMO', 'ns-3']"
+5G 서비스들에 대한 회계분리 방안 연구                      = Accounting Separation of 5G Services,강병민 ( Byung Min Kang ),정보통신정책학회,2020,"['5G망의 특성과 서비스', '회계분리', '배부기준자', '5G network characteristics and services', 'Accounting separation', 'Allocators']"
+군집분석 기반 자율주행차의 도로 주행 안정성 분석 및 주요 요인에 관한 연구,김동욱,대한교통학회,2020,
+도시부 자율주행 아키텍처 및 동적정보 제공 서비스,임이정,대한교통학회,2020,
+자율주행 대중교통서비스 이용 영향요인 연구 : 판교제2테크노밸리 통근자 중심으로,"빈미영(BHIN, Miyoung)",대한교통학회,2020,"['autonomous vehicle transit services (AVTS)', 'commuters', 'pangyo 2nd techno valley', 'pangyo zero shuttle (PAZES)', 'Plackett-Burman (PB) experimental design', '자율주행 대중교통 서비스(AVTS)', '통근자', '판교 제2테크노밸리', '판교제로셔틀(PAZES)', 'Plackett-Burman (PB) 실험설계']"
+제조물책임에 대한 형사책임의 부과와 수사 - 자동차산업의 사례를 중심으로 -,"백건하(Baek, Geonha)",경찰대학 범죄수사연구원,2020,"['제조물책임', '제조물책임법', '형사책임', '자동차산업', '자율주행자동차', 'Product Liability', 'Product Liability Act', 'Criminal Liability', 'Automotive Industry', 'Self-driving Car (Autonomous Vehicle)']"
+데이터 카탈로그 실증을 위한 교통데이터 서비스 개발,"박은미(PARK, Eun Mi)",대한교통학회,2020,"['Connected and Automated Public TrAnsit INnovation data', 'data catalog', 'DCAT', 'transportation data', 'user interface', '자율주행기반 대중교통시스템 데이터', '데이터 카탈로그', '교통 데이터', '사용자 인터페이스']"
+슬라이딩 모드 제어기를 이용한 자율 주행 차량의 자동 차선 변경 시스템 설계,김진성(Jin Sung Kim),한국자동차공학회,2020,"['Autonomous Driving Vehicle(자율주행차량)', 'Lane Change System(차선변경시스템)', 'Sliding mode Control(슬라이딩모드제어)', 'Advanced Driver Assistance System(첨단운전자보조시스템)']"
+AI융합 지능로보틱스 연구개발현황,최정단,한국기술혁신학회,2020,"['자율주행 모빌리티 서비스', '소셜로봇', '이동작업로봇', '인공지능', '엣지 및 클라우드 컴퓨팅']"
+주행시뮬레이터 기반 자율주행 이용자 행태 및 영향 분석,정경옥(Gyeongok JEONG),한국교통연구원(KOTI),2020,
+V2X를 이용한 교통 신호 예측 및 자율주행자동차 종 방향 제어 방법,윤수현(Suhyun Yoon),한국지능시스템학회,2020,"['자율 주행 자동차', '차량 사물 통신', '종 방향 제어', '교통신호', '교통 신호 주기', 'Autonomous Vehicle', 'V2X', 'Longitudinal Control', 'Traffic Signal', 'Traffic Signal Period']"
+빅 데이터 분석을 기반으로 하는 첨단과학기법의 현황과 한계 - 범죄예방과 수사의 측면에서 -,"최정일(Choi, Jungil)",한국법학회,2020,"['인공지능', '빅 데이터', '수사', '예방', '예측', 'Artificial Intelligence', 'Big data', 'Investigation', 'Prevention', 'Prediction']"
+가상열차편성기술 기반의 무정차 열차 스케줄링                      = Skip and Stop Scheduling based on Virtually Coupled Trains,이병훈,한국철도학회,2020,"['열차자율주행제어시스템', '열차간 직접통신 가상열차편성기술', '무정차 열차 스케줄링', 'Autonomous train control system', 'T2T communication', 'Virtual coupling', 'Skip-and-stop scheduling']"
+지능정보기술을 활용한 지방자치단체의 민원·복지서비스 혁신 방안,김정숙,한국지방행정연구원,2020,
+재난약자 대피 도움장치 활용을 위한 화재 피난 시뮬레이션 분석 연구                      = A Study on Fire and Evacuation simulation analysis for use of Disaster Vulnerable Personal Evacuation Device,최두찬,한국재난정보학회,2020,
+스마트도시 계획 진단을 통한 ‘스마트 지속가능도시’로의 전환방향                      = Direction for a Transition toward Smart Sustainable Cities based on the Diagnosis of the Smart City Plans,최희선,한국환경정책평가연구원(Korea Environment Institute),2020,"['스마트도시', '지속가능도시', '스마트도시계획', '도시재생사업', '스마트 그린도시']"
+스마트 농기계를 위한 자율주행 시스템 개발,이혜민(Hea-Min Lee),한국통신학회,2020,
+시뮬레이티드 자율주행 자동차의 주행행동 학습을 위한 CNN 기반 강화학습,조영완(Youngwan Cho),대한전기학회,2020,"['Self-Driving', 'Driving behavior learning', 'Reinforcement learning', 'DDPG', 'CNN']"
+자율주행자동차에 대한 도로교통법 대응에 관한 소고(小考)- 운전면허 규정을 중심으로 -                      = A Brief Study on Road Traffic Act Responses to Autonomous Vehicles–Focused on Driver’s License Regulations–,김연주,강원대학교 비교법학연구소,2020,"['자율주행자동차', '도로교통법', '자율주행자동차 운전면허', '법적대응', '도로교통상의 안전성', 'Autonomous Vehicles', 'Road Traffic Act', 'Autonomous Vehicles driver’s license', 'legal response', 'Road Traffic Safety']"
+자율주행차 사고와 운전자책임 : 운전자․ADS Entity 간 책임의 분화                      = ADS Driving and Alocation of Driver Liabilty betwen a Human Driver and an ADSE,황창근,홍익대학교 법학연구소(The Law Research Institute),2020,"['운전', '운전자', '운행', '운행자', '운전자책임', '운행자책임', '자율주행시스템(ADS)', '시스템후견인(ADSE)', 'SAE 단계', 'driving', 'driver', 'operation', 'operation', 'driver liabilty', 'operator liabilty', 'ADS(automated driving system)', 'ADSE(automated driving system entiy)', 'SAE leve']"
+글로벌 큐를 통한 임베디드 멀티코어 프로세서의 멀티 DNN 연산 성능 향상                      = Improving Multi-DNN Computational Performance of Embedded Multicore Processors through a Global Queue,조호진,한국정보통신학회,2020,"['멀티코어', '임베디드 분산 시스템', '자율주행 자동차', 'DNN', 'Autonomous Vehicles', 'Deep Neural Network', 'Embedded Distributed System', 'Multicore']"
+미래 자율주행 자동차 혁신과 증강현실 및 가상현실,이지은(Jieun Lee),한국정보과학회,2020,
+V2X 기반 군집주행을 위한 적정 화물차 및 품목 선정 기초연구,류승규,한국ITS학회,2020,"['V2X', '화물차 군집주행', '화물차 유형', '화물 품목', 'V2X', 'Truck platooning', 'Truck type', 'Cargo type']"
+"노지 스마트농업, 어떻게 추진해야 하나",남재작,GS&J 인스티튜트,2020,
+자율주행 기술 기반 농어촌용 셔틀버스 디자인 연구                      = Study on the Design of Shuttle Bus for Autonomous Driving Technology,김유현,한국기초조형학회(Korean Society of Basic Design & Art),2020,"['Aging of Population', 'Rural', 'Public Transportation', 'Self-driving shuttle', 'V2X', '인구 노령화', '농어촌', '대중교통', '자율주행 셔틀버스', '차량사물통신']"
+CNN 모델 평가를 위한 이미지 데이터 증강 도구 개발,최영원(Youngwon Choi),한국정보과학회 소프트웨어공학 소사이어티,2020,"['메타몰픽 테스팅', '데이터 어그멘테이션', '합성곱 신경망', '이미지 합성', 'Metamorphic Testing', 'Data Augmentation', 'CNN', 'Image Composition']"
+사물인터넷 환경에서 자율주행 기반의 주요국 드론 특성 비교/분석                      = Comparison & Analysis of Drones in Major Countries based on Self-Driving in IoT Environment,이동우,한국사물인터넷학회,2020,"['사물인터넷', '지능', '정보통신기술', '자율주행', '항공산업', 'IoT', 'Intelligence', 'ICT', 'Self-driving', 'Aviation industry']"
+자율주행 대응 능동형 자동차 인테리어 디자인 연구,곽성복(Seungbok Kwak),한국자동차공학회,2020,"['Crash Pad(크래시패드)', 'Instrument Panel(인스트루먼트 패널)', 'Autonomous Driving(자율주행)', 'Interior Design(실내디자인)']"
+자율주행 농기계 개발을 위한 위치 정보 기반 경로 생성 알고리즘 구현,한중희(Joong-hee Han),대한전자공학회,2020,
+자율주행자동차 연구개발 현황 및 도로부문 대응,이종덕,한국도로학회,2020,
+스마트 모빌리티의 적용과 도로교통 설계 이슈,소재현,한국도로학회,2020,
+자율주행 단계별 서비스 시나리오 발굴 프로세스 제안,정의철(EuiChul Jung),한국HCI학회,2020,"['서비스 플랫폼', '서비스화', '자율주행', '디자인 프로세스']"
+자율주행 인공지능 기술 개발을 위한 데이터 수집 및 학습 플랫폼,민경욱(KyoungWook Min),한국자동차공학회,2020,"['data collection platform(데이터 수집 플랫폼)', 'annotation (주석)', 'perception(인지)', 'planning (판단)', 'deep learning(딥러닝)']"
+자율주행 차량을 위한 인공지능 학습데이터 구축방안 연구,"남상관(Nam, Sang Kwan)",한국측량학회,2020,"['인공지능', '학습데이터', '레이블링', '자율주행차']"
+도심도로 자율협력주행 서비스 시나리오 개발,손승녀,한국정보통신설비학회,2020,"['cooperative automated driving', 'service scenario', 'use case', 'V2X communication']"
+자율협력주행 기반 조성을 위한 V2X 서비스 실증,이상희,한국지역정보개발원(구 자치정보화조합),2020,
+시스템 자원 관리를 통한 객체 인식 성능 저하 방지                      = Avoiding Performance Degradation of Object Detection via System Resource Management,김명선,대한전자공학회,2020,"['Deep neural network', 'Object detection', 'System resource management', 'Mixed-criticality system']"
+자율주행에서 카메라를 통한 객체검출 및 추적과 라이다 융합,이동현(Donghyun Lee),한국자동차공학회,2020,"['Object detection(객체 검출)', 'Object tracking(객체 추적)', 'Deep Learning(딥러닝)', 'Autonomous vehicle(자율주행 자동차)', 'Sensor Fusion(센서 융합)']"
+오프로드형 자율주행 로봇 구동 메커니즘에 관한 연구                      = A Study on the off-road self-driving robot drive mechanism,정혜원 ( Hye-won Jeong ),한국정보처리학회,2020,
+End to End 학습 기반 자율 주행 프레임워크 개발 및 실차 기반 실험,정찬영(Chan-Young Jung),제어로봇시스템학회,2020,"['end to end deep learning', 'autonomous driving', 'experiment', 'framework']"
+도심 자율주행을 위한 통합 시스템 연구 및 적용,박래근(Raegeun Park),제어로봇시스템학회,2020,"['integrated system', 'urban environment', 'K-city', 'autonomous driving technology']"
+자율주행자동차의 공공도로 주행을 위한 국제 표준화 동향과 이슈,김현(Hyun Kim),한국자동차공학회,2020,

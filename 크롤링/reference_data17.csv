@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+ETRI 자율주행 셔틀 시범 서비스,강도욱(Do-Wook Kang),대한전자공학회,2021,
+협력주행을 위한 지능형 커넥티드 자율주행시스템 및 엣지 인프라 연구,송유승(Yoo Seung Song),대한전자공학회,2021,
+무빙 윈도우를 이용한 FMCW RADAR 거리 해상도 향상 기법,박휘수(Hwesoo Park),대한전자공학회,2021,
+노지 밭고랑 환경 적용을 위한 자율조향 플랫폼 개발,조용준(Yongjun Cho),한국기계가공학회(The Korean Society of Manufacturing Process Engineers),2021,"['Electric Vehicle for Agriculture(농업용 전동주행장치)', 'Platform for Upland(노지용 플랫폼)', 'Autonomous Steering System(자율조향시스템)']"
+최적 제어 기반 자율 주행 차량의 최적 속도 프로파일 탐색 기법 연구,김택수(Tacksu Kim),한국자동차공학회,2021,"['Dynamic Programming(동적계획법)', 'Optimal Control(최적 제어)', 'Autonomous Vehicle(자율주행 자동차)', 'Speed Profile Optimization(속도 최적화)', 'Shifting Control(변속 제어)']"
+자율주행차량에서 혼합 횡방향 제어기를 적용한 경로 추종 알고리즘,권소련(Solyeon Kwon),한국자동차공학회,2021,"['Path-tracking(경로 추종)', 'Combined lateral controller(혼합 횡방향 제어기)', 'Pure pursuit(퓨어 퍼슛)', 'Stanley(스탠리)', 'Cross-track error(수직 거리 오차)', 'Preview distance(주시 거리)']"
+설계가능한 도메인 적응 데이터 증강 모델을 이용한 자율주행차 시스템의 성능 설계,유영민(Yeongmin Yoo),대한기계학회,2021,
+열악 조도 환경에서 융합센서를 활용한 딥러닝 기반 객체 인식,정현준(Hyeonjun Chong),한국자동차공학회,2021,"['fusion sensor(융합센서)', 'autonomous vehicle(자율주행차)', 'deep learning(딥러닝)', 'Ill-lit conditions(열악조도환경)', 'object detection(객체인식)']"
+CARLA 자율주행 시뮬레이터의 주행 시나리오 경로 설정을 지원하는 Software Application 개발,이예린(Yerin Lee),대한전자공학회,2021,
+과수원 환경에서 항법해 기반 자율주행 기술의 성능 평가,한중희(Joong-hee Han),대한전자공학회,2021,
+시나리오 기반의 자율주행 지능형 주거(住居) 서비스 로봇 디자인 제안,허승원(Seungwon Hur),한국디자인학회,2021,"['Service robotics', 'Housing service', 'Covid-19', 'Security service', 'Service design']"
+거시모형을 이용한 폐기물 차량 자율주행이 이산화탄소 배출량에 미치는 영향 분석                      = Analysis of the Effect of Autonomous Driving of Waste Vehicles on CO<sub>2</sub> Emission using Macroscopic Model,윤병조,한국재난정보학회,2021,['($CO_2$)']
+자율주행시스템 설치에 대한 취득세 과세 방안,서명자,한국지방세연구원,2021,
+C-ITS 기반 자율주행자동차를 활용한 승객 중심의 온-디맨드 운송 서비스,석호(Ho Suk),대한전자공학회,2021,
+자율주행자동차 국산 핵심 부품 기반 네트워크 토폴로지 설계 제안,오영달(Youngdal Oh),대한전자공학회,2021,
+자율주행차량을 위한 차세대 내부 네트워크의 보안 및 초고속 무결성 부여 기술 개발,신대교(DaeKyo Shin),대한전자공학회,2021,
+"자율주행차량 센서 데이터의 압축, 분류 및 병합 기술 연구",장수현(SooHyun Jang),대한전자공학회,2021,
+자율주행을 위한 도심지역 데이터셋 수집과 분석,김상윤(Sangyoon Kim),대한전자공학회,2021,
+자율주행자동차의 사고 안전성 평가를 위한 로봇시스템의 설계,박명연(M. Y. Park),한국기계가공학회,2021,"['Robot Design', 'Automated Vehicle', 'Safety Evaluation', 'Emergency Maneuver']"
+라이다와 시공간 정보를 활용한 도로 노면 상태 판단 알고리즘,서주원(Ju won Seo),한국자동차공학회,2021,"['Autonomous Driving(자율주행)', 'Road Surface Condition Classification(도로 노면 상태 판단)', 'LiDAR(라이다)', 'Spatio-temporal Information(시공간 정보)', 'Deep Neural Network(심층 신경망)']"
+다중 차선 도로 차선 변경을 위한 컨볼루션 신경망 기반 충돌 감지 시스템,정세훈(Se Hoon Chung),한국자동차공학회,2021,"['Collision Detection(충돌 감지)', 'Deep Learning(딥 러닝)', 'Convolution Neural Network(CNN)', 'Autonomous Driving(자율주행)', 'LiDAR(라이다)', 'Radar(레이더)']"
+시뮬레이션 환경에서 가상 LiDAR 센서를 이용한 ND Vector Map기반 자율주행 위치 인식 기법 개발,장건우(Keonwoo Jang),한국자동차공학회,2021,"['Autonomous Vehicle(자율주행자동차)', 'LiDAR(라이다)', 'Map Matching(맴 매칭)', 'Simulation(시뮬레이션)', 'Localization(위치인식)', 'Normal Distribution Transform(정규분포변환)']"
+라이다 센서 PCD(Point Cloud Data) 기반 연석 감지 알고리즘 개발,홍인준(Injun Hong),한국자동차공학회,2021,"['Autonomous driving(자율주행)', 'Curb detection(연석탐지)', 'Lidar(라이다)']"
+실시간 도로 환경 측정 알고리즘 연구,김한솔(Hansol Kim),한국자동차공학회,2021,"['ADAS(첨단 운전자 보조 시스템)', 'Autonomuos(자율주행)', 'AEB(자동 긴급 제동)', 'Road Friction(노면 마찰)', 'Slope(경사도)', 'Dugoff-Tire Model(두고프 타이어 모델)', 'PC-Crash(피씨크래시)']"
+자율주행을 위한 딥러닝 기반의 카메라 고장 안전 이미지 분류,최연호(Youn-Ho Choi),한국자동차공학회,2021,"['자율주행(Autonomous Parking)', '고장 안전(Fail Safe)', '딥러닝(Deep Learning)', '카메라(Camera)', '이미지 분류(Image Classification)', 'ADAS(Advanced Driver Assistance Systems)']"
+임베디드 환경에서의 CNN 기반 실시간 객체 및 차선 검출에 관한 연구,김웅태(UngTae Kim),한국자동차공학회,2021,"['FCW(전방 충돌 경고)', 'LDW(차선 이탈 경고)', 'ADAS(첨단 자율 주행 시스템)', 'CNN(합성곱 신경망)', 'Deep Learning(딥러닝)', 'Vehicle Detection(차량 검출)', 'Lane Detection(차선 검출)', 'Embedded System', 'SSD']"
+비주기 메시지를 위한 CAN-C 및 CAN-FD 메시지 응답 시간 분석,김혜리(Hyeri Kim),한국자동차공학회,2021,"['In-Vehicle-Network(차량 내부 네트워크)', 'Controller Area Network(CAN 통신)', 'CAN-FD(CAN-FD)', 'ECU(전자제어장치)', 'Busload (버스 부하율)']"
+자율주행 차량용 복합측위 모듈의 시스템 통합 차량 환경에서의 성능 평가 방안 연구,사의환(Yuihwa Sa),한국자동차공학회,2021,"['Autonomous Vehicle(자율주행 차량)', 'Complex Positioning Module(복합측위 모듈)', 'Actual Vehicle Evaluation(실차 성능 평가)', 'System Integrated Vehicle(시스템 통합 차량)']"
+좌표계 변환을 통한 차선 변경 경로 생성,장재익(Jaeik Jang),한국자동차공학회,2021,"['Autonomous vehicle(자율주행 자동차)', 'Path planning(경로계획)', 'Lane change(차선 변경)', 'Coordinate conversion(좌표계 변환)', 'Vehicle avoidance(차량 회피)']"
+자율주행을 위한 차로 수준의 고정밀 맵 데이터모델 설계에 관한 연구,김덕호(Duckho Kim),한국자동차공학회,2021,"['Data model(데이터모델)', 'Lane-level(차선레벨)', 'Autonomous driving(자울주행)', 'High definition map(고정밀맵)', 'Database(데이터베이스)']"
+상용차용 자율주행 테스트 플랫폼 설계 및 시험 평가 방안에 관한 연구,조성현(Sung-hyun Cho),한국자동차공학회,2021,"['Autonomous Vehicle(자율주행 차량)', 'Commercial Vehicle(상용차)', 'ADAS(첨단운전자지원시스템)', 'V2X(Vehicle to Everything)', 'HMI(Human Machine Interface)']"
+차량의 추종 성능 향상을 위한 곡률 변화량 기반 가변 지평선 Model Predictive Control,최윤석(Yoonsuk Choi),한국자동차공학회,2021,"['Model predictive control(모델 예측 제어)', 'autonomous driving(자율주행)', 'path tracking(경로 추종)', 'prediction horizon(예측 지평선)', 'variable horizon(가변 지평선)']"
+CarMaker 기반 가상환경 시뮬레이션을 이용한 도심주행용 통합 자율주행시스템 개발,허은균(Eungyun Heo),한국자동차공학회,2021,"['Urban driving(도심주행)', 'Autonomous driving(자율주행)', 'Virtual environment(가상환경)', 'Simulator(시뮬레이션)', 'CarMaker(카메이커)']"
+Simultaneous Stackelberg Game을 활용한 자율주행차 강인 추월 전략,지경태(Kyoungtae Ji),한국자동차공학회,2021,"['Self-driving car(자율주행차)', 'Overtaking(추월)', 'Game theory(게임이론)', 'Decision making(의사결정)', 'Intention estimation(의도추정)']"
+유인운전차와의 상호작용을 고려한 자율주행차량의 제어 전략,우제민(Jemin Woo),한국자동차공학회,2021,"['Autonomous vehicle(자율주행차)', 'Interaction(상호작용)', 'MPC(모델기반 예측 제어)']"
+전자식 조향 시스템의 상호 다중 모델 기반 고장진단,정철민(Cheolmin Jeong),한국자동차공학회,2021,"['Autonomous vehicle(자율주행 자동차)', 'Electric power steering system(전자식 조향 시스템)', 'Fault diagnosis algorithm(고장진단 알고리즘)', 'Kalman filter(칼만 필터)', 'Interacting multiple model(상호 다중 모델)']"
+협소 주차 공간에서의 N-Circles 경로 생성 기법,정용우(Yong Woo Jeong),한국자동차공학회,2021,"['Autonomous Driving Vehicle(자율주행차량)', 'Autonomous Parking System(자동주차시스템)', 'Path Planning(경로 생성)', 'Optimization(최적화)', 'Advanced Driver Assistance System(첨단운전자보조시스템)']"
+자율주행차량의 실 도로 주행기반 평가 검증을 위한 V2X 통신 및 레퍼런스 데이터의 경향성 비교,김태형(Tae-hyeong Kim),한국자동차공학회,2021,"['Autonomous driving(자율주행)', 'V2X Communication(차량 대 사물 통신)', 'Real-road driving(실 도로 주행)', 'Evaluation(평가)', 'Verification(검증)']"
+자율주행차를 위한 도로 환경 및 버스 주행 데이터셋,김상권(Sangkwon Kim),한국자동차공학회,2021,"['Autonomous Driving(자율주행)', 'Dataset(데이터셋)', 'Computer Vision(컴퓨터 비전)', 'LiDAR(라이다)', 'GNSS(위성 항법 시스템)', 'Semantic Point Cloud Map(의미론적 포인트 클라우드 정밀지도)']"
+자율주행을 위한 의미론적 전역 포인트 클라우드 맵 데이터셋 구축,송하민(Hamin Song),한국자동차공학회,2021,"['LiDAR(라이다)', 'Point Cloud Map(포인트 클라우드 맵)', 'Semantic Segmentation(의미론적 분할)', 'Dataset(데이터셋)', 'Deep Learning(딥러닝)']"
+종방향 자율주행을 위한 유한 기억 기반 인간 모사 학습을 이용하는 적응형 되먹임 제어 알고리즘 개발,오세찬(Sechan Oh),한국자동차공학회,2021,"['Autonomous driving(자율주행)', 'Feedback control(되먹임 제어)', 'MIT rule(MIT 규칙)', 'Human-like learning(인간 모사 학습)', 'Least squares(최소 자승)', 'Finite memory(유한 기억)']"
+자율주행 자동차의 가상 예견 지점을 이용하는 스키드 조향 기반 차선 변경을 위한 휠 속도 제어 알고리즘 개발,김학주(Hakjoo Kim),한국자동차공학회,2021,"['Autonomous vehicle(자율주행 자동차)', 'Skid steering(스키드 조향)', 'Lane change(차선 변경)', 'Wheel speed control(휠 속도 제어)', 'In-wheel motor(인 휠 모터)', 'Virtual preview point(가상 예견 지점)']"
+자동차용 통합 HUB SYSTEM 기술에 대한 연구,김재환(Jaehwan Kim),한국자동차공학회,2021,"['HUB', 'PD(Power Delivery', '전력전달)', 'USB(Universal Serial Bus)', 'D+/-(DATA PLUS/MINUS)', 'CC(Configuration Chanel', 'PD 충전 통신핀)', 'Type A(USB Connector A형)', 'Type C(USB Connector C형)']"
+자율주행차량의 센서 메시지 관리를 위한 SOME/IP 기반의 Data Handler 설계,한준영(Junyoung Han),한국자동차공학회,2021,"['Autonomous Driving(자율주행)', 'In-Vehicle Network(차량 내부 네트워크)', 'Linux(리눅스)', 'Vehicle Ethernet(차량용 이더넷)', 'SOME/IP(SOME/IP)']"
+자율주행 레이싱카 제어 모델에 관한 예비연구                      = A Pilot Study on Self-driving Racing Car Control Model,이영찬 ( Youngchan Lee ),한국정보처리학회,2021,
+자율주행자동차 판단능력 등급화를 위한 시나리오 개발 연구,"진은주(Jin, Eun Ju)",대한토목학회,2021,"['자율주행자동차', '인식기술', '판단능력', '인공지능 시스템', '시나리오 개발']"
+인지센서 적용 발수코팅 내구성 검증,김완철,한국신뢰성학회,2021,
+자율주행을 위한 이미지 시퀀스 기반의 3차원 객체 검출 네트워크,심상민(Sangmin Sim),한국자동차공학회,2021,"['3D Object Detection(3차원 객체 검출)', 'Depth Estimation(깊이 추정)', 'Deep Learning(심층 학습)', 'Convolutional Neural Network(컨볼루션 신경망)', 'Autonomous Driving(자율주행)']"
+PRESCAN을 이용한 실도로 환경에서 Dijkstra 알고리즘 기반 경로 계획 설계 및 구현,서다연(Dayeon Seo),한국자동차공학회,2021,"['Path Planning(경로계획)', 'Dijkstra Algorithm(다익스트라 알고리즘)', 'Prescan(프리스캔)', 'Automotive Vehicle(자율주행 자동차)']"
+자율주행 차량의 교통시뮬레이션을 통한 효율적 교통 인프라 설계의 제안,박희수(Heesoo Park),한국자동차공학회,2021,"['Autonomous Driving(자율주행)', 'Simulation model(시뮬레이션 모델)', 'Traffic Infrastructure(교통 인프라)', 'Traffic Simulation(교통 시뮬레이션)', 'PTV Vissm']"

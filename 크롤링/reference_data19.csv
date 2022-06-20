@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+Mask EID 기반 CAN 프로토콜 보안성 강화 방안                      = Enhanced Security in CAN Protocol by  Mask EID,윤홍,국방보안연구소,2021,"['CAN', 'Network Acees', 'Mask', 'CAN', 'Random ID', 'Masking']"
+비포장노면용 타이어테스트베드 개발에 관한 연구,이대경(Dae-Kyung Lee),대한기계학회,2021,"['타이어 테스트베드(Tire test bed)', '자율주행(Autonomous driving)', '험지(Off road)', '차량동역학(Vehicle dynamics)']"
+자율주행 효율성 향상을 위한 활동성 장애물 추출에 관한 연구                      = A Study on the extraction of activity obstacles to improve self-driving efficiency,박창민,아이씨티플랫폼학회,2021,"['Activity obstacles', 'Center scene', 'Activity size', 'Activity repeatability', 'Self- driving']"
+자율주행 환경의 전자기 해석을 위한 상용 및 자체 시뮬레이터 개발 동향                      = Commercial and In-house Simulator Development Trend for Electromagnetic Analysis of Autonomous Driving Environments,박우빈,(사)디지털산업정보학회,2021,"['Computational Electromagnetics', 'Numerical Analysis', 'Simulator', 'Simulation']"
+도심에서의 무인 자율주행 시스템 연구 및 적용,정태혁(Tae-Hyeok Jeong),대한전기학회,2021,
+Shareable Point를 이용한 차로 수준 위치참조 방법,이경민(Gyeongmin Lee),대한공간정보학회(The Korean Society for Geo-Spatial Information System),2021,
+상용차 자율협력주행 플랫폼 평가를 위한 V2X 기반 평가환경 개발                      = Evaluation Environment based on V2X Communication for Commercial Vehicle Cooperative Autonomous Driving,정한균 ( Han-gyun Jung ),한국항행학회,2021,"['V2X', 'Cooperative Autonomous Driving', 'Test method', 'Evaluation environment', 'Infrastructure']"
+Yocto Project 기반 ROS2 를 탑재한 청소로봇시스템 개발,김윤성(Yun-Sung Kim),제어로봇시스템학회,2021,"['Yocto', 'ROS', 'ROS2', 'cleaning robot', 'gazebo', 'robot simulator', 'SLAM', 'navigation', 'autonomous driving']"
+도로공간정보 구축을 위한 기준점 거리 별 MMS 성과물의 정확도 평가,"이근왕(Lee, Keun Wang)",한국측량학회,2021,"['Accuracy Evaluation', 'Global Navigation Satellite System', 'Mobile Mapping System', 'Road Geospatial Information', '정확도 분석', '위성항법시스템', '모바일맵핑시스템', '도로공간정보']"
+비전 센서를 이용한 실내 자율주행 이동 로봇의 자기위치추정,이채현(Chae-Hyun Lee),대한기계학회,2021,"['머신 비전(MachineVision)', '실내 측위(Indoor Localization)', '칼만 필터(Kalman Filter)']"
+자율주행 평가용 가상주행환경 구축 방법론에 대한 연구,강원율(Wonyul Kang),대한기계학회,2021,"['Virtual Test Drive(가상주행환경)', 'openDRIVE(오픈드라이브)', 'openSCENARIO(오픈시나리오)', 'Mobile Mapping System(모바일 맵핑 시스템)', 'Vehicle dynamics model(차량 동역학 모델)', 'Autonomous Driving(자율주행)']"
+보수적 규칙 기반 의사결정을 통한 자율주행 버스의 지역 경로 계획,고건희(Geonhee Ko),대한기계학회,2021,"['자율주행(Autonomous driving)', '지역 경로 계획(Local path planning)']"
+정밀지도 구축을 위한 다중카메라기반 모바일매핑시스템 개발,"홍주석(Hong, Ju Seok)",한국측량학회,2021,"['Mobile Mapping System', 'HD Map', 'Multi-Camera', 'Time Synchronization', '모바일매핑시스템', '정밀지도', '다중카메라', '시각동기화']"
+자율주행 성능평가를 위한 HIL기반 시뮬레이션 환경구축 연구                      = A Study on HIL-Based Simulation Environment Construction for Evaluation of Autonomous Driving Performance,이명수,한국통신학회,2021,"['Autonomous Driving', 'HIL Simulation', 'Evaluation scenario', 'Environment construction', 'ADAS']"
+협조운용을 적용한 자율주행 차선변경에 관한 연구                      = A Study on Autonomous Vehicle Lane Change Method Using Cooperative Maneuver,장경진,한국콘텐츠학회(The Korea Contents Society),2021,
+자율주행자동차의 주행 알고리즘 개발을 위한 조향 구동모듈 소개,최정현(Jung Hyun Choi),한국자동차공학회,2021,
+고장 주입 시뮬레이션 기반 자율주행 자동차의 안정성 분석 및 고장안전 사양 도출,박형철(Hyungchul Park),대한기계학회,2021,"['Autonomous Driving Simulation(자율주행 시뮬레이션)', 'Fault Injection Test(고장주입 테스트)', 'Risk Assessment(위험성 평가)', 'Fail-safe Requirements(안전사양)']"
+주변 교통참가자의 주행 의도 추정을 활용한 자율주행차 최적제어,한경석(Kyoung Seok Han),대한기계학회,2021,"['Game Theory(게임이론)', 'Optimal Control(최적제어)', 'Autonomous Vehicle(자율주행차)']"
+교차로에서 자율주행을 위한 심층 강화 학습 활성화 함수 비교 분석                      = Comparison of Activation Functions using Deep Reinforcement Learning for Autonomous Driving on Intersection,이동철,한국인터넷방송통신학회,2021,"['Autonomous Driving', 'Deep Learning', 'Reinforcement Learning']"
+자율주행 시스템 안전성 확보를 위한 운전자 영상데이터 취득 시스템에 관한 연구,유내원(Naewon You),한국자동차공학회,2021,"['Driver State Monitoring (운전자상태모니터링)', 'Driving Simulator (주행시뮬레이터)', 'Eye Tracking (시선추적)', 'Driver Assistance System (운전자보조시스템)']"
+의료용 자율주행 스쿠터의 설계,권제성(J. S. Kwon),한국기계가공학회,2021,"['Medical Scooter', 'Autonomous Driving', 'Autonomous Driving Scooter']"
+비정형 환경에서의 자율주행 호출 서비스를 위한 전역 경로계획,심영보(Youngbo Shim),대한전자공학회,2021,
+다중 작업 학습을 통한 도로 추적 자율 주행 기술 구현,이인환(In-Hwan Lee),대한전자공학회,2021,
+FastSLAM 기반 LiDAR 항법의 무결성 보장을 위한 센서 고장 검출 및 제거 방법론,최필훈(Pil Hun Choi),한국항공우주학회,2021,"['Highly Autonomous Vehicle (자율주행차)', 'FastSLAM', 'LiDAR', 'integrity risk assessment', 'PAC Bayesian theory', 'Fault Detection and Exclusion']"
+자율주행이 가능한 퍼스널 모빌리티 플랫폼 개발 및 제어,정의정(E. J. Jung),한국기계가공학회,2021,"['Mobile Robot', 'Navigation', 'Lidar', 'Depth Camera']"
+미래 자율협력주행 모빌리티 환경에서 통합 사이버 보안체계 연구 정립,유용식,대한교통학회,2021,
+자율 주행 경로 계획을 위한 장애물 분류에 따른 비용 함수,김영민(Yeongmin Kim),한국자동차공학회,2021,"['Obstacle avoidance', 'Cost function', 'Path planning', 'RRT* algorithm']"
+자율주행차량 내 자발적 주행상황인지 요구 시점: 실차기반 Wizard-of-Oz 자율주행 기반 실증적 연구,전은기(Eunki Jeon),한국HCI학회,2021,"['자율주행', '비 운전 관련 작업', '상황인지', 'Wizard-of-Oz', '실차기반 WoZ 자율주행']"
+UNECE 자동차 국제기준 월간 동향 (25),임종순(Jong Soon Lim),한국자동차공학회,2021,
+미래차(전기 · 수소 · 자율주행차) 전환 대응실태 평가와 과제,김용원(Yongwon Kim),한국자동차공학회,2021,
+자율주행자동차의 군 적용방안,주우삼,한국방위산업진흥회,2021,
+공동주택 서비스 로봇 연구를 위한 서비스디자인 프로토타이핑 활용 사례,김정희(Jeonghee Kim),한국HCI학회,2021,"['서비스디자인 프로토타이핑', '서비스 로봇', '공동주택']"
+형사절차의 디지털 트랜스포메이션,"이원상(Lee, Won Sang)",한국법학원(韓國法學院),2021,"['형사사법정보시스템', '형사전자소송', '전자영장', '디지털 증거법', '온라인 수색', 'Korean information system criminal justice services', 'Criminal electronic litigation', 'Electronic warrant', 'Digital Evidence Law', 'Online search']"
+설문기반 원격자율주행 서비스의 사용자 수용성 연구,장정아,한국통신학회(Korea Institute Of Communication Sciences ),2021,
+MPC 기반 자율 주행 차량용 통합 종방향 및 횡방향 제어시스템,김소람(Soram Kim),한국자동차공학회,2021,"['Model Predictive Control(MPC', '모델 예측 제어)', 'Autonomous Vehicle(자율 주행 차량)', 'Path Generation(경로 생성)', 'Path Tracking(경로 추종)', 'Reference Speed(목표 속도)']"
+"보행자 행동 특성을 고려한 자율 주행 차량 조작 경험디자인 방향 연구 -지역, 연령, 교통교육 수준을 고려한 보행자와 운전자 상호 작용 중심으로-",변영준(Youngjun Byun),한국HCI학회,2021,"['자율 주행', '보행자 행동', '보행자- 운전자 상호 작용']"
+[해외통신원 소식] 일본 자율주행전용보험의 동향,김재열,한국교통연구원(KOTI),2021,
+자율주행 전용차로 도입에 따른 고속도로 교통류 영향평가,김종호,대한교통학회,2021,
+비보호 교차로 자율주행 기능 구현,김주영(Jooyoung Kim),한국자동차공학회,2021,"['Autonomous vehicle(자율주행)', 'Self-driving(자율주행)', 'Unprotected junction(비보호 교차로)', 'Situation Awareness(상황인식)', 'Local Path(지역경로)']"
+자율협력주행 버스를 중심으로 한 주행 리스크 산출 및 대처방안 개발,이지원,대한교통학회,2021,
+안전한 자율주행을 위한 도로환경 등급화 연구,유화평,한국ITS학회,2021,
+운전성향에 따른 자율주행 주행행태 선호도 평가 연구,황순천,한국ITS학회,2021,
+주행 시뮬레이터를 이용한 이용자 측면 최적 자율주행 동작 메커니즘 평가방법 개발,황순천,한국ITS학회,2021,
+도로교통법 기반 자율주행차 안전운전능력 평가 방안,김태경,한국ITS학회,2021,
+자율주행차량 위험운전행동 탐지 방법론 개발: 판교제로시티를 중심으로,서영훈,대한교통학회,2021,
+차량 포그 컴퓨팅에서 LT 코드를 이용한 블록체인 동기화                      = LT Code Based Blockchain Synchronization for Vehicular Fog Computing,심하용,한국통신학회,2021,"['V2X', 'Vehicular fog Computing', 'Vehicular Blockchain', 'LT Code', 'Blockchain Synchronization']"
+자율차량 안전을 위한 긴급상황 알림 및 운전자 반응 확인 시스템 설계                      = A Design of the Emergency-notification and Driver-response Confirmation System(EDCS) for an autonomous vehicle safety,손수락,한국정보전자통신기술학회,2021,"['Autonomous vehicles', 'Hidden Markov Model', 'Tacotron2', 'Speech recognition', 'Speech to Text', 'Text to Speech']"
+정보중심 마이크로서비스 기반 자율차량 연구 방향에 대한 제언                      = Suggestions on Future Research Directions of Autonomous Vehicles based on Information-Centric Micro-Service,Muhammad Atif Ur Rehman,한국인터넷방송통신학회,2021,"['Information-Centric Networking', 'Microservices', 'Autonomous Vehicles']"
+자율주행 승차공유 서비스 이용자의 매칭 기준 선호 요인 문헌 연구,장혜원,한국ITS학회,2021,"['자율주행', '승차공유', '자율주행 승차공유', '매칭', '선호']"
+고정밀 위성항법서비스의 무결성 감시 방안 분석                      = Analysis on the Integrity Monitoring Methods of High Accuracy Service of Global Navigation Satellite Systems,손표웅 ( Pyo-woong Son ),한국항행학회,2021,"['Maritime PNT service', 'GNSS', 'Augmentation system', 'Integrity', 'High accuracy positioning service']"

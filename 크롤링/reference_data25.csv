@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+자율주행차 개발을 위한 가상 V&V 플랫폼,손민혁(Minhyuk Son),한국자동차공학회,2020,
+자율주행을 위한 도로환경모델링 및 인식기법 기술동향,강연식(Yeonsik Kang),한국자동차공학회,2020,
+열차간 통신기반 열차자율주행제어시스템의 주행안전기능 설계 및 구현: Part Ⅱ,이병훈(Byung-Hun Lee),한국통신학회,2020,"['열차자율주행제어시스템', '주행안전기능', '차상ATP', 'SCADE', 'autonomous train control system', 'safety functions', 'onboard ATP']"
+저속 충돌 시 차량 내 스마트폰 사용자의 목 관절 부하 연구,김은지(Eunjee Kim),한국자동차공학회,2020,"['Autonomous driving(자율주행)', 'Non-neutral head posture(비중립적자세)', 'Occupant(탑승자)', 'Whiplash injury(편타 손상)', 'Collision(충돌)', 'Rear-end collision(후방충돌)', 'Smartphone use(스마트폰 사용)']"
+글로벌 과학난제 도전연구프로젝트 분석을 통한 우리나라 지질자원기술에의 바람직한 제언                      = Desirable Suggestions for Korean Geo-technology R&D through Analysis of the Global Grand Challenges and Moonshot Projects,김성용,대한자원환경지질학회,2020,"['과학난제', '지질자원기술', '초융합', '고등연구계획국(DARPA)', '문샷', 'scientific challenges', 'geoscientific', 'super-convergence', 'DARPA', 'moonshot']"
+자율주행로봇을 위한 강인 H<SUB>∞</SUB> 샘플치 퍼지제어기 설계,지성철(Sung Chul Jee),한국지능시스템학회,2020,"['자율주행로봇', '타카기-수게노(Takagi-Sugeno) 퍼지모델', '샘플치제어', 'H&lt', 'SUB&gt', '∞&lt', '/SUB&gt', '제어', '선형행렬부등식', 'mobile robot', 'Takagi-Sugeno fuzzy model', 'sampleddata control', 'control', 'linear matrix inequalities(LMI)']"
+트랙터 주행 제어를 위한 밭 경운 경계 및 선회 지점 검출                      = Plown boundary and turning point detection to control tractor,서다솜 ( Dasom Seo ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2020,"['트랙터', '자율주행', '객체 검출', '객체 분할']"
+자율주행자동차의 등장에 따른 배상책임과 증명책임의 과제                      = A Study on the Liability for Damages and the Burden of Proof Relating the Autonomous Car,임상혁,연세대학교 법학연구원,2020,"['자율주행자동차', '국제기술표준', '배상책임', '증명책임', '제조물책임', '구상권', 'autonomous car', 'technical standard', 'liability for damage', 'burden of proof', 'product liability']"
+자율주행차의 충돌회피를 위한 Lidar기반 조향각 산출,최자형(Jahyong Choi),한국자동차공학회,2020,"['LiDAR (라이다)', 'Clustering (집단화)', 'ROS (로스)', 'Autonomous Vehicle (자율주행차)', 'Collision Avoidance (충돌회피)']"
+자율주행 분야 웨이모(Waymo) 국내 특허 현황,김병년(Byoungnyoun Kim),한국자동차공학회,2020,
+‘개인용 비행체(PAV)’의 도심지내 운용에 관한 법적 검토                      = A Legal Review on the Operation for the Personal Air Vehicles in the City Areas,"석호영(Seok, Ho-Young)",한국토지공법학회,2020,"['도심항공모빌리티(Urban Air Mobility)', '개인용 비행체(Personal Vehicle)', '모빌리티 환승거점(Hub)', '비행구역(Air Space)', '항공로(Airway)']"
+[Zoom in] 자율주행차 왔지만… 2020년 상상과 현실,김영대,연합뉴스 동북아센터,2020,
+자율주행자동차 특별법 제정에 관한 연구 - 보험소비자 보호관점을 중심으로 -                      = A Study for Enactment of the Special law on Autonomus Vehicle - Focused on Insurance Consumer Protection -,표성엽 ( Pyo Sung Yeop ),한국금융소비자학회,2020,"['자율주행자동차', '자율주행시스템', '손해배상책임', '안전기준', '특별법', 'Autonomous Vehicle', 'Self Driving Vehicle', 'Autonomous driving system', 'Safety standard', 'Special law', 'Liability Compensation']"
+자율주행을 위한 라이다 기반 객체 인식 및 분류                      = Lidar Based Object Recognition and Classification,변예림,사단법인 한국자동차안전학회,2020,"['Lidar(라이다)', 'Clustering(군집화)', 'Classification(분류)', 'Object(객체)', 'Feature Point(특징점)']"
+사물인터넷 엣지 컴퓨팅에서 스마트 모바일 객체의 효율적 에너지 소비를 위한 엣지 카메라 시스템,김우재(Woojae Kim),한국정보과학회,2020,"['엣지 카메라', '배터리 에너지', '스마트 이동 객체', 'IoT 엣지 컴퓨팅', 'edge camera', 'battery energy', 'smart mobile object', 'IoT edge computing']"
+저속 무인노면청소차 자율주행을 위한 인지/판단/제어 알고리즘 연구 및 검증환경 구축,김원균(W. G. Kim),Korean Society for Precision Engineering,2020,"['Autonomous sweeper', 'Virtual verification', 'SW architecture', 'Autonomous algorithm integration']"
+대형버스용 자율주행 네트워크를 위한 통신 관련 이슈에 관한 연구,권지훈(J. H. Kwon),Korean Society for Precision Engineering,2020,"['Autonomous driving', 'Heavy vehicles', 'In vehicle network', 'Vehicle ethernet']"
+자율주행 차량의 안전을 위한 타이어 마모도 판단 알고리즘,한준영(J. Y. Han),Korean Society for Precision Engineering,2020,"['Tire wear', 'Autonomous vehicle', 'Machine learning', 'Tire', 'Neural network']"
+비콘을 이용한 자율주행 로봇의 구현에 관한 연구,이진희(Jin-Hee Lee),한국정보기술학회,2020,"['Autonomous Driving', 'Raspberry Pi', 'Beacon']"
+자율주행차량 인프라 규모에 대한 거시적 교통흐름 분석,강지우,한국ITS학회,2020,
+자율주행자동차 도입에 따른 네트워크 파급효과 분석,조원철,한국ITS학회,2020,
+AI 컴퓨팅모듈 상태정보 제공을 통한 자율주행차 신뢰도 향상방안 기초 연구,진은주,한국ITS학회,2020,"['AI', '자율주행차', '자율주행차 신뢰도', '상태정보 제공', '컴퓨팅 모듈']"
+자율주행을 위한 PTP 기반 이기종 네트워크의 시간 동기화,박준환(J. H. Park),Korean Society for Precision Engineering,2020,"['Autonomous Driving', 'Precision time protocol', 'In-vehicle network', 'Time synchronization', 'Gateway']"
+배터리 수명을 고려한 자율주행 전기자동차의 가속 프로파일 최적화에 관한 연구,이민우(M. W. Lee),Korean Society for Precision Engineering,2020,"['Electric Vehicle', 'Autonomous', 'Battery Life', 'Aging', 'Energy Efficiency']"
+자율주행을 위한 TSN 의 스케줄링 성능을 고려한 라우팅 기반 Redundancy Topology 설계,전영후(Y. H. Jeon),Korean Society for Precision Engineering,2020,"['Autonomous Driving', 'Time-Sensitive Network', 'Fault-tolerance', 'Redundancy', 'Topology Design']"
+무인잠수정의 경로점 유도 법칙 설계 및 HILS 검증                      = Development of AUV’s Waypoint Guidance Law and Verification by HILS,황종현,한국정보통신학회,2020,"['자율무인잠수정', '경로점 유도', '실물모의시험', '시선각', 'AUV(Autonomous Unmanned Vehicle)', 'Waypoint guidance', 'HILS(Hardware In-the Loop Simulation)', 'LOS(Line Of Sight)']"
+효율적인 비정형 도로영역 인식을 위한 Semantic segmentation 기반 심층 신경망 구조                      = Efficient Deep Neural Network Architecture based on Semantic Segmentation for Paved Road Detection,박세진,한국정보통신학회,2020,"['Computer vision', 'Deep learning', 'Semantic segmentation', 'Autonomous driving', 'Road detection', '컴퓨터 비전', '딥러닝', '의미적 분할', '자율 주행', '도로영역 인식']"
+자율주행 트랙터를 위한 장애물 검출용 4 분할 영상 시스템                      = Four Split Image System for Object Detection for Autonomous Tractors,정택훈 ( Taekhoon Jung ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2020,"['자율주행 트랙터', '객체 인식', '분할 영상']"
+자율 농작업을 위한 딥러닝 기반 작업영역 경계 검출                      = Deep-learning-based Region Discrimination for Autonomous Farming,한승훈 ( Seung-hoon Han ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2020,"['자율주행', '딥러닝', '영역분할', '경계검출', '트랙터 경운']"
+AI를 적용한 농기계 이력/운행 데이터 분석을 위한 데이터셋 항목 개발                      = Development of dataset items for analysis of history/operation data of agricultural machinery applying AI,김태민 ( Tae Min Kim ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2020,"['농업기계', '블록체인', '인공지능', '콤바인', '트랙터']"
+자율주행자동차의 안전성평가를 위한 한 차선 내 복수차량 실험 및 검증,이장우(J. U. Lee),Korean Society for Precision Engineering,2020,"['Autonomous Vehicle', 'Safety Assessment', 'Field Test']"
+Ethernet Backbone 기반의 자율주행 대형버스 네트워크를 위한 Gateway 및 ESU 설계,조재형(J. H. Cho),Korean Society for Precision Engineering,2020,"['Gateway', 'Vehicle Ethernet', 'Protocol Conversion', 'Routing', 'Ethernet Switch Unit']"
+자동차용 소프트웨어 무선 업데이트 관련 법령 제정 방향,이요셉,한국ITS학회,2020,"['소프트웨어', '무선 업데이트(Over The Air 업데이트', 'OTA)', '자율주행자동차']"
+비콘을 이용한 자율주행 소독 플랫폼,김성권(Seong-Kwon Kim),대한전기학회,2020,
+자율주행차의 라이다 데이터를 이용한 고속도로 밀도 추정 연구,박성호,한국ITS학회,2020,"['자율주행차', '. 라이다', '밀도']"
+자율주행차 학습에 고려되어야 하는 위험환경 조건,"Ahmed, Khaqan",한국ITS학회,2020,"['Near Critical Conditions', 'Autonomous Vehicles', 'Artificial Intelligence', 'Training.']"
+"자율주행차 시대, 교통공학자는 무엇을 할 것인가?",신부용,한국교통연구원(KOTI),2020,
+내장형 시스템에 적용 가능한 지오이드의 실시간 결정                      = Real-time Calculation of Geoid Applicable to Embedded Systems,김현석 ( Hyun-seok Kim ),한국항행학회,2020,"['Real-time geoid calculation', 'Bi-linear interpolation', 'Inverse distance weighted interpolation', 'EGM2008', 'Embedded system']"
+자율주행차 상용화를 넘어 자율주행 교통물류체계로,이창기,한국교통연구원(KOTI),2020,
+시뮬레이티드 자율주행 자동차의 주행행동 학습을 위한 기반 강화학습                      = CNN based Reinforcement Learning for Driving Behavior of Simulated Self-Driving Car,조영완,대한전기학회,2020,"['Self-Driving', 'Driving behavior learning', 'Reinforcement learning', 'DDPG', 'CNN']"
+LRF 센서를 이용한 글로벌 맵 기반의 적응형 이동 장애물 회피 알고리즘 개발                      = Development of Adaptive Moving Obstacle Avoidance Algorithm Based on Global Map using LRF sensor,오세권,한국정보전자통신기술학회,2020,"['Autonomous', 'LRF Sensor', 'Moving Obstacle', 'Mobile Robot', 'Navigation', 'VFH']"
+자율차량 안정성을 위한 도로 거칠기 기반 제동압력 계산 시스템                      = The road roughness based Braking Pressure CalculationSystem(BPCS) for an Autonomous Vehicle Stability,손수락,한국정보전자통신기술학회,2020,"['Brake pressure calculation', 'Random Forest', 'Road roughness classification', 'Region of Interest', 'Vehicle friction coefficient']"
+UNECE 자동차 국제기준 월간 동향 (22),임종순(Jong Soon Lim),한국자동차공학회,2020,
+「자율주행 기술개발 혁신사업」의 주요 내용 및 향후 추진계획,김원길,한국교통연구원(KOTI),2020,
+물류 집하 및 분류 작업을 위한 자율주행 팔레트 트럭 시스템 개발,원창연,한국산업경영시스템학회,2020,
+항만용 자율협력주행 동적지도(LDM) 및 관제용 위치인식 설계 방안 연구,김길태,한국항해항만학회,2020,
+도시부 자율주행셔틀 운행 안전성을 위한 모니터링 지표 개발,임동현,한국ITS학회,2020,
+자율주행차량 안전 운행을 위한 파발원지 검출 시스템,최윤선,한국ITS학회,2020,"['자율주행차량', '배열 안테나', '파발원지 검출']"
+역 말 안장 접지면 구조를 가지는 UWB 안테나,백민석,한국ITS학회,2020,"['자율주행차량', 'UWB 안테나', '역 말 안장형']"
+컨테이너 터미널 유형별 이송장비 투자가치 분석 : 자율주행 차량 운영관점,정승호,한국항해항만학회,2020,

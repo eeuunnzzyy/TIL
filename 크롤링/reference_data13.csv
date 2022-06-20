@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+자율주행차량 승객의 멀미 감소를 위한 차체 디자인 요인의 고찰,구상(Sang Koo),한국자동차공학회,2021,"['Motion sickness(멀미)', 'Skateboard flat form(스케이트보드 플랫폼)', 'Window area(유리창 면적)', 'Interor light(실내 조명)', 'Reclining seat(등받이 각도 조절 좌석)', 'Seat back angle(좌삭 등받이 각도)']"
+자율주행시대에 통근시간 만족도에 영향을 미치는 요인분석                      = Analysis of Factors Affecting Satisfaction with Commuting Time in the Era of Autonomous Driving,장재민,한국ITS학회,2021,"['Commuting Time', 'Commuting Satisfaction', 'Autonomous driving', 'Logistic Regression Analysis', '통근시간', '통근만족도', '자율주행자동차', '로지스틱회귀분석']"
+ADAS 데이터를 이용한 중앙집중식 자율주행자동차 모빌리티 서비스의 개발과 평가에 관한 연구                      = Development and Evaluation of Centralized Autonomous Vehicle Mobility Service Using ADAS Data,정대한,대한교통학회,2021,"['첨단 운전자 보조 시스템', '자율주행자동차', '협력 지능형교통시스템', '동적 경로안내시스템', '차량과 인프라 간 통신', 'advanced driver assistance system', 'autonomous vehicle', 'cooperative intelligent transport system', 'dynamic route guidance system', 'vehicle-to-infrastructure communication']"
+규제개혁을 위한 규제샌드박스 제도 연구                      = A Study on the Regulatory Sandbox System for Regulatory Reform,최철호,경상국립대학교 법학연구소,2021,"['Regulatory sandbox', 'Fourth Industrial Revolution', 'Deregulation', 'Fintech', 'Regional Special Zone', '규제샌드박스', '4차 산업혁명', '규제완화', '핀테크', '지역특구']"
+자율주행 로봇 기반 드라이브스루 서비스 제안,김시완(Siwan Kim),한국HCI학회,2021,"['자율주행 로봇', '드라이브스루', '비대면', '사용자경험']"
+가변성을 고려하는 VENTOS 기반 군집 자율주행 시뮬레이션                      = VENTOS-Based Platoon Driving Simulations Considering Variability,김영재,한국정보처리학회,2021,"['Platoon Driving', 'Autonomous Driving', 'Variability', 'Simulation', 'VENTOS', '군집주행', '자율주행', '가변성', '시뮬레이션', 'VENTOS']"
+OBDII 데이터 기반의 실시간 연료 소비량 예측 모델 연구                      = A Modeling of Realtime Fuel Comsumption Prediction Using OBDII Data,양희은,한국정보처리학회,2021,"['Fuel Consumption', 'Prediction Model', 'Stacking Ensemble', 'Regression Model', 'OBDII', '연료 소비량', '예측모델', '스태킹 앙상블', '회귀모델', 'OBDII']"
+딥러닝을 이용한 다중 교차로에서의 교통 신호 제어,구자운(Jaun Gu),대한공간정보학회(The Korean Society for Geo-Spatial Information System),2021,
+3차원 공간데이터 처리를 위한 차로 및 시설물 운영 관리 시스템 아키텍처 설계 연구                      = A Study on the Architecture Design of Road and Facility Operation Management System for 3D Spatial Data Processing,김덕호,한국지리정보학회(The Korean Association of Geographic Information Studies),2021,"['정밀도로 지도', '차로 및 시설물', '아키텍처', '데이터베이스', '운영 관리 시스템', 'HD-Map', 'Lane', 'Facilities', 'Architecture', 'Database', 'Management System']"
+q-Gaussian Mixture를 통한 자율주행 안정성 보장,이건민(Gunmin Lee),대한전기학회,2021,
+빅데이터 기반 서울시 자율주행 실증지역 확대방안 연구,조혜림,대한교통학회,2021,
+열악한 기상 환경에서 융합센서를 활용한 딥러닝 기반 객체 인식,허준석(Junseok Heo),한국자동차공학회,2021,"['autonomous vehicle(자율주행차)', 'deep learning(딥러닝)', 'weather conditions(기상환경)', 'object detection(객체인식)', 'fusion sensor(융합센서)']"
+군집주행 차선인지를 위한 슬라이딩 윈도우 보정                      = Sliding Window Correction for Platooning Lane Detection,김태욱,한국자동차공학회,2021,"['자율 주행차', '군집주행', '차선인지', '슬라이딩 윈도우', '스케일 트럭', 'Autonomous vehicle', 'Platooning', 'Lane detection', 'Sliding window', 'Scale truck']"
+다중 차선 인식을 위한 YOLO의 적용,박성찬,한국기계기술학회,2021,"['자율주행 차량', '차선 인식', '욜로', '딥러닝', '다중 차선', 'Autonomous vehichle', 'Lane recognition', 'YOLO', 'Deep learning', 'Multi-Lanes']"
+차량 이벤트 감지 및 로우 데이터 생성을 위한 V2X 단말기 제어 보드 설계,김유원(Yoowon Kim),한국자동차공학회,2021,"['V2X(차량-사물통신)', 'V2X OBU(V2X 단말기)', 'C-ITS(차세대지능형교통체계)', 'NCAP(자동차안전도평가)', 'WAVE(이동차량네트워크)', 'Self-Driving Car(자율주행차)', 'Connected-Car(커넥티드-카)', 'BSM(기본안전메시지)']"
+대형버스용 자율주행 네트워크를 위한 개선된 프로토콜 변환 알고리즘에 관한 연구,권지훈(Jihoon Kwon),한국자동차공학회,2021,"['Autonomous Driving(자율주행)', 'Heavy Vehicles(대형차량)', 'In Vehicle Network(차량내부네트워크)', 'Gateway(게이트웨이)', 'Ethernet Switch(이더넷스위치)']"
+돌발상황 시 주변차량 경로예측 알고리즘을 위한 Geo-fence 기반 데이터 사양 개발,이승민(Seungmin Lee),한국자동차공학회,2021,"['Incident(돌발상황)', 'Autonomous vehicle(자율주행차량)', 'ITS(지능형교통체계)', 'CDA(자율협력주행)', 'Path prediction(경로예측)', 'Geo-fence(지오펜스)', 'Convex hull(볼록포)', 'Deep learning(딥러닝)', 'Deep Neural Network(DNN', '심층신경망)', 'RNN(순환신경망)', 'AI(인공지능)', 'Big data(빅데이터)']"
+도로정보 기반 이종간의 상호작용을 고려한 딥러닝 다중 객체 추적 및 예측,송영훈(Younghoon Song),한국자동차공학회,2021,"['Multi Object Tracking(다중객체추적)', 'Deep Learning(심층 학습)', 'Autonomous Vehicle(자율주행 자동차)', 'Interaction(상호작용)', 'Urban city(도심)']"
+자율주행을 위한 대형트럭의 하위제어시스템 개발,이훈희(Hoonhee Lee),한국자동차공학회,2021,"['Snow Cleaning Heavy Truck(제설대형트럭)', 'Actuating System(엑추에이팅 시스템)', 'Electro Hydraulic power steering(전기유압식조향장치)', 'Electro Pneumatic Brake(전기공압식제동장치)', 'Autonomous Driving(자율주행)', 'Integrated Low Level Controller(통합하위제어기)']"
+프레임간의 명암 변화량을 이용한 딥러닝 고속 운전자 행동 검출 알고리즘,유민우(Min Woo Yoo),한국통신학회,2021,
+자율주행의 카메라 센서 기반 물체 탐지를 위한 통합 하드웨어 플랫폼 구현,김현(Hyun Kim),대한전기학회,2021,
+다중객체추적 알고리즘을 활용한 드론 항공영상 기반 미시적 교통데이터 추출                      = Microscopic Traffic Parameters Estimation from UAV Video Using Multiple Object Tracking of Deep Learning-based,정보경,한국ITS학회,2021,"['UAV', 'Deep learning', 'Multiple Object Tracking', 'Image registration', 'Microscopic Traffic Parameters', '드론', '딥러닝', '다중객체추적', '영상정합', '미시적 교통데이터']"
+한중 양국의 자율주행 육성 정책과 기업 전략 연구                      = A Study on the Self-driving Promotion Policies and Corporate Strategies of Korea and China,이재훈,원광대학교 한중관계연구원,2021,"['Self-driving', 'Tech policy', 'Business case study', 'Tech cooperation', 'Korea', 'China', '自动驾驶', '技术政策', '企业案例', '技术合作', '韩国', '中国', '자율주행', '기술정책', '기업 사례', '기술 협력', '한국', '중국']"
+종방향 주행성능향상을 위한 Latent SAC 강화학습 보상함수 설계                      = On the Reward Function of Latent SAC Reinforcement Learning to Improve Longitudinal Driving Performance,조성빈,한국전기전자학회,2021,"['Reinforcement learning', 'soft actor-critic', 'end-to-end learning', 'reward function', 'autonomous driving']"
+자율주행에 활용될 수 있는 인공지능 기술,백은규,대한기계학회,2021,
+자율주행자동차 판단능력 등급화 및 신뢰도 향상방안 연구,진은주,대한교통학회,2021,
+"강화학습기반 자율주행 발열 측정 로봇(SDTMBOT)의 개발 및 구현 연구                      = Self-driving Temperature Measurement Robot, Based on Reinforcement Learning.",임유석 ( Yoo-seok Lim ),한국정보처리학회,2021,
+머신 비전을 위한 열 적외선 영상의 객체 기반 압축 기법                      = Object-based Compression of Thermal Infrared Images for Machine Vision,이예지,한국방송∙미디어공학회,2021,"['VCM(Video Coding for Machines)', 'Object Detection', 'Thermal Infrared Image', 'Image Compression', 'Machine Vision']"
+CPU-GPU 협력 스케줄링을 통한 임베디드 시스템 내 다중 DNN 모델들의 성능 향상                      = Performance Improvement of Multiple DNN Models inside Embedded Systems through CPU-GPU Collaborative Scheduling,김명선,대한전자공학회,2021,"['Deep neural network', 'CPU-GPU', 'Collaborative scheduling', 'Embedded system']"
+음성기반 인간-인공지능 인터랙션에서 사용자 감성에 영향을 미치는 설계변수와 인적 요인의 관계,허인석(In Seok Heo),대한인간공학회,2021,"['Voice user interface', 'Human Factors', 'Moderating Effect', 'AI-infused System', 'Adaptive Interaction']"
+인공지능기반 모빌리티 탑승자 집중도 및 감정 추론 기술,권영진(Young-Jin Kwon),대한인간공학회,2021,"['Non-face-to-face', 'Voice recognition', 'Image recognition', 'Emotion recognition', 'Intension Analysis']"
+자율주행차 운행 중 위급상황 시 조작 버튼 종류에 따른 운전자 인식 및 선호도 차이,김보영,한국심리학회(The Korean Psychological Association),2021,"['자율주행', '물리적 인터페이스', '터치스크린', 'TAM']"
+자율주행자동차의 이슈 및 문제해결에 기반한 전략적 관점에서의 활성화 방안 연구                      = A study of the activation from strategic perspectives based on autonomous vehicle issues and problem solving,조재욱,한국디지털정책학회,2021,"['자율주행자동차 활성화', '자율주행자동차 이슈 및 해결방안', '안전성 강화', '법·제도 정립', '확산전략', 'Activation of autonomous vehicles', 'Issues and problem solving methods of autonomous vehicles', 'Reinforcement of the safety', 'Establish legal and institutional standards', 'Diffusion strategies']"
+컴퓨팅 사고력 향상을 위한 문제 중심학습 기반 인공지능 교육 방안                      = A Study on the PBL-based AI Education for Computational Thinking,최민성,한국융합신호처리학회,2021,"['문제중심학습', '인공지능 교육', '컴퓨팅 사고력', '자율주행', '이미지 분류', 'PBL', 'AI Education', 'Computational Thinking', 'Autonomous Driving', 'Image Classification']"
+물리 제약을 고려한 딥러닝 기법을 통한 잔차 기반 실시간 자율주행 위험도 평가기법 개발,주양준,한국ITS학회,2021,"['복합수단 대중교통망', '경로 선택', '지선 버스', '최적화']"
+자율주행차 신뢰수준이 사전태도와 이용의도에 미치는 매개효과 검증 연구                      = Mediation Effect of Trust between Prior Attitude and Intention to Use Automated Vehicles,양모현,도로교통공단,2021,"['Automated Vehicles', 'Prior Attitude', 'Trust', 'Intention', 'Mediation Model', '자율주행차', '태도', '신뢰수준', '이용의도', '매개모형']"
+배전 전력설비 자동순시를 위한 영상인식기술,전시식(Jeon Si-Shik),대한전기학회,2021,
+자율주행 환경에서 연무와 화재 연기 분류 및 탐지 서비스를 위한 딥러닝에 대한 연구,신동환,한국ITS학회,2021,
+초등학생을 위한 인공지능 윤리교육에서 Moral machine 활용방안,김은경(Eungyoung Kim),한국컴퓨터교육학회(The Korean Association of Computer Education),2021,"['인공지능 윤리 교육', 'Moral machine', '초등학생', '인공지능 윤리']"
+"자동차산업과 일자리 변화, 그에 따른 대응 전략",황승진,한국교통연구원(KOTI),2021,
+비디오 모니터링 응용에서 움직인 돼지 탐지                      = Moving Pigs Detection in Video Monitoring Applications,유승현 ( Seunghyun Yu ),한국정보처리학회,2021,
+초음파센서를 이용한 장애물 감지 및 드론 충돌 회피 시스템 개발,이태영(Tae Young Lee),한국항공우주학회,2021,"['Collision Avoidance(충돌 회피)', 'Autonomous Driving(자율 주행)', 'Ultrasonic Sensor(초음파 센서)', 'Obstacle Avoidance(장애물 회피)', 'Moving Average Filter(이동평균필터)']"
+구미지역 스마트 그린산단 및 물류플랫폼 구축에 관한 연구                      = A Study on the Establishment of a Smart Green Industrial Complex and Logistics Platform in Gumi,이충효 ( Choong-Hyo Lee ),KNU기업경영연구소,2021,"['구미 하이테크밸리', '스마트 그린산단', '스마트 물류플랫폼', 'IPA', '디지털 물류실증단지', 'The Gumi High-Tech Valley', 'The Smart Green Industrial Complex', 'The smart logistics platform', 'digital logistics test complex']"
+자율주행을 위한 이중초점 스테레오 카메라 시스템을 이용한 깊이 영상 생성 방법                      = Depth Generation using Bifocal Stereo Camera System for Autonomous Driving,이은경(Eun-Kyung Lee),한국전자통신학회,2021,"['깊이맵 생성', '스테레오 카메라 시스템', '다중 시점 카메라', '자율 주행', 'Depth Map Generation', 'Stereo Camera System', 'Bifocal Camera', 'Autonomous Driving']"
+자율협력주행 상용화촉진을 위한 법제개선 과제                      = Tasks to Improve the Legal System in Response to Deployment of Connected Autonomous Vehicles,조용혁,사단법인 한국자동차안전학회,2021,"['Autonomous vehicle act', 'Connected autonomous driving', 'Autonomous driving system', 'Autonomous vehicle', '자율주행자동차법', '자율협력주행', '자율주행시스템', '자율주행자동차']"
+자율주행 스마트 캐리어 로봇                      = Self-driving Smart Carrier Robot,문유빈 ( Yu-bin Moon ),한국정보처리학회,2021,
+사고영상기반 자율주행차 레벨4 주행안전성 평가 시나리오 개발 (고속도로 기본구간 중심으로),조준한,대한교통학회,2021,
+자율주행자동차 시대 대비 도로교통법상의 운전과 운전자에 대한 검토,"김연주(KIM, Yeon Joo)",대한교통학회,2021,
+데이터 확대를 통한 딥러닝 기반 시설물 검출,최다빈(Dabin Choi),대한전기학회,2021,
+후면 주파수 선택 표면을 이용한 광대역 고이득 평면 사다리꼴 모노폴 안테나 설계,홍승모(Seungmo Hong),한국정보전자통신기술학회,2021,"['Frequency Selective Surface', 'High Gain', 'Impedance Bandwidth', 'Monopole Antenna', 'Wideband']"

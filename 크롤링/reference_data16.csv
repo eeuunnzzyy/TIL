@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+자율 주행/전기자동차를 위한 압력 센서 연구동향,홍성민,대한금속재료학회,2021,
+자율주행을 위한 SPAD 기반의 라이다 센서 기술: 현재와 미래,이명재,대한금속재료학회,2021,
+동적 통행배정 기반의 도로부 Flex Zone 운영 평가 기초 연구,박진우,한국도로학회,2021,"['Dynamic Traffic Assignment', 'Flex Zone', '시뮬레이션', '자율주행자동차']"
+자율주행 자동차 라이다 부품 소재 개발 동향,이현욱,대한금속재료학회,2021,
+토양에 따른 자율주행 궤도차량의 작업 경로 추종 성능 평가                      = Evaluation of Path Tracking Performance of a Self-driving Tracked Vehicle,손준하,대한기계학회,2021,"['Tracked Vehicle', 'Self-driving', 'Path Tracking Performance', 'Co-simulation', '궤도차량', '자율주행', '경로 추종 성능', '연성해석']"
+자율주행 차량의 안전한 상태 알림이 제어권 전환 시 상황 인식과 운전 수행에 미치는 영향                      = The Effect of Autonomous Driving Vehicle Positive Notification on Situation Awareness and Take-over Performance,지재영,국제문화기술진흥원,2021,"['Autonomous driving', 'Notification', 'Positive notification', 'TOR(Take-over Request)', '자율 주행', '알림음', '제어권 전환(TOR)', '안전 알림']"
+자율주행을 활용한 실내 스마트 카트 시스템 구현,강수민(Soo-Min Kang),한국정보기술학회,2021,"['autonomous driving', 'ROS', 'OpenCV', 'deep learning', 'LiDAR SLAM', 'smart cart', 'application']"
+자율 주행을 위한 위치 측위 기술 동향,우상봉,한국통신학회(Korea Institute Of Communication Sciences ),2021,
+스스로 차체 높낮이를 조절하여 장애물을 넘어 갈 수 있는 RC자동차,김지훈(Kim Jihoon),한국정보기술학회,2021,"['RC car', 'ultrasonic sensor', 'servo motor', 'DC motor', 'PWM motor driver']"
+운전자의 차량 자율화 적용 수준에 따른 운전행동 선택 모형,김도현,대한교통학회,2021,
+V2H 디자인씽킹 기반 요구사항 설계,이상화,대한교통학회,2021,
+"[KOTI NEWS] 한국교통연구원, ‘제8회 국제전기자동차 엑스포’에서 제5회 전기차/자율주행차 국제포럼 세션 개최 외",편집부(편집자),한국교통연구원(KOTI),2021,
+미래도로 설계를 위한 설계 요소의 기준 설정 방안(자율협력주행을 위한 미래도로 설계 및 실증 기술 개발),박재홍,대한교통학회,2021,
+자율주행 통합교통관제 플랫폼 빅데이터 시스템 설계,김신열,대한교통학회,2021,
+도로 이용자 커뮤니케이션 방법론 관련 연구 동향 조사,강수희,대한교통학회,2021,
+융합교통관제시스템 플랫폼의 환경구성 및 융합,김창길,대한교통학회,2021,
+자율주행을 위한 차로수준의 노드링크 체계 수립 연구,박유경,대한교통학회,2021,
+자율주행 혼재 시 도로교통 통합관제시스템 및 운영기술 개발,이민형,대한교통학회,2021,
+Lv.4 자율협력주행을 위한 회전교차로 영향권 정립,박순용,대한교통학회,2021,
+자율주행 혼재 시 도로교통 통합과제시스템 및 운영기술 개발 연구 소개,손승녀,대한교통학회,2021,
+심층강화학습기반 자율주행차량을 이용한 원형도로의 Stop-and-Go Wave 현상 해결 전략 연구                      = Combating Stop-and-Go Wave Problem at a Ring Road Using Deep Reinforcement Learning Based Autonomous Vehicles,이동수,한국통신학회,2021,"['Autonomous driving system', 'Deep reinforcement learning', 'Markov decision process', 'Proximal Policy Optimization (PPO)', 'Deep Deterministic Policy Gradient (DDPG)', 'Twin delayed DDPG (TD3)', 'Stop-and-go wave', 'Traffic flow control']"
+지형 탐색 자율주행 알고리즘과 모니터링 애플리케이션 구현,강종원(Jongwon Kang),한국전기전자학회,2021,"['Android application', 'mobile robot', 'infrared sensor', 'terrain search', 'autonomous driving']"
+효율적인 자율주행 군집주행집단 관리를 위한 병합 제어 방안,정영욱(Young-uk Chung),한국전기전자학회,2021,"['Platooning', 'merger control', 'connected', 'automated vehicle', 'markov']"
+실내 공간 확보 위한 HVAC 슬림화 컨셉 연구,신기영(Geeyoung Shin),한국자동차공학회,2021,"['Autonomous (자율주행)', 'Slim HVAC (슬림공조)', 'Temp-Door less (온도조절장치 제거)', 'Heat Pump System (히트펌프)', 'Defrost (제상)']"
+NIR카메라 영상 분석을 통한 라이다 센서 기울기 측정,김용휘(Yongwi Kim),한국자동차공학회,2021,"['LiDAR(라이다)', 'angle measurement(각 측정)', 'sensor distortion(센서 왜곡)', 'near-infrared range image(NIR 이미지)', 'image processing(영상처리)']"
+교통 시뮬레이터와 차량 동역학 시뮬레이터 연동을 통한 차량 성능 평가용 확률적 시나리오 개발,이홍규(Honggyu Lee),한국자동차공학회,2021,"['Traffic Simulator (교통 시뮬레이터)', 'Vehicle Dynamic Simulator (차량 동역학 시뮬레이터)', 'Stochastic Scenarios (확률적 시나리오)', 'Open Source (오픈 소스)', 'Vehicle Performance Evaluation (차량 성능 평가)']"
+자율주행자동차 상용화를 위한 정밀도로지도 구축 절차와 활용 사례,최준석,한국도로학회,2021,
+스크림매쉬 적용 PAD Door 일체형 Crash PAD 개발을 위한 연구,윤석헌(Seok Heon Yoon),한국자동차공학회,2021,"['‘X’-Type Scrim mesh', 'Crash Pad 일체형 사출', '인서트 사출']"
+스마트 서페이스 기반 도어트림 조명 및 터치 스위치 적용 연구,김광섭(Kwangseub Kim),한국자동차공학회,2021,"['Autonomous Driving(자율주행)', 'Mobility(모빌리티)', 'Smart Surface(스마트 서페이스)', 'Tiuch Switch(터치 스위치)', 'In-Car Service(인카서비스)']"
+이종소재 접합 시편의 피로내구 시험 시 열적특성에 관한 연구,정윤수(Yoon-soo Jung),한국자동차공학회,2021,"['Multi-material Bonding(이종재질 접합)', 'Light Weight(경량화)', 'InfraredThermography Test(적외선 열화상 검사)']"
+자동차용 콘솔의 감성품질 확보를 위한 좌우 유동 평가 방법에 관한 연구,심규호(Gyuho Shim),한국자동차공학회,2021,"['Automotive Floor Console(자동차 플로어 콘솔)', 'Unbalanced Sliding Motion(좌우유동)', 'Finite Element Analysis(유한요소해석)', 'Performance Evaluation(성능 평가)']"
+미래차 주행 방법 변화에 따른 도어트림 디자인 연구,이재용(Jaeyong Lee),한국자동차공학회,2021,"['Doortrim(도어트림)', 'Display(디스플레이)', '무빙구조(Moving Structure)', 'Lighting(조명)', 'Self-Driving(자율주행)']"
+｢도로교통법｣의 ‘도로’등 개념에 대한 소고 : 판례를 중심으로,양승미,한국치안행정학회,2021,"['도로교통법', '도로', '운전', '차마', '개인형 이동장치', '자율주행자동차', 'road traffic law', 'road', 'driving', 'motor vehicles and horses', 'personal mobility device', 'autonomous vehicles']"
+자동차산업과 교통정책의 선순환적 발전전략,이종덕,한국교통연구원(KOTI),2021,
+열 적외선 영상에서 기계를 위한 객체 기반 압축 기법,이예지(Yegi Lee),한국방송·미디어공학회,2021,
+자율주행자동차를 위한 안전성 평가 표준: UL 4600,이성수(Seongsoo Lee),한국전기전자학회,2021,"['UL 4600', 'ISO 26262', 'ISO/PAS 21448', 'Autonomous Driving', 'Safety Standard']"
+"AI기반 정부의 자율운영(주행) 솔루션: 적용영역과 절차, 실천과제",한세억,한국정책학회(The Korean Association for Policy Studies),2021,
+미래 자동차 안전 · 환경 규제 전망 및 이슈,신재곤(Jae Kon Shin),한국자동차공학회,2021,
+자율주행 차량용 복합측위 모듈의 실차 성능 평가 방안 연구,사의환,제어로봇시스템학회,2021,"['Autonomous Vehicle', 'Complex Positioning Module', 'Actual Vehicle Evaluation', 'HD-Map', 'High-Precision Positioning']"
+ROS 기반 자율 주행 자동차와 자율 비행 드론의 협업을 위한 데이터 셋 수집 및 원격 모니터링 플랫폼 개발,김가나,제어로봇시스템학회,2021,"['Autonomous vehicle', 'Autonomously flying drone', 'ROS', 'Monitoring', 'Dataset']"
+열차자율주행을 위한 주행안전기능 연구,이병훈,제어로봇시스템학회,2021,"['Autonomous train', 'Safety function', 'ATP']"
+무인 주행 차량의 회피 주행을 위한 ODG를 이용한 DQN 기반의 강화학습 기법,장선호,제어로봇시스템학회,2021,"['Reinforcement learning', 'ROS', 'LiDAR', 'ODG(Obstacle Dependent Gaussian)', '자율주행']"
+자율주행차의 신뢰성과 수용성 척도 및 모형 개발                      = Development of the scale and model for the trust and acceptance of autonomous vehicles,류준범,한국교통연구원,2021,"['autonomous vehicles', 'trust', 'acceptance', 'scale development', 'model verification', '자율주행차', '신뢰성', '수용성', '척도 개발', '모형 검증']"
+동적 환경에 강인한 단안 카메라의 실시간 자세 추정 기법,박준형(Junhyeong Bak),한국방송·미디어공학회,2021,
+[기고] 아랍에미리트(UAE)의 자율주행 정책 추진현황,변영지,한국교통연구원(KOTI),2021,
+돌발 상황을 대비한 자율주행 시스템 구현                      = Autonomous driving system for emergency situations,이정민 ( Jung-min Lee ),한국정보처리학회,2021,"['자율주행', '돌발 장애물', 'CNN', '실시간 통신']"
+"EV, ICE Vehicle 환경에서 운전자 1차 제어 장치의 설계 제안",이호범(Hobum Lee),한국자동차공학회,2021,"['Primary Control (1차 제어 장치)', 'Human Factor (인간 공학)', 'Voice of Customer (고객 불만 사항)', 'Loss Function (손실 함수)', 'Design Guide (설계 제안)']"
+APF 기법을 이용한 자율주행차량의 운행 적합도 지표 개발,김좌헌(Joahun Kim),한국자동차공학회,2021,"['Autonomous Vehicle(자율주행자동차)', 'Artificial Potential Field(인공 포텐셜 필드)', 'Driving Simulator(주행시뮬레이터)', 'Driving Suitability(운행 적합도)', 'Driving Scenario Design(주행 시나리오 설계)']"
+도심환경을 위한 맵리스 자율주행 시스템,최두섭(Dooseop Choi),대한전자공학회,2021,
+3-Tier 자율주행 AI 서비스 통합 프레임워크 기술,이정우(Jeong-Woo Lee),대한전자공학회,2021,

@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+최대우도법을 이용한 라이다 포인트군집의 박스특징 추정                      = Box Feature Estimation from LiDAR Point Cluster using Maximum Likelihood Method,김종호,사단법인 한국자동차안전학회,2021,"['자율주행', '라이다 포인트 클라우드', '박스특징', '최대우도법', 'Autonomous Driving', 'LiDAR Point Cloud', 'Box Feature', 'Maximum Likelihood Method']"
+모빌리티 산업의 변화에 따른 대중교통 분석,박진영,대한교통학회,2021,
+차량 주행 중 긴급제동에 따른 누운 자세에서의 더미 거동 연구,신윤식(Y. S. Shin),Korean Society for Precision Engineering,2021,"['MADYMO', 'Dummy', 'Autonomous emergency Braking', 'Seat position']"
+자율주행 자동차를 이용한 중학생 대상 인공지능 교육 프로그램 제언,류혜인(Hyein Ryu),한국컴퓨터교육학회(The Korean Association of Computer Education),2021,"['인공지능', '인공지능 교육', '피지컬 컴퓨팅', '자율주행 자동차']"
+언택트 디지털경제의 규제 개선방안                      = A Study on Regulatory Reform for the Development of a Contactless Economy,심우현 ( Woohyun Shim ),한국행정연구원,2021,
+험지주행 자율주행차량 동적거동 분석을 위한 스마트 테스트 베드 개발,이대경(D. K. Lee),Korean Society for Precision Engineering,2021,"['Autonomous vehicles', 'Humble ground', 'Smart test bed']"
+자율주행 차량의 안전성을 위한 도로의 장애물 추출에 대한 기초 연구,박창민(Chang min Park),ICT플랫폼학회,2021,"['Self- driving', 'obstacle', 'extraction', 'Obstacle Area', 'Non Obstacle Area']"
+[교통 관련 보도자료 중계] 보도자료를 통해 본 주요 교통 뉴스,김동준,한국교통연구원(KOTI),2021,
+"[사진으로 본 교통] 글로벌 ‘자율주행기술’, 누가 누가 앞서가나?",편집부(편집자),한국교통연구원(KOTI),2021,
+건설기계 자율주행을 위한 칼만필터 기반 시스템 상태 추정,박민철(Mincheol Park),한국자동차공학회,2021,"['객체 인식(Object Detection)', '객체 추적(Object Tracking)', 'YOLO v4(욜로 버전4)', 'Scaled YOLO v4(스케일드 욜로 버전4)', 'Kalman Filter(칼만 필터)', 'Sensor Fusion(센서 퓨전)', 'Autonomous Driving(자율 주행)', 'ROS(로봇 오퍼레이팅 시스템)']"
+단안카메라와 YOLO V3 네트워크를 활용한 객체 거리 추정 알고리즘,정세윤(Se Yun Jung),한국자동차공학회,2021,"['Self-Driving Cars(자율주행자동차)', 'Monocular camera(단안카메라)', 'YOLO V3 Network(욜로 V3 네트워크)', 'Depth Estimation(거리 추정)', 'Proportional Expression(비례식)']"
+자율주행자동차 음성 에이전트의 상황설명과 의사결정 요청이 탑승자 경험에 미치는 영향 - 콘텐츠 소비 맥락을 중심으로 -                      = Effects of Situational Information and Decision-Making Request on Passenger Experience by the Voice Agent in the Autonomous Car - Focusing on the Context of Content Consumption -,이석호,디자인융복합학회(구.한국인포디자인학회),2021,"['Decision-Making Request', 'Fully Automated Driving', 'Non-Driving Related Task', 'Situational Information', 'Voice Agent']"
+자율주행차량의 제동 신뢰성 확보를 위한 리던던시 시스템 요구사항과 아키텍쳐 디자인,황우현(Woohyun Hwang),한국자동차공학회,2021,"['Automated Driving System(자동화 주행 시스템)', 'Redundancy Brake(이중화 제동)', 'Fallback mode(비상모드)', 'Level of Driving Automation(주행 자동화 단계)', 'Back-up Functions(고장 시 기능)', 'Failsafe(고장 안전)']"
+딥뉴럴네트워크에서의 적대적 샘플에 관한 앙상블 방어 연구                      = Detecting Adversarial Example Using Ensemble Method on Deep Neural Network,권현,한국융합보안학회,2021,"['Machine learning', 'Evasion attack', 'Neural network']"
+[교통 관련 보도자료 중계] 보도자료를 통해 본 주요 교통 뉴스,김동준,한국교통연구원(KOTI),2021,
+가상 스캔 매칭을 이용한 3차원 점군 지도의 품질 평가                      = Quality Evaluation of 3D Point Maps using Virtual Scan Matching,백한나,한국정보과학회,2021,"['3D point map', 'localization', 'scan matching', 'virtual LiDAR scan', 'matching quality evaluation', '3차원 점군 지도', '자차 위치 추정', '스캔 매칭', '가상 라이더 스캔', '매칭 성능 평가']"
+자율주행 시나리오 기반 패키지 레이아웃 디자인 가이드라인 요소 고찰,정우진(Woo-Jin Jeong),한국HCI학회,2021,"['자율 주행', '인테리어 디자인', '패키지 레이아웃 디자인']"
+자율주행 확대로 인한 고속도로 이용률 증가는 경제성장에 기여하는가? : 지역별 패널 통계를 활용한 고속도로 이용률 확대와 경제성장과의 관계 분석을 통한 고찰                      = Can Self-driving Cars Contribute to Economic Growth? : Evidence from an Analysis of Highway Usage and Economic Growth based on Regional Panel Data in South Korea,정용훈,한국산업경제학회,2021,"['인프라', '경제성장', '수출', '총요소생산성', '장단기 인과관계', 'regional panel', 'infrastructure', 'economic growth', 'exports', 'total factor productivity', 'short-term and long-term causal effects']"
+자율주행차용 우선순위 기반 다중 DNN 모델 스케줄링 프레임워크                      = Priority-based Multi-DNN scheduling framework for autonomous vehicles,조호진,한국정보통신학회,2021,"['자율주행', '우선순위', '임베디드 시스템', 'DNN', '병렬처리', 'Autonomous vehicles', 'Priority', 'Embedded distributed system', 'Deep Neural Network', 'Parallel processing']"
+전기자율차의 시대가 온다,정구민(Gu-Min Jeong),대한전기학회,2021,
+"[KOTI NEWS] 한국교통연구원, 연구기관 평가 3년 연속 최우수기관 선정 외",편집부(편집자),한국교통연구원(KOTI),2021,
+항공영상으로부터 농경지 환경에서의 실시간 객체 검출을 위한 Pruning 기법 기반 YOLO 알고리즘 경량화                      = Compaction of Pruning based-YOLO Algorithm for Real-time Object Deteciton using UAV Images in Agricultural Environment,김도환 ( Do-hwan Kim ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['항공영상', '심층 신경망', '객체 탐지', '다중 스케일', 'Pruning 기법']"
+경기도 무인이동체 산업 특성과 정책수요                      = A Study on the Characteristics and Policy Demand of the Unmanned Vehicle Industry in Gyeonggi-do,김명진,한국경제지리학회,2021,"['4th Industrial Revolution', 'Unmanned Vehicle Industry', 'Gyeonggi', 'Policy Demand', '4차 산업혁명', '무인이동체 산업', '경기도', '정책수요']"
+자율주행환경 돌발상황 교통관리전략 고찰,조용빈,한국ITS학회,2021,"['돌발상황', '교통관리전략', 'ITS', '자율주행']"
+늘어가는 도로 위 자율주행차 부산도 적극적 준비 필요하다,변지혜,부산연구원,2021,
+사물인식 기반 자율 주행 보행 미케니즘,이수홍(Soo-Hong Lee),한국기계가공학회,2021,"['Object Detection', 'Autonomous Walking', 'Gait Mechanism', 'Raspberry PI']"
+평행유지를 통한 자율주행 서빙로봇,박채우(Chae-Woo Park),대한전자공학회,2021,
+차량 데이터 기록장치 및 자율주행 교통사고 분석기술 동향,"조민제(CHO, Min-je)",대한교통학회,2021,
+자율주행차 전력제어모듈(Power net Safety Unit) 열 해석방안 연구,문상연(Sangyoen Moon),한국자동차공학회,2021,"['Power net Safety Unit(전력제어모듈)', 'Thermo-flow analysis(열유동해석)', 'self-driving car(자율주행차)', '전산유체역학(Computational Fluid Dynamics)']"
+HPF 기법을 활용한 자율주행자동차 충돌 회피를 위한 경로 계획에 관한 연구,변지훈(Jihun Byun),한국자동차공학회,2021,"['Autonomous Vehicle(자율주행자동차)', 'Harmonic Potential Field(조화 포텐셜 필드)', 'Path Planning(경로계획)', 'CollisionAvoidance(충돌 회피)']"
+자율 주행 차량 EHB 시스템 고장 진단 알고리즘 설계를 위한 Redundancy 분석,정성용(Seongyong Jeong),한국자동차공학회,2021,"['Autonomous Vehicle(자율주행 차량)', 'Brake by Wire(전기식 제동장치)', 'Electro-Hydraulic Brake(전자유압 브레이크)', 'Structural Analysis(구조 분석)', 'Bipartite Graph(이분 그래프)', 'Incidence Matrix(근접 행렬)']"
+자율주행차량의 카메라 가려짐 감지 알고리즘 제안,서주영(Juyeong Seo),한국자동차공학회,2021,"['Camera(카메라)', 'Image Processing(영상처리)', 'Blockage Detection(가림 검출)', 'Fail-safe(고장 감지)', 'Self-driving(자율주행)']"
+ROI 기반 카메라-라이다 융합 위치정보 추출 알고리즘                      = ROI-based Calibration Algorithm of Camera-Lidar Sensor Fusion That is Strong in Object Recognition and Distance Information Extraction,윤영진,한국통신학회,2021,"['Autonomous driving', 'Object detection', 'Calibration', 'Sensor Fusion', '자율주행', '객체 인식', '센서융합']"
+군집주행의 비율과 군집주행내 차량 대수가 교통류에 미치는 영향 분석,유예지,대한교통학회,2021,
+철도 자율주행을 위한 도시철도 시뮬레이터 개발 : 서울 지하철 9호선을 중심으로,이준희,대한교통학회,2021,
+승용형 노외기계를 위한 모듈형 조향 장치 개발                      = Development of Modular Steering System for Riding Type Off-road Machines,원진호 ( Jin-ho Won ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['승용형 노외기계', 'GPS', 'IMU', '자율조향']"
+스마트팜 내 다중 UGV 시스템을 위한 경로 계획 및 조정 알고리즘의 사전 연구                      = A Preliminary Study on Path Planning and Coordination Algorithms for Multi-UGV System in Smart Farm,조유성 ( Yuseung Jo ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['스마트팜', '다중 로봇 시스템', '경로계획', '조정', 'MAPF']"
+자율주행 트랙터 새머리 선회 추종 성능향상을 위한 곡률 감지 가변 속도제어 기초연구                      = Basic Study on Variable Velocity Control based on Path Curvature for Improving Path Tracking of an Auto-Guided Tractor in Headland,강경민 ( Kyeong-min Kang ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['자율주행 농기계', '속도제어', '곡률']"
+자율주행자동차 장애물 탐지 레이더 모듈 데이터 분석 GUI,박세린(Park Se Lin),한국정보기술학회,2021,"['FMCW Radar', 'Autonomous Vehicle', 'GUI', 'FFT']"
+메타분석을 이용한 자율주행 기반 유상운송 서비스 효과분석,정아람,대한교통학회,2021,
+도시부 도로 자율협력주행 실증 시나리오 개발,손승녀,대한교통학회,2021,
+상암 자율주행 시범운행지구 통행패턴 분석을 통한 서비스 노선안 도출,최지현,대한교통학회,2021,
+"자율주행 자동차에서 제어권 전환 시 운전자, 차량, 환경 데이터에 기반한 복합 주행 안정 판단 알고리즘 제안 및 검증                      = Proposal and Verification of the Algorithm for Judging Driving Stability Based on Driver, Vehicle, Environment Data for the Take-over of Autonomous Vehicle",박진혁,한국CDE학회,2021,"['Autonomous vehicle', 'Driver assistance system', 'Driving stability', 'Take over request', 'Convolutional auto encoder']"
+그래프 신경망(GNN) 기반 기술 네트워크 분석 및 예측 : 깃허브 자율 주행 프로젝트를 중심으로,김인조,대한산업공학회(The Korean Institute of Industrial Engineers),2021,
+안개관련 특징을 이용한 효과적인 머신러닝 기반안개제거 기법                      = Effective machine learning-based haze removal technique using haze-related features,이주희,한국전기전자학회,2021,"['machine learning', 'haze removal', 'haze-related features', 'maximum likelihood estimates', 'optimal depth map']"
+IoT-based Taking Medicine Automation System,Sun-Ok Kim(김선옥),한국컴퓨터정보학회,2021,"['medicine', 'weight sensor', 'simulation', 'performance of work', 'fragmenting', '약', '무게 센서', '시뮬레이션', '작업 수행', '세분화']"
+공간 기반의 개별 차량 대용량 정보 맵핑에 관한 연구                      = A Study on Map Mapping of Individual Vehicle Big Data Based on Space,정규수,한국ITS학회,2021,"['Vehicle Big Data', 'Link', 'Mapping', 'Space Partition', 'Speed Standard Deviation', '차량 빅데이터', '링크', '지오코딩', '공간 분할', '속도 표준편차']"
+도로시설물의 색깔 및 기상 환경에 따른 LiDAR의 성능변화 연구,박범진,한국ITS학회,2021,"['자율주행', 'LiDAR', '도로표지판', '성능지표', '강우', 'Autonomous vehicle', 'LiDAR', 'Road Sign', 'Indicator', 'Rainfall']"
+가상환경 기반 자율주행 운전능력 평가방안 연구                      = Study on the Evaluation Method of Autonomous Vehicle Driving Ability Based on Virtual Reality,김중효,한국ITS학회,2021,"['자율주행 운전능력', '도로교통법', '가상현실', 'UC win-Road', '자율주행 시험평가 도구', 'Autonomous Vehicle driving ability', 'Road Traffic Law', 'Virtual Reality environment', 'UC win-Road', 'Autonomous Vehicle driving ability test and evaluation system']"
+자율주행 인공지능 알고리즘 연구를 위한 상용 게임 엔진 기반 초저가 드라이빙 시뮬레이터 개발,임지웅,한국ITS학회,2021,"['자율주행 시스템', '드라이빙 시뮬레이터', '센서 에뮬레이션', 'Autonomous Driving System', 'Driving Simulator', 'Sensor Emulation']"

@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+산업융합 규제샌드박스 실증특례 102호를 바탕으로한 자율주행이동로봇 서비스모델,김동엽(Dong Yeop Kim),대한전기학회,2021,
+포도원 기계화 작업을 위한 무인 자율주행차 개발                      = Development of Autonomous Vehicle for Mechanize Operation in Vineyards,송현진 ( H. J. Song ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['포도원', '웨이크만식', '개량일문자형', '이미지센서', '무인자율주행차']"
+확장 칼만 필터 제어기를 이용한 소형트랙터 위치 추정 알고리즘 개발                      = Development of Small Tractor Position Recognition Algorithm Using Extended Kalman Filter Controller,홍지웅 ( J. W. Hong ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['소형트랙터', '위치추정', '확장칼만필터', '조향제어', '관성항법시스템']"
+자율주행 트랙터 위치정밀도 향상을 위한 GNSS/INS와 수정 칼만필터링 융합 항법시스템 개발 연구                      = Study on Development of a GNSS/INS Navigation System Integrated with Modified Kalman Filtering to Obtain Improved Real-time Position Data for an Autonomous Tractor,최동석,한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['적응형 확장 칼만필터', '자율작업 트랙터', '센서 융합']"
+가시형 경로 추종 노지 환경 계측시스템을 위한 모터제어 알고리즘 연구                      = A Study on Motor Control Algorithm for Visible Path Tracking Field Environment Measurement System,강대원 ( Daewon Kang ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['경로 추종', 'Path Tracking', '모터 제어', 'Motor Control', '알고리즘', 'Algorithm']"
+LiDAR를 활용한 환경인식 기반 궤도형 제초로봇 연구                      = Study on Caterpillar Type Weeding Robot Based on Environment Recognition Using LiDAR,양창주 ( Changju Yang ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['과원', '제초', '로봇', '자율주행', '가변 제초기']"
+승용형 노외기계를 위한 모듈형 조향 장치 기반 자율주행 제어 환경 특성 분석                      = Analysis of Control Environment Characteristics for Autonomous Driving Based on Modular Steering Control System for Riding Type Off-road Machines,원진호 ( Jin-ho Won ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2021,"['농업기계', '자율주행', '자율조향', '무인 농작업']"
+주행시험장 기반 현실-가상 융합 VILS 개발에 대한 연구,이인규(Ingyu Lee),한국자동차공학회,2021,"['Autonomous Driving(자율주행)', 'VILS(시뮬레이션-차량융합 평가시스템)', 'Reality(현실)', 'Virtual(가상)', 'Convergence(융합)', 'Augmented Reality(증강현실)', 'Proving Ground(주행시험장)']"
+실도로 데이터를 활용한 주행시험장 기반 자율주행 VILS 테스트 기법에 대한 연구,이인규(Ingyu Lee),한국자동차공학회,2021,"['Autonomous Driving(자율주행)', 'Real road data(실도로 데이터)', 'Coordinate shift(좌표변환)', 'Augmented Reality(증강현실)', 'Proving Ground(주행시험장)', 'VILS(시뮬레이션-차량융합 평가시스템)']"
+픽스호크 기반의 실외 자율주행용 소형 무인지상차량 설계,오성진(Seong Jin Oh),한국정보기술학회,2021,"['Pixhawk', 'Rover', 'Autonomous driving technology', 'QGroundControl', 'Mavlink']"
+PGDrive 주행 시뮬레이터 환경에서의 호기심 기반 강화 학습을 활용한 차량 주행 비교 분석,김준환(Junhwan Kim),한국자동차공학회,2021,"['Deep reinforcement learning(심층 강화 학습)', 'Curiosity-driven Exploration(호기심 기반 탐험)', 'Virtual environment(가상 환경)', 'Autonomous driving(자율 주행)', 'Path planning(경로 계획)']"
+Neural Network 기반 VCM의 성능평가,박성욱(Seonguk Park),한국방송·미디어공학회,2020,
+자율주행 택시 승객 경험의 분위기,이기쁨(Gi-bbeum Lee),대한기계학회,2020,"['자율주행 자동차(Autonomous vehicles)', '승객 모빌리티(Passenger mobility)', '사용자 경험(User experience)', '분위기(Atmosphere)']"
+저성능 임베디드 보드에서 자율주행 실습을 위한 과중 태스크 오프로딩 방법,박병규(Byungkyu Park),한국정보과학회,2020,
+자율주행 크롤러의 주행제어 모델 개발을 위한 Co-sim 환경 구축,손준하(Jun Ha Sohn),대한기계학회,2020,"['자율주행(Autonomous Driving)', '궤도차량(Tracked Vehicle)', '연성해석(Co-smulation)']"
+Development of a ROS-based control system of autonomous driving system for the self-driving competition in K-city,Jinseok Kim(김진석),대한기계학회,2020,"['자율주행차(self-driving vehicle)', '케이시티(K-city)', '로봇운영체제(ROS)', '동적 이벤트(dynamic event)', '정적 이벤트(static event)']"
+트랙형 자율 주행 플랫폼 설계,한상우(Sang-Woo Han),대한기계학회,2020,"['트랙 타입 플랫폼(Track type platform)', '트랙 현가장치(Track suspension)', '자율주행 차량(Self-driving vehicle)', '단일 트랙 모듈 (Single track module)']"
+자율 주행차를 위한 딥러닝 기반 주행 가능 영역 검출,윤동휘(Dongwee Yoon),한국정보과학회,2020,
+딥러닝을 통한 공유형 자율주행 전기차의 유휴 차량 재배치,김성신(Seongsin Kim),대한기계학회,2020,"['유휴 차량 재배치 (Idle vehicle relocation)', '수요 예측 (demand prediction)', '딥러닝 (deep learning)', '공유형 자율주행 전기차 (shared autonomous electric vehicle)', '시스템 최적화 (system optimization)']"
+심층학습 기반 이미지 처리와 최적 추정기를 이용한 강건한 차선 인식,조연호(Yeonho Jo),대한기계학회,2020,"['자율주행(Self-driving)', '심층학습(Deep learning)', '칼만 필터(Kalman Filter)']"
+실제 주행 데이터를 이용한 오프라인 강화학습기반 자율주행 에이전트 학습,이성하(Sung-Ha Lee),한국정보과학회,2020,
+1SE-1 : 반도체 Advanced Packaging용 Photo-definable 절연막 상용화 기술 개발,김봉규,한국공업화학회(The Korean Society of Industrial and Engineering Chemistry),2020,"['advanced package', 'photo definable', '첨단 패키지', '절연막']"
+자율주행차의 사회적 수용성에 영향을 미치는 사회·경제적 요인                      = Socio-economic Factors Affecting Social Acceptance of Autonomous Vehicles in Korea,조선아,한국교통연구원,2020,"['Autonomous Vehicles', 'Social Acceptance of Autonomous Vehicle', 'Ordinal Logistic Regression Model', '자율주행차', '사회적 수용성', '순서형로지스틱 회귀분석']"
+자율주행 서비스를 위한 다양한 정밀도로지도 데이터 모델 비교분석 연구,"김민수(Kim, Min Soo)",대한공간정보학회(THE KOREAN SOCIETY FOR GEOSPATIAL INFORMATION SYSTEM),2020,"['정밀도로지도', '자율주행', '국제 표준화 기구', '오픈 드라이브', '데이터 모델', 'HD Map', 'Automated Driving', 'ISO', 'OpenDRIVE', 'Data Model']"
+자율주행 시대의 Car Entertainment 서비스,박명환,한국방송·미디어공학회,2020,
+사용자 정의 라인 추적 자율주행 방제 시스템 개발                      = Development of User Designating Line Tracking Autonomous Driving Sprayer system,김길우 ( Gilwoo Kim ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2020,"['자율주행', '무인방제기', '무인방제시스템', '영상인식', '영상처리', '시설재배']"
+자율주행 농업기계의 자세에 따른 위치정보 오차분석 및 보정시험                      = An Analysis of Agricultural Vehicle Position Error Using a Posture Compensation Algorithm During Straight Driving Tests,최인교 ( Inkyo Choi ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2020,"['자율주행 트랙터', 'GPS', '위치정보', 'Tilt', '기울기', '위치보정', 'Compensation']"
+자율주행차 윤리 가이드라인 정책과 향후 과제,황기연,한국교통연구원(KOTI),2020,
+영상 기반 경운 경계 검출 정보를 활용한 트랙터 조향 제어                      = Steering Control of Tractor Using Tilled Boundary Detection Data Based on Image,서다솜 ( Dasom Seo ),한국농업기계학회(The Korean Society of the Agricultureal machinery),2020,"['트랙터', '자율주행', '조향 제어', '영상 기반 경계 검출']"
+자율주행을 위한 내부 네트워크 지원 시스템반도체,연규봉(KyuBong Yeon),한국자동차공학회,2020,
+자율주행을 위한 딥러닝 기반의 차선 검출 방법에 관한 연구                      = A Study on the Detection Method of Lane Based on Deep Learning for Autonomous Driving,박승준 ( Seung-jun Park ),한국산업융합학회(The Korean Society of Industrial Application),2020,"['Deep learning', 'Faster R-CNN', 'Machine learning', 'Support vector machine', 'Unmanned vehicle']"
+차량 거동기반 Minimal Risk Condition 판단 방법을 활용한 운전 지원용 자율주행 기술 개발에 관한 연구,김봉섭(Bong-Seob Kim),한국자동차공학회,2020,"['Minimal Risk Condition(최소위험상태)', 'Autonomous Vehicles(자율주행자동차)', 'Vehicles Data(차량데이터)', 'Driver State(운전자상태)', 'Departed Driver Rescue &amp', 'Exit Maneuver(DDREM)']"
+GPS 를 이용한 차량 자율주행 보조 및 제어                      = A Study of making connected car using GPS,전한결 ( Beom Seok Park ),한국정보처리학회,2020,
+GPS 주행 및 초음파센서 회피기동 드론 시스템                      = GPS Driving and Ultrasonic Sensors Evasive Maneuvering Drone System,김세훈 ( Se-hun-kim ),한국정보처리학회,2020,
+ISO/PAS 21448 표준을 고려한 군집주행의 VENTOS 시뮬레이션                      = VENTOS Simulation for Platoon Driving Considering ISO/PAS 21448 Standard,김영재 ( Youngjae Kim ),한국정보처리학회,2020,
+임베디드 강화학습을 이용한 험지 자율주행,문재영(Jae-Young Moon),한국정보과학회,2020,
+비대면교육 환경에서 AI기반 자율주행 자동차 구현에 관한 연구,전주현(Ju-Hyun Jeon),한국조명·전기설비학회,2020,
+태양광 패널 청소를 위한 보행형 자율주행 로봇 제어시스템 개발,김진각(JinGahk Kim),대한기계학회,2020,"['보행형(Walking Type)', '진공 흡착(Vacuum Absorption)', '태양광 패널(Solar Panel)']"
+[국문번역문] 미국의 알고리즘 도구 규제,Christopher S. Yoo,서울대학교 공익산업법센터,2020,"['digitalisation(디지털화)', 'criminal law(형법)', 'accepted risk(위험의 수용)', 'autonomous systems(자율주행시스템)', 'road traffic (도로 교통)', 'robots(로봇)', 'chatbot(챗봇)']"
+임베디드 자율주행을 위한 Autoware 병렬화 프레임워크,박재승(Jaeseung Park),한국정보과학회,2020,
+자율주행 제어권 전환 상황이 생리신호에 미치는 영향 (예비 분석)                      = Impact of Take-Over Events on Drivers’ Physiological Responses in a Level 3 Autonomous Vehicle (Preliminary Analysis),박명옥,한국감성과학회(Korean Society for Emotion&Sensibility),2020,"['Autonomous Vehicle', 'Take-over', 'Drivers’ Physiological Responses']"
+[스마트시티와 자율주행 모빌리티] 한국판 뉴딜과 스마트시티 교통 솔루션 실행방안,김태형,한국교통연구원(KOTI),2020,
+[스마트시티와 자율주행 모빌리티] 자율주행 성능검증 인증체계 조기 구축,김규옥,한국교통연구원(KOTI),2020,
+군집 주행을 위한 센서퓨전 기반 객체 검출,지민구(Mingoo Ji),한국자동차공학회,2020,"['Sensor Fusion(센서퓨전)', 'Platooning(군집주행)', 'Autonomous Driving(자율주행)', 'Embedded System(임베디드 시스템)', 'Object Detection(객체 인지)']"
+Fail-Operational 자율주행을 위한 이중 카메라 시스템 설계 및 분석,장재성(Jaesung Jang),한국자동차공학회,2020,"['Autonomous Driving (자율주행)', 'Dual Camera (이중카메라)', 'Object Detection (객체인식)', 'Fail Operational (페일오퍼레이셔널)', 'ISO 26262 (자동차기능안전)']"
+스케일 트럭 군집주행 테스트베드,이현규(Hyeongyu Lee),한국자동차공학회,2020,"['Autonomous Driving(자율주행)', 'Platooning(군집주행)', 'Scale Truck(스케일트럭)', 'Testbed(테스트베드)', 'Lane Keeping(차선유지)', 'Object Tracking(물체추종)']"
+우천환경 객체 검출 기반 자율주행 RC카,"박영욱, 김하은, 유시은, 유준혁","대구대학교 정보통신연구소(Computer & Communication Research Center, Daegu University)",2020,
+자율주행 차량을 위한 채널 적응형 주파수 동기화 방법,이영윤(Youngyoon Lee),대한전자공학회,2020,
+자율주행 시뮬레이터를 이용한 차량 객체 Ground Truth 자동 생성,장재성(Jaesung Jang),한국자동차공학회,2020,"['Carla Simulator(자율주행 시뮬레이터)', 'Deep Learning(딥러닝)', 'Object Detection(객체 인식)', 'Autonomous Driving(자율주행)']"
+자율주행 자동발렛주차용 시스템반도체에서의 로컬 인터커넥션 네트워크 특성 연구,연규봉(KyuBong Yeon),대한전자공학회,2020,

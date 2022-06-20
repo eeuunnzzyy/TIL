@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+자율운항선박 원격운항자 도입을 위한 사례연구,박상원,한국항해항만학회,2020,
+자율주행 YT 개발을 위한 다중 센서 기반의 융합 인식기술,김태근,한국항해항만학회,2020,
+한국형 자율협력주행차량의 도입 방향성에 관한 연구,이승필,한국항해항만학회,2020,
+가상환경기반 부분자율주행 운전능력평가를 위한 시뮬레이터 개발,김승학,한국ITS학회,2020,"['Autonomous car', 'Self-driving car', 'VTD', 'Safety', 'Verification', 'virtual environment', 'Simulator']"
+ETRI의 지능로보틱스 연구,김재홍,한국로봇학회,2020,
+로봇 부품의 변화: 단순 기능성 부품에서 지능 융합 부품으로,황정훈,한국로봇학회,2020,
+자율주행차의 안전과 사회적 수용성 확보 방안,김규옥,한국교통연구원(KOTI),2020,
+뉴비지니스 대응을 위한 통합 자동차 인테리어 부품 연구,곽성복(Seungbok Kwak),한국자동차공학회,2020,"['Autonomous-Driving(자율주행)', 'Interior-Part(내장부품)', 'Design(디자인)', 'New-Business(신사업)']"
+Frenet Frame에서 가변하는 최대속도를 고려한 속도 프로파일 생성,김윤정(Yunjeong Kim),한국자동차공학회,2020,"['Velocity Profile(속도 프로파일)', 'Velocity Generation(속도 생성)', 'Smooth Path Generation(완만한 경로 생성)', 'Autonomous Vehicle(자율주행차)', 'Maximum Velocity(최대 속도)', 'Frenet Frame(프레넷 프래임)']"
+자율주행 자동차를 위한 시간경계 기반 차로 변경 기법,박진영(Jinyoung Park),한국자동차공학회,2020,"['Lane Change(차로변경)', 'Risk Assessment(위험판단)', 'Collision Avoidance(충돌회피)', 'Time Boundary Based(시간경계기반)', 'Autonomous Vehicle(자율주행)', 'Path Generation(경로생성)']"
+정밀지도 기반 경로계획을 위한 정밀지도 에디터에 관한 연구,심영보(Youngbo Shim),한국자동차공학회,2020,"['HD Map(정밀지도)', 'Vector Map(벡터맵)', 'Map Editor(지도 편집기)', '자율주행 자동차(Autonomous Vehicle)', 'Path Planning(경로계획)']"
+궤도차량의 자율주행을 위한 기하학적 항법 알고리즘 개발 : 보정계수를 이용한 Skid Steering과 Pure Pursuit의 융합,김정현(Jung-Hyun Kim),한국자동차공학회,2020,"['Geometric Path Tracking Method(기하학적 경로 추종 방법)', 'Compensation Coefficient(보정계수)', 'Skid Steering(미끄럼 조향)', 'Pure Pursuit', 'Tracked Vehicle(궤도차량)', 'Self-Driving(자율주행)']"
+자율주행차 기술 단계별 활용 서비스 분석 - 자율주행차 활용 산업/서비스 분류체계 기반으로,박선정,대한산업공학회(The Korean Institute of Industrial Engineers),2020,
+Development of an ERP-42 based autonomous driving system for the self-driving competition in K-city,Haegyeom Choi(최해겸),대한기계학회,2020,"['자율주행차(self-driving vehicle)', '케이시티(K-city)', '아커만 조향 차량(Ackermann steering vehicle)', '동적 이벤트(dynamic event)', '정적 이벤트(static event)']"
+도로 기하 정보를 적용한 다중 모델 기반의 확률적인 차량 경로 예측,남기혜(Gihye Nam),한국자동차공학회,2020,"['vehicle behavior estimation(차량 행동 추정)', 'trajectory prediction(경로 예측)', 'probabilistic prediction(확률기반 예측)', 'interacting multiple model(IMM) filter(상호간섭 다중 모델)', 'curvilinear coordinate(곡선좌표)', 'autonomous vehicle(자율주행자동차)']"
+Carla 연동 자율주행 시나리오 편집기 개발,이신경(Shinkyung Lee),한국자동차공학회,2020,"['CARLA Scenariorunner', '시나리오 편집기(Scenario Editor)']"
+자율배송서비스를 위한 저해상도 LiDAR 기반 이동장애를 검출 및 추적,정지은(Jieun Jeong),한국자동차공학회,2020,"['LiDAR(라이다)', 'Object Detection(물체 검출)', 'Autonomous Vehicle(자율주행자동차)', 'Object Motion vector(물체 움직임 벡터)', 'Least Squares Method(최소 자승법)']"
+"자율주행, 데이터를 통해 완전 자율주행 준비하자!",송영기(Younggi Song),한국자동차공학회,2020,
+시뮬레이션 대비 실차 재현성 오차율 분석 방법 연구,이명수(Myungsu Lee),한국자동차공학회,2020,"['Autonomous Driving(자율주행)', 'Simulation(시뮬레이션)', 'Safety validation(차량 안전)', 'Verification (검증)', 'Virtual reality(가상현실)']"
+딥러닝을 활용한 NDT 기반 3D 포인트 클라우드 지도 생성 알고리즘,김수연(Suyeon Kim),한국자동차공학회,2020,"['Autonomous Vehicle(자율 주행 자동차)', 'Point cloud Map(포인트 클라우드 지도)', 'Deep Learning(딥러닝)', 'LiDAR(라이다)', 'Scan Matching(스캔 정합)']"
+자율주행 차량용 복합측위 모듈의 기만신호 대응을 위한 실차 평가 환경 구축 및 검증에 관한 연구,김성진(Sung-jin Kim),한국자동차공학회,2020,"['Autonomous Vehicle(자율주행 차량)', 'Complex Positioning Module(복합측위 모듈)', 'GPS Deception(GPS 기만)', 'Actual Vehicle Evaluation(실차평가)', 'jamming(재밍)']"
+크로스뷰 카메라-라이다 센서 융합 특징맵 생성을 통한 3D 물체 검출 기법,유진혁(Jin Hyeok Yoo),한국자동차공학회,2020,"['Autonomous Driving (자율주행)', '3D Object Detection (3D 물체 검출)', 'Sensor Fusion (센서 융합)', 'Computer Vision (영상 처리)', 'Deep Learning (딥러닝)']"
+MMS 기반 가상주행환경 모델 개발 및 자율주행 로직 성능평가 방법론에 대한 연구,이민기(Min-Ki Lee),한국자동차공학회,2020,"['Autonomous(자율주행)', 'Virtual Test Drive(가상주행환경)', 'MMS(모바일 맵핑 시스템)', 'HDMap(고정밀지도)', 'Physics sensor(물리센서)', 'Autoware(오토웨어)']"
+의미론적 포인트 클라우드 기반 적응형 물체 추적 기법,김소영(Soyeong Kim),한국자동차공학회,2020,"['Autonomous Driving(자율주행)', 'LiDAR(라이다)', 'Object Tracking(물체 추적)', 'Semantic Point Cloud(의미론적 포인트 클라우드)']"
+자율주행자동차 V2X 통신 기술 동향,조병찬(Byeongchan Jo),한국자동차공학회,2020,
+AI를 활용한 캠퍼스 시설관리 자율주행 플랫폼 개발,남택권(Taek-Gwon Nam),대한전기학회,2020,
+측면주사소나 특성에 따른 자율무인잠수정 기뢰탐색 효과도 분석                      = Analysis of the Effectiveness of Autonomous Unmanned Underwater Vehicle Mine Search Operation by Side Scan Sonar Characteristics,유태석,한국정보통신학회,2020,"['측면주사소나', '자율무인잠수정', '기뢰탐색', '탐색시간', '탐지확률', 'Side Scan Sonar', 'Autonomous Unmanned Vehicle', 'Mine hunting', 'Search time', 'Detection probability']"
+전역 경로의 곡선 예측 기반 자율주행차 횡방향 실차제어,박경욱(Kyeoungwook Park),한국자동차공학회,2020,"['Waypoint(경유점)', 'GPS(위성항법장치)', 'Least square method(최소제곱법)', 'Gobal path(전역경로)', 'Local path(지역경로)', 'Lateral control(횡방향제어)', 'Look ahead distance(전방주시거리)']"
+자율 주행차의 라이다 센서를 위한 Blockage 검출,이충면(Choongmyeon Lee),대한전기학회,2020,
+자율 주행 차량을 위한 Active Beacon 기반 운전자 음성 분리 타당성 연구,박정훈(Jeong-Hun Park),대한전기학회,2020,
+[교통 관련 보도자료 중계] 보도자료를 통해 본 주요교통뉴스,김동준,한국교통연구원(KOTI),2020,
+자율주행 집적단지 조성 기본 방향 연구,김영국(Youngkook KIM),한국교통연구원(KOTI),2020,
+도심 주거단지 연계형 자율주행셔틀 실증과 서비스 방향,문영준,한국교통연구원(KOTI),2020,
+자율주행기반 모빌리티 서비스 추진 방향,강경표,한국교통연구원(KOTI),2020,
+자율주행자동차의 안전기준과 향후 추진 방향,신재곤,한국교통연구원(KOTI),2020,
+주의 모듈 기반 Mask R-CNN 경량화 모델을 이용한 도로 환경 내 객체 검출 방법                      = Object Detection on the Road Environment Using Attention Module-based Lightweight Mask R-CNN,송민수,한국방송∙미디어공학회,2020,"['object detection', 'deep convolutional neural networks', 'lightweight model', 'attention module', 'road environment', '.']"
+신조(新造) 발주 집중될 친환경 선박분야 경쟁 현황과 향후 전망,정기대,포스코경영연구원,2020,
+이산요소법과 다물체 동역학의 통합 해석 프로그램 Xdynamics 개발                      = Development of Xdynamics Program for Integrated Analysis of Multibody Dynamics and the Discrete Element Method,전철웅,대한기계학회,2020,"['Discrete Element Method', 'Multibody Dynamics', 'Computer Simulation', 'Particle Dynamics', '이산요소법', '다물체 동역학', '컴퓨터 시뮬레이션', '입자 동역학']"
+정밀 도로지도 정보를 활용한 자율주행 하이브리드 제어 전략                      = Hybrid Control Strategy for Autonomous Driving System using HD Map Information,유동연,사단법인 유공압건설기계학회,2020,"['자율주행', '경로 추종 알고리즘', '정밀 도로지도', 'Pure-Pursuit 제어기', 'Stanley 제어기', 'Autonomous Driving', 'Path Tracking Algorithm', 'HD Map', 'Pure-Pursuit', 'Stanley Controller']"
+이벤트 소싱과 CQRS 패턴을 활용한 데이터 재현 및 분산처리 사례 및 연구 동향                      = Case Studies and Trends in Data Reproduction and Distributed Processing using Event Sourcing and CQRS Pattern,한상곤,한국정보과학회,2020,"['이벤트 소싱', 'CQRS', '분산 시스템', 'event sourcing', 'CQRS', 'logging', 'distributed system']"
+정밀 도로지도 정보를 활용한 자율주행 하이브리드 제어 전략,유동연(Dongyeon Yu),유공압건설기계학회,2020,"['Autonomous Driving(자율주행)', 'Path Tracking Algorithm(경로 추종 알고리즘)', 'HD Map(정밀 도로지도)', 'Pure-Pursuit Controller(Pure-Pursuit 제어기)', 'Stanley Controller(Stanley 제어기)']"
+자율 주행차 운전자의 역할 변화에 따른 조작부 디자인 연구,변영준(Youngjun Byun),한국디자인학회,2020,"['Autonomous Vehicle', 'Control System Deign', 'Mobility Design']"
+차량용 자율주행시스템 구성을 위한 전원 스위칭 모듈 설계,임현주(Lim Hyunjoo),전력전자학회,2020,
+미니트램 자율주행을 위한 주행로 주변환경 영상인식,김백현,대한전기학회,2020,
+대용량 BRT의 자율주행을 위한 GIS기반의 경로 및속도계획 생성에 관한 연구                      = A Study of Path and Velocity Planning based on GIS for Autonomous High Occupancy BRT,윤혁진,한국철도학회,2020,"['High occupancy BRT', 'Autonomous vehicle', 'Public transport', 'Operational path', 'Path and velocity plan', '대용량 BRT', '자율주행', '대중교통', '전역경로', '경로 및 속도계획']"
+Deformable convolutional network를 기반으로 한 Mask R-CNN,김민종(Minjong Kim),한국데이터정보과학회,2020,"['딥러닝', 'deformable convolutional network', 'mask R-CNN', '객체탐색', 'Deep learning', 'object detection']"
+신규 운송서비스에 대한 사회적 수용 모델                      = A Study on the Social Acceptance Model for New Mobility Service,곽수환,한국경영컨설팅학회,2020,"['운송서비스', '모빌리티', '사회적 수용', 'New Mobility', 'Social Acceptance', 'Acceptance Model']"
+비정형 환경 대응 이동식 자율 작업 로봇 개발                      = Development of a Mobile Autonomous Manipulation Robot for Non-Structured Environments,김정중,대한기계학회,2020,"['Autonomous Operation', 'Autonomous Navigation', 'Mobile Manipulator', 'Non-Structured Environment', '자율 작업', '자율 주행', '모바일 매니퓰레이터', '비정형 환경']"
+[교통 관련 보도자료 중계] 보도자료를 통해 본 주요교통뉴스,김동준,한국교통연구원(KOTI),2020,
+자율주행자동차와 정보통신,신재곤,한국정보통신설비학회,2020,

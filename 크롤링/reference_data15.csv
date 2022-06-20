@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+자율주행차의 운행가능영역 및 기능 선정에 관한 연구,"박재홍(Park, Jeahong)",대한토목학회,2021,"['미래도로', '자율주행차', '운행가능영역', '자율주행 기능', 'AHP']"
+가상환경 기반 자율주행 운전능력 평가방안 연구,"김중효(Kim, Joong Hyo)",대한토목학회,2021,"['자율주행 운전능력', '도로교통법', '가상현실', '자율주행 시험평가 도구', 'UC win-Road']"
+자율주행 전용차로 설치에 따른 연속류 도로용량 산정을 위한 시나리오 개발 연구,"김형준(Kim, Hyeong Jun)",대한토목학회,2021,"['자율주행 전용차로', '자율주행자동차', '도로용량']"
+자율협력주행을 위한 도로 인프라 대응 사례 및 시사점,"김수희(Kim, Soo Hee)",대한토목학회,2021,"['자율주행', '자율협력주행', '도로 인프라', 'CRCS']"
+AI 기반 미래교통수단 운전능력시험평가단지 단계별 구축방안 연구,"박민철(Park, Min Chul)",대한토목학회,2021,"['자율주행', '시설구축', '평가단지', '도로교통법', 'PG(Proof Grooving)']"
+비계층적 군집분석을 활용한 교통불평등 지역의 공간적 특성에 관한 연구,채오성,대한교통학회,2021,
+자율주행과 연관된 산업의 부가가치에 대한 고찰,최병호,대한교통학회,2021,
+자율주행 전용차로 설치에 따른 연속류 도로용량 산정 연구,김형준,대한교통학회,2021,
+AI 기반 강화학습 신호제어를 통한 인접 교차로 옵셋 최적화,이효선,대한교통학회,2021,
+도시부 자율주행셔틀 운행을 위한 도로 등급화 방법론 개발: 판교제로시티를 중심으로,서영훈,대한교통학회,2021,
+자율주행차량의 수준에 따른 운전자 행동 거동 분석,"김도현(Kim, Do Hyeon)",대한토목학회,2021,"['자율주행차량', '운전 행동 의식', '인식 요소', '인적 요소']"
+Extended Kalman Filter 기반 Side Slip Angle 추정 및 이를 기반한 차량의 횡방향 Sliding Mode Control 설계,최민성(M. S. Choi),Korean Society for Precision Engineering,2021,"['Electronic stability control', 'Side slip angle estimation', 'Extended kalman filter', 'Vehicle control', 'Sliding mode control']"
+캔 버스 통신 보안 위협 및 기술 동향                      = CAN Bus Security Threats and Technology Trends,이민우 ( Min-woo Lee ),한국정보처리학회,2021,
+상용 요트 모듈화 장치 추가 설치를 통한 자율주행과 편의 기능에 대한 방법                      = Method for autonomous driving and convenience functions by installing additional modular devices on commercial yachts,이민혁,한국정보처리학회,2021,
+자율주행 기술 수용에 미치는 미디어 효과와 유희성의 매개 역할,전종우,한국PR학회,2021,
+자율주행 차량의 경로 추종 제어기로서의 반복 LQR 제어기의 GPU 를 통한 병렬화,이영석(Y. S. Lee),Korean Society for Precision Engineering,2021,"['Autonomous vehicle', 'Tracking control', 'Iterative LQR', 'Nonlinear model predictive control', 'GPU parallelization']"
+FE Simulation 을 이용한 BIS 백 프레임 모듈의 경량화 방안,김봉구(B. G. Kim),Korean Society for Precision Engineering,2021,"['FE simulation', 'Lightweight', 'Belt-in-seat', 'Seat back frame', 'FMVSS']"
+과수농장 자율주행을 위한 AI 기반 인식 시스템 개발,장가람(G. R. Jang),Korean Society for Precision Engineering,2021,"['Autonomous driving', 'Semantic segmentation', 'Recognition']"
+무인수거차량 작업자 안전을 위한 인식 시스템 연구,이상준(S. J. Lee),Korean Society for Precision Engineering,2021,"['Worker detection', 'Deep learning', 'Sensor fusion', 'Point cloud mapping']"
+전단모드형 MR 효과를 이용한 디버링 장치의 설계에 관한 연구,박중호(J. H. Park),Korean Society for Precision Engineering,2021,"['Deburring', 'Magnetorheological fluid', 'Electromagnetic field analysis', 'Shear mode', 'Permanent magnet']"
+해시체인 기법을 이용한 메시지 기반의 CAN 보안 알고리즘,장현준(H. J. Jang),Korean Society for Precision Engineering,2021,"['CAN bus', 'Network', 'Encryption', 'Hash chain']"
+AI기반 미래교통수단 시험평가단지 구축 타당성 평가를 위한 편익항목 도출에 관한 연구,"전진숙(Jeon, Jinl Suk)",대한토목학회,2021,"['AI', '미래교통수단', '자율주행차', '타당성 평가', '편익항목']"
+AI 기반 미래교통수단 운전능력시험평가 단지 구축방안 기본설계,"김중효(Kim, Joong Hyo)",대한토목학회,2021,"['자율주행 운전능력', '운전면허', 'Stability', 'Safety', 'Safe in Use', 'PG(Proof Grooving)']"
+자율주행 차량용 모듈형 In-Vehicle 통신 시스템에 관한 연구,이동주,한국ITS학회,2021,"['Autonomous vehicle', 'In-Vehicle communication system', 'End-to-End', 'sensor data']"
+자율주행차 HVI 사용성평가 방안에 관한 탐색적 연구,강보영,한국경영과학회,2021,
+문자 행렬 지도 기반의 타일 격자무늬 추적 자율주행 로봇,김정주(Jung-Ju Kim),대한전기학회,2021,"['Autonomous mobile robot', 'Computer vision', 'Image processing', 'Grid pattern tracking robot', 'Character matrix map']"
+깃허브를 이용한 혁신 생태계 분석 : 자율주행 사례를 바탕으로,김인조,대한산업공학회(The Korean Institute of Industrial Engineers),2021,
+깃허브를 이용한 혁신 생태계 분석 : 자율주행 사례를 바탕으로,김인조,한국경영과학회,2021,
+자율주행을 위한 실시간 객체 검출기의 신경망 전환,지민구(Mingoo Ji),한국정보과학회,2021,
+라이다 및 이미지 센서를 이용한 실내 자율주행 이동체 구현,조혜원(Hye-Won Jo),한국정보과학회,2021,
+모바일 자율주행 로봇을 위한 저비용 차선 인식 및 제어 알고리즘,장현수(Hyensoo Jang),한국정보과학회,2021,
+자율주행 차량 데이터 분석 및 시각화 도구 설계 및 구현,김유리(Yuri Kim),한국정보과학회,2021,
+안전한 Autoware 자율주행을 위한 혼합 컨트롤러 모델,전해주(Hejoo Jeon),한국정보과학회,2021,
+시맨틱 얼굴 변형을 이용한 심층신경망 공격과 강건성 향상                      = Semantic Face Transformations for Attacking Deep Neural Networks and Improving Robustness,장기림,한국정보과학회,2021,"['deep neural networks', 'semantic face transformation', 'perturbations', 'robustness training', '심층신경망', '시맨틱 얼굴 변형', '교란', '강건성 훈련']"
+자율주행 자동차 내 보편적 사용자경험을 위한 대안적 인터페이스 유형 분석 - 청각장애 운전자를 위한 비청각적 모달리티를 중심으로                      = Analysis of Interface Types for Universal User Experience in Self-driving Car - Focused on Non-auditory Modality for Hearing Impaired Driver,변재형,인제대학교 디자인연구소,2021,"['Hearing Impaired Driver', 'Interface', 'Universal User Experience', '청각장애운전자', '인터페이스', '보편적 사용자경험']"
+도로 거칠기와 차량의 승객 상태를 활용한 DSJS(Driving Situation Judgment System) 설계,손수락(Su-Rak Son),한국정보전자통신기술학회,2021,"['Dangerous situation Judgement', 'Deep neural network', 'Passenger recognition', 'Road roughness classification', 'Suspension pressure']"
+자율협력주행을 위한 차량 주변 위치에 따른 통신 영역 연구,김진섭,한국ITS학회,2021,"['차량 주변 위치', '자율협력주행', '지역 예측', '패킷 재전송', '통신프로토콜']"
+자율주행자동차에 대한 도로이용자 수용성 요인 탐색,정미경,한국ITS학회,2021,
+자율주행 무인우체국 서비스 공로 실증 및 이용자 반응,김영국,한국ITS학회,2021,
+판교제로시티 자율주행 개방 데이터 소개 및 활용 방안,정소영,한국ITS학회,2021,"['자율주행 데이터', 'loT 데이터', '자율협력주행', '스마트시티']"
+도로와 자율주행,이준,한국도로학회,2021,
+자율주행 차량 데이터 유통 플랫폼에 대한 연구,강장묵(Kang Jang Mook),한국정보기술학회,2021,"['Autonomous Vehicle', 'blockchain', 'DID', 'Data']"
+Jetbot을 이용한 노인 홈케어 제품 구현에 관한 연구,이진희(Jinhee Lee),한국정보기술학회,2021,"['Jetbot', 'Heart Rate', 'Nursing worker', 'the aged']"
+학습 데이터 사진 보정을 통한 GPU 기반의 소형 무선 임베디드 궤륜 차량의 Resnet18 을 이용한 자율주행 성능 개선,정명민(Myungmin Jeong),대한기계학회,2021,
+무인이동체의 자율주행을 위한 경로계획 기법,신종호(Jongho Shin),대한기계학회,2021,
+멀티채널 LiDAR 센서 기반 차량 검출 플랫폼을 위한 효율적인 저전력 신호처리 기법                      = Efficiency Low-Power Signal Processing for Multi-Channel LiDAR Sensor-Based Vehicle Detection Platform,정태원,한국정보통신학회,2021,"['LiDAR 센서', '임베디드 시스템', '병렬 처리', '저전력 신호 처리', 'LiDAR sensor', 'Embedded system', 'Parallel processing', 'Low-power signal processing']"
+학생기자단 취재리포트,이지원,대한국토·도시계획학회,2021,
+임베디드 예측제어 기술 동향 및 전망,김광기(Kwangki Kim),대한전기학회,2021,
+자율 주행 차량 내 음성 에이전트 발화 지점과 탑승 경험의 관계 분석,조유인(Yooin Cho),한국디자인학회,2021,"['Voice Ignition Point', 'Autonomous Vehicle', 'User Experience']"
+자율 주행/전기자동차를 위한 자기 센서 연구동향,이형만,대한금속재료학회,2021,

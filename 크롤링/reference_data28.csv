@@ -1,0 +1,51 @@
+title,저자,발행기관,발행연도,핵심어
+자율주행을 위한 차량제어시스템의 구성,강도욱(Do-Wook Kang),대한전자공학회,2020,
+도시내 다양한 야간 조명 환경에 강인한 자율주행 알고리즘 개발을 위한 데이터 증강 기법,강정규(Jungyu Kang),대한전자공학회,2020,
+자율협력주행 구현을 위한 사물인식형 도로 장애물 검지 기술 개발,"양충헌(YANG, Choongheon)",대한교통학회,2020,
+자율주행 차량의 Fault-Tolerant 시뮬레이션 사례를 통한 도심 비행 수직 이착륙기 파워넷 아키텍처에 관한 연구,천은(Eun Cheon),대한전자공학회,2020,
+자율주행 차량을 위한 라이다 센서의 멀티 레이어 클러스터링 알고리즘,이영원(Yeongwon Lee),대한전자공학회,2020,
+자율주행셔틀 서비스를 위한 서비스 관리 기능 개발,이상우(Sangwoo Lee),대한전자공학회,2020,
+주행가능영역 기반 네비게이션 지도를 이용한 자율주행 지역경로 생성 방법,조용우(Yongwoo Jo),대한전자공학회,2020,
+자율주행 시뮬레이션 상 주행가능영역 정보생성 기능 개발,이정우(Jeong-Woo Lee),대한전자공학회,2020,
+자율주행 차량의 인식 및 판단시스템을 위한 학습용 데이터셋 수집,김주영(Jooyoung Kim),대한전자공학회,2020,
+스마트폰을 결합하여 사용하는 스마트 토이 설계 및 제작                      = Design and Fabrication of the Smart Toy Combined with a Smart Phone,서성진,대한기계학회,2020,"['Motion Recognition', 'Voice Recognition', 'Artificial Intelligence', 'Automatic Driving', 'UI/UX(user interface/user experience)', '동작 인식', '음성 인식', '인공지능', '자율 주행', '사용자 인터페이스/사용자 경험']"
+자율주행 자동차에서 DNN 기반 안전 필수 응용의 성능 저하 방지                      = Avoiding Performance Degradation of DNN based Safety-Critical Applications in Autonomous Vehicles,김도영,대한전자공학회,2020,"['Deep neural network', 'Safety-critical', 'Multi-DNN', 'Priority scheduling', 'Latency']"
+V2I 통신을 지원하는 CSVF 시스템 모델 연구                      = A Study on CSVF System Model providing V2I Communications,이민수,차세대컨버전스정보서비스학회,2020,"['CSVF', 'CMVF', 'V2I', 'RSU', '가상 펜스', 'CSVF', 'CMVF', 'V2I', 'RSU', 'Virtual Fence']"
+UNECE 자동차 국제기준 월간 동향 (21),임종순(Jong Soon Lim),한국자동차공학회,2020,
+ITU-T SG17에서의 차량 통신 및 ITS 보안 국제 표준화 동향,이상우(Sang-Woo Lee),한국정보보호학회(KOREA INSTITUTE OF INFORMATION SECURITY AND CRYPTOLOGY),2020,
+최신토목뉴스,황태성,대한토목학회,2020,
+Development of a CNN-based autonomous driving algorithm for an air duct cleaning robot,S. Yi(이사랑),한국소성가공학회,2020,"['Air duct (공조 덕트)', 'Autonomous (자율주행)', 'Deep learning (딥 러닝)', 'Duct cleaning (덕트 청소)', 'Convolutional neural networks (합성곱 신경망)']"
+확률적 시나리오 생성 모델 기반 자율주행 알고리즘 개발 자동화,유동연(Dongyeon Yu),한국자동차공학회,2020,"['Autonomous Driving(자율주행)', 'ADAS(Advanced Driver Assistance System', '첨단 운전자 보조 시스템)', 'Driving Scenario(주행 시나리오)', 'Stochastic Model(확률적 모델)', 'Automation(자동화)']"
+자율주행 차량의 Cut-out 상황에서의 안전성 평가를 위한 실차 실험 기반의 메타모델 개발,이서항(Seohang Lee),한국자동차공학회,2020,"['ADAS vehicle(ADAS차량)', 'Evaluation system(평가시스템)', 'Critical Cases(사고 위험 상황)', 'Vehicle test(실차 시험)', 'Simulation(시뮬레이션)', 'MetaModeling(메타모델 개발)']"
+자율 주행 환경을 고려한 스마트 도어트림 디자인 연구,이재용(Jaeyong Lee),한국자동차공학회,2020,"['Autonomous-Driving(자율주행)', 'Smart(Smart)', 'Doortrim(도어트림)', 'Design(디자인)']"
+폴더블 스티어링 휠,김윤수(Yunsu Kim),한국자동차공학회,2020,"['Steering Wheel(스티어링 휠)', 'Automatic Driving(자율주행)', 'Autnomoys Vehicle(자율주행 차)', 'ACSF(Autonomous Cruise Steering Function)', 'Foldable(폴더블)']"
+다중 원격 사용자를 위한 자율주행차 개발 환경,최진(Jin Choi),한국정보과학회,2020,
+교차로 자율주행 지원을 위한 동적정보 설계 제안,김형수,한국정보통신설비학회,2020,"['automated driving', 'LDM(Local Dynamic Map)', 'ODD(Operational Design Domain)', 'C-ITS(Cooperative Intelligent Transport Systems)']"
+자율주행 자동차 서비스를 위한 강화학습 기반 서비스 체이닝 오프로딩 결정 방안,이민경(Minkyung Lee),한국정보과학회,2020,
+실내 문서 전달 자율주행 카트 개발을 위한 객체 인지 및 충돌 방지 모듈 개발,이재빈(Jaebeen Lee),한국정보과학회,2020,
+혁신적인 자율주행차량 변속기 효율 개선을 위한 모델링 연구,박종명(Jong Myung Park),한국HCI학회,2020,"['변속기', '웜기어', '자율주행차량']"
+자율주행 차량 내 콘텐츠 이용 방식과 상황의 위급성에 따른 정보 제공 방식 제안,김태년(Kim Taenyun),한국HCI학회,2020,"['자율주행 자동차', '위급성', '다중감각', '정보 제공방식', '클러스터링']"
+자율주행 자동차의 발전에 따른 서비스 플렛폼의 변화,장영은(Youngeun Jang),한국HCI학회,2020,"['자율 주행 자동차', '서비스', '예상 시나리오']"
+자율주행 시 운전자의 감정 변화에 대한 연구,심상용(Sangyong Sim),한국HCI학회,2020,"['자율 주행', '감정', '교행 차량', '운전 시뮬레이터']"
+적응적 고정 소수점 양자화를 이용한 경량화된 자율주행용 물체 인식기 구현,김성래(Sung-Rae Kim),대한전기학회,2020,
+연결된 사물인터넷 환경에서의 CMF 디자인 모델 제안,허정철(Jeong-Cheol Heo),한국HCI학회,2020,"['CMF', '사물인터넷', '연결성']"
+자율주행 SW 스택을 위한 태스크 위상 스케줄링 프레임워크,최영준(Youngjoon Choi),한국정보과학회,2020,
+자율주행 컴퓨팅 시스템을 위한 확률적 응답시간 분석,이효은(Hyoeun Lee),한국정보과학회,2020,
+인공지능과 빅데이터 분석 기반 통합보안관제시스템 구축방안에 관한 연구                      = A Study on the Establishment of Enterprise Security Management System Based on Artificial Intelligence and Big Data Analysis,배재권,한국로고스경영학회,2020,"['Convergence Security', 'Artificial Intelligence', 'Big Data Analysis', 'Machine Learning', 'Enterprise Security Management System', '보안관제', '융합보안', '인공지능', '보안빅데이터', '통합보안관제시스템']"
+발명체험교육관 발명교육프로그램 개발을 위한 학생과 발명교사의 교육요구도 분석                      = Analysis of Educational Needs of Invention Students and Teachers For the Development of Invention Education Program of The Invention Experience Education Center,최유현,한국기술교육학회,2020,"['Analysis of Educational Needs', 'The Invention Experience Education Center', 'Invention Education Program', '발명체험교육관', '교육요구도', '발명교육프로그램', '학생용', '교사용']"
+ROS(Robot Operating System) 기반 자율주행 배송 플랫폼 아키텍쳐 설계,손영광(Younggwang Son),한국자동차공학회,2020,"['Autonomous Delivery Platform (자율 배송 플랫폼)', 'Autonomous Vehicle (자율주행 자동차)', 'Robot Operation System']"
+UNECE 자동차 국제기준 월간 동향 (17),임종순(Jong Soon Lim),한국자동차공학회,2020,
+[해외통신원 소식] 자율주행 차량의 등장과 미래 교통의 변화,장성훈,한국교통연구원(KOTI),2020,
+충북대학교 자율주행차연구실,기석철,한국자동차공학회,2020,
+[교통 관련 보도자료 중계] 보도자료를 통해 본 주요교통뉴스,김동준,한국교통연구원(KOTI),2020,
+자율주행자동차 V2V 통신환경에서의 DoS 공격 및 대응기술 동향 연구,이숭영(Sung-young Lee),한국정보보호학회(KOREA INSTITUTE OF INFORMATION SECURITY AND CRYPTOLOGY),2020,
+제한적 자율주행에서의 제어권 전환을 위한 청각 사용자 인터페이스 가이드라인 설계                      = Auditory user interface design guidelines for control transitions in the conditional self-driving phase,남궁기찬,차세대컨버전스정보서비스학회,2020,"['제어권 전환', '청각 사용자 인터페이스', '제어권 인수', '제어권 이양', '제한적 자율주행', 'control transitions', 'auditory user interface', 'take-over', 'hand-over', 'conditional self-driving']"
+[교통 관련 보도자료 중계] 보도자료를 통해 본 주요교통뉴스,김동준,한국교통연구원(KOTI),2020,
+(수정판)일본의 스마트농업 정책: 그 실태와 함의,이정환,GS&J 인스티튜트,2020,
+주차 보조 시스템을 위한 ECU 설계                      = Design of Electronic Control Unit for Parking Assist System,최진혁,한국전기전자학회,2020,"['ECU', 'CPU', 'RISC-V', 'CAN', 'LIN', 'SPI', 'UART', 'I2C']"
+라이다 임베디드 프로세서를 위한 동적 객체인식 아키텍처 구현                      = Dynamic Object Detection Architecture for LiDAR Embedded Processors,정민우,아이씨티플랫폼학회,2020,"['Object Detection', 'Embedded Processors', 'LiDAR', 'Architecture', 'Autonomous Vehicle']"
+레벨3 자율주행자동차의 제어권 전환 반응 사례 연구,이예쁜(Yeppeun Lee),한국자동차공학회,2020,"['Automated driving(자율주행)', 'Take-Over Requests(제어권 전환 요청)', 'Reaction time(제어권 전환 반응 시간)', 'Transition strategies(제어권 전환 전략)']"
+자율 주행 환경 변화 대응 스마트 도어트림 기술 연구,김광섭(Kwangseub Kim),한국자동차공학회,2020,"['Door(도어)', 'Autonomous driving(자율주행)', 'Display(디스플레이)', 'Lighting(조명)']"
+자율주행용 센서 공도 실증 방법 연구,이승민(Seungmin Lee),한국자동차공학회,2020,"['RADAR(레이다)', 'LiDAR(라이다)', 'ISO/PAS 21448(Road vehicles ? Safety of the intended functionality)', 'Autonomous Driving(자율주행)', 'ADAS(첨단운전자보조시스템)', 'NHTSA(미국 도로교통안전국)', 'Monte-Carlo Simulation(몬테카를로시뮬레이션)', 'Test Protocol(시험 프로토콜)', 'AEB(긴급자동제동장치)', 'ACC(적응형순항제어장치)', 'False Positive(오작동)']"
+저가형 Camera sensor를 이용한 자율주행 Trailer hitch angle 검출,장성빈(Sung Been Jang),한국자동차공학회,2020,"['Autonomous Vehicle(자율주행자동차)', 'Truck-Trailer system(트레일러시스템)', 'Autonomous Trailer(자율주행트레일러)', 'Camera(카메라)']"
+최적 시변 슬라이딩 모드 초평면에 의한 자율주행 정지 시스템,강태원(Tae Won Kang),한국자동차공학회,2020,"['Vehicle Longitudinal Control(차량 종방향 제어)', 'Stop System(정지 시스템)', 'Time-varying Sliding Hyperplane(시변 슬라이딩 초평면)', 'Sliding Mode Controller(슬라이딩 모드 제어기)']"
